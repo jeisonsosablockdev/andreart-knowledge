@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MarketingTaskSession",
+  "description": "Plantilla estándar para el seguimiento, descomposición y encadenamiento de tareas de marketing en AndreArt.",
+  "session_id": "fashion-skills-integration",
+  "created_at": "2026-11-07T05:32:12.400Z",
+  "updated_at": "2026-11-07T05:35:31.861Z",
+  "status": "completed",
+  "intent": {
+    "raw_prompt": "fashion-skills-integration",
+    "business_goal": "Integrar suite de diseno de modas, sastreria y textil en MarketingAgentCore",
+    "target_icp": "Direccion Creativa y Produccion Textil Andreart",
+    "constraints": [
+      "100% Afirmativo",
+      "No destructivo",
+      "Arquitectura two-tier de skills"
+    ],
+    "brand_context_verified": true
+  },
+  "workflows_chained": [
+    "SKILL IMPORT",
+    "SKILL ADAPTATION",
+    "ACTIVATION & VERIFICATION"
+  ],
+  "atomic_tasks": [
+    {
+      "id": "TASK-001",
+      "title": "Importar skills upstream (fashion-designer, tailor, textile-engineer)",
+      "workflow": "SKILL IMPORT",
+      "skills": [
+        "none"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "none"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "none"
+        ]
+      },
+      "output": {
+        "vault_path": "MarketingAgentCore/imported-skills",
+        "format": "markdown",
+        "summary": "Skills upstream descargados en MarketingAgentCore/imported-skills (fashion-designer, tailor, textile-engineer)"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Skill Import",
+        "Revisión y formato verificados"
+      ]
+    },
+    {
+      "id": "TASK-002",
+      "title": "Adaptar fashion-designer a la estetica y moldes de Andreart",
+      "workflow": "SKILL ADAPTATION",
+      "skills": [
+        "fashion-designer"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "TASK-001"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "TASK-001"
+        ]
+      },
+      "output": {
+        "vault_path": "MarketingAgentCore/skills/fashion-designer",
+        "format": "markdown",
+        "summary": "Skill fashion-designer creado con principios de Urban Fantasy Haute Couture, molderia adaptable y guias de deconstruccion"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Skill Adaptation",
+        "Revisión y formato verificados"
+      ]
+    },
+    {
+      "id": "TASK-003",
+      "title": "Adaptar tailor a sastreria conceptual y molderia adaptable",
+      "workflow": "SKILL ADAPTATION",
+      "skills": [
+        "tailor"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "TASK-001"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "TASK-001"
+        ]
+      },
+      "output": {
+        "vault_path": "MarketingAgentCore/skills/tailor",
+        "format": "markdown",
+        "summary": "Skill tailor creado con especificaciones de patronaje adaptable XS-XL y guia de confeccion de Hakama"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Skill Adaptation",
+        "Revisión y formato verificados"
+      ]
+    },
+    {
+      "id": "TASK-004",
+      "title": "Adaptar textile-engineer a telas nobles y clima Bogota",
+      "workflow": "SKILL ADAPTATION",
+      "skills": [
+        "textile-engineer"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "TASK-001"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "TASK-001"
+        ]
+      },
+      "output": {
+        "vault_path": "MarketingAgentCore/skills/textile-engineer",
+        "format": "markdown",
+        "summary": "Skill textile-engineer creado con matriz textil, criterios de gramaje y guia de ensayos en taller"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Skill Adaptation",
+        "Revisión y formato verificados"
+      ]
+    },
+    {
+      "id": "TASK-005",
+      "title": "Activar skills en sistema y verificar idempotencia",
+      "workflow": "ACTIVATION & VERIFICATION",
+      "skills": [
+        "enable-project-skills"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "TASK-002",
+        "TASK-003",
+        "TASK-004"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "TASK-002",
+          "TASK-003",
+          "TASK-004"
+        ]
+      },
+      "output": {
+        "vault_path": "MarketingAgentCore/scripts/enable-project-skills.sh",
+        "format": "markdown",
+        "summary": "Skills activados con enable-project-skills.sh y documento maestro registrado en vault"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Activation & Verification",
+        "Revisión y formato verificados"
+      ]
+    }
+  ],
+  "metrics_and_measurement": {
+    "primary_kpi": "Tasa de conversión / resultado",
+    "baseline_value": "N/A",
+    "target_value": "A definir",
+    "tracking_plan_path": "08 Analytics & Measurement/",
+    "final_notes": "Suite de diseno de moda, sastreria y seleccion textil integrada y validada con exito"
+  }
+}
