@@ -7,7 +7,7 @@ skills_used:
   - "tailor"
   - "textile-engineer"
 status: active
-version: "1.4"
+version: "1.5"
 created_at: 2026-11-07
 updated_at: 2026-11-07
 collection_name: "Kokusen"
@@ -73,7 +73,7 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 | Pieza | Tipología | Silueta y Porte | Textil Recomendado | Moldería Adaptable | SKU |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Chaqueta Cuello Chimenea Kokusen** | Prenda Superior Insignia (Chaqueta) | Corte relajado, cuello alto tipo chimenea con ojaletes y tanca regulable, tapeta frontal oculta y volumen contenido en bajo | Sarga técnica de algodón peinado pesada (310 GSM) con forro completo en satín negro azabache de alta densidad | Hombro caído, holgura ergonómica en sisa y sistema de tancas regulables en cuello y cintura (XS a XL) | `ANDR-KOK-CHQ-01` |
-| **Pantalón Globo Plisado Kokusen** | Prenda Inferior Insignia (Pantalón Bombacho) | Silueta globo/balloon de tiro alto con pretina sastre, pasadores de cinturón, pliegues frontales profundos y bota recogida en tobillo con puño elástico fruncido | Gabardina/sarga pesada fluida de algodón peinado (280-300 GSM) con alta recuperación y fondos de bolsillo en satín negro | Pretina híbrida sastre (frontal plana con pasadores, posterior elástica con lazos interiores) y puños elásticos en bota | `ANDR-KOK-PAN-01` |
+| **Pantalón Globo Plisado Kokusen** | Prenda Inferior Insignia (Pantalón Bombacho) | Silueta globo/balloon de tiro alto con cintura encauchada fruncida (sin cinturón ni pasadores), pliegues frontales profundos y bota recogida en tobillo con puño elástico fruncido | Gabardina/sarga pesada fluida de algodón peinado (280-300 GSM) con alta recuperación y fondos de bolsillo en satín negro | Cintura encauchada adaptable de alta densidad con elástico fruncido y cordón interno de graduación (XS a XL), puños elásticos en bota | `ANDR-KOK-PAN-01` |
 
 ---
 
@@ -146,13 +146,13 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 • **Tolerancias de Confección:** $\pm 0.5\text{ cm}$ en costuras estructurales; dobladillos de manga limpios.
 
 ### 5.2. Pantalón Globo Plisado Kokusen (`ANDR-KOK-PAN-01`)
-• **Construcción y Arquitectura de Silueta (Bombacho Sastre):**
-  - **Pretina:** Pretina alta estructurada (4.5 cm de ancho) con botón sastre al tono, cremallera delantera oculta bajo bragueta limpia y pasadores reforzados para cinturón formal de 3 a 3.5 cm.
-  - **Plisado Frontal:** Doble pliegue/pinza profunda hacia el interior (3.5 cm de profundidad por pliegue) en cada pernera, generando una apertura volumétrica redondeada, orgánica y amplia a lo largo de muslos y pantorrillas.
+• **Construcción y Arquitectura de Silueta (Bombacho Sastre con Cintura Encauchada):**
+  - **Cintura Encauchada (Sin Cinturón):** Cintura alta encauchada con pretina fruncida elástica de 4.5 a 5 cm de ancho confeccionada en el tejido principal, con banda elástica interior de alta resiliencia y cordón sastre plano de ajuste oculto en el interior. Elimina por completo pasadores y cinturón exterior para una silueta de combate pura, fluida y confortable.
+  - **Plisado Frontal:** Doble pliegue/pinza profunda hacia el interior (3.5 cm de profundidad por pliegue) en cada pernera que nace directamente bajo el encauchado de la cintura, generando una apertura volumétrica redondeada, orgánica y amplia a lo largo de muslos y pantorrillas.
   - **Pernera Curva Balloon:** Patronaje curvo que maximiza la libertad de movimiento, garantizando cero tirantez al sentarse o caminar en largas jornadas de oficina.
   - **Bota y Puño de Tobillo:** Terminación en puño elástico fruncido ancho (*gathered elastic cuff*) de 4 cm que ciñe con suavidad el tobillo, logrando que el tejido caiga abullonado y escultural sobre botines o zapatillas.
 • **Forro y Acabados Interiores:** Fondos de bolsillo delantero profundos integrados a la costura y bolsillos traseros de doble vivo limpio, confeccionados 100% en satín negro azabache de alta densidad.
-• **Sistema de Ajuste Multitalle:** Pretina híbrida con frontal liso sastre y sección dorsal con elástico interior regulable para ajuste impecable desde XS hasta XL.
+• **Sistema de Ajuste Multitalle:** Cintura encauchada continua de alta memoria con fruncido homogéneo en contorno completo (360°), adaptable sin deformación desde XS hasta XL.
 • **Especificación Textil:** Gabardina pesada o sarga fluida de algodón peinado (280-300 GSM) con torsión cerrada, excelente caída con peso gravitacional y alta resistencia a las arrugas.
 
 ---
@@ -160,19 +160,19 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 ## 👔 6. Guía de Estilismo: De la Oficina al Día a Día
 
 ### Look Diario de Oficina / Lunes a Jueves (Sastrería Monocromática Escultural)
-• **Prenda Inferior:** Viste el **Pantalón Globo Plisado Kokusen** ceñido a la cintura con un cinturón sobrio de cuero negro. Combínalo con una camisa de cuello nerú o un jersey fino de cuello cisne fajado por dentro para resaltar la arquitectura de los pliegues frontales.
+• **Prenda Inferior:** Viste el **Pantalón Globo Plisado Kokusen** asentado a la cintura natural con su pretina encauchada limpia. Combínalo con una camisa de cuello nerú o un jersey fino de cuello cisne fajado por dentro para resaltar el fruncido sastre y la arquitectura de los pliegues frontales.
 • **Porte de la Chaqueta:** Lleva la **Chaqueta Kokusen** abierta o con la cremallera semiabierta hasta la altura del pecho. El cuello chimenea se abre hacia los costados emulando una solapa sastre moderna.
 • **Calzado:** Botines de cuero negro con punta fina o tacón de bloque, o botines Chelsea limpios. El puño elástico en el tobillo permite que el pantalón caiga abullonado y fluido sobre la caña del botín sin arrastrar ni acumular tela de forma descuidada. La lectura en el entorno corporativo o creativo es la de un dos piezas vanguardista de sastrería sobria y corte impecable.
 
 ### Look Diario Casual / Viernes Urbano (El Arquetipo Itadori al Descubierto)
 • **Porte de la Chaqueta:** Sube la cremallera al 100% cubriendo el cuello y mandíbula, y ajusta ligeramente las tancas para marcar la silueta de combate característica del personaje.
-• **Porte del Pantalón:** El puño elástico fruncido permite posicionar la bota justo en el tobillo o subirla un par de centímetros sobre la pantorrilla para un look táctico y dinámico.
+• **Porte del Pantalón:** La cintura encauchada otorga libertad de movimiento absoluta, mientras que el puño elástico fruncido permite posicionar la bota justo en el tobillo o subirla un par de centímetros sobre la pantorrilla para un look táctico y dinámico.
 • **Calzado Insignia de Estilismo:** Zapatillas de baloncesto retro **Air Jordan 5 Retro "Red Suede"** en gamuza roja carmesí (`references/refe-calzado-jordan-5-red-suede.jpg`), con lengüeta plateada reflectiva y tanca de cordones. Las prendas de la colección se mantienen rigurosamente 100% monocromáticas en negro azabache, proyectando la silueta de combate de Yuji Itadori con la sobriedad y madurez de una pieza de alta sastrería.
 
 ---
 
 ## 🚀 7. Hoja de Ruta de Producción y Lanzamiento Comercial
-1. **Patronaje y Muestra Cero:** Confección de prototipo en taller para validación de calce multitalle XS-XL en el sistema de pretina híbrida del pantalón y la sisa de la chaqueta.
+1. **Patronaje y Muestra Cero:** Confección de prototipo en taller para validación de calce multitalle XS-XL en el sistema de cintura encauchada del pantalón y la sisa de la chaqueta.
 2. **Pruebas de Caída Textil:** Ensayo de frote, recuperación de arrugas tras jornada laboral sentada y estabilidad del cuello chimenea al lavado.
 3. **Producción de Activos Visuales:**
    - Generación de carruseles de estilismo "De la oficina al fin de semana" con `create-social-carousel.sh`.
@@ -182,6 +182,7 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.5 (2026-11-07):** Rediseño de la cintura del Pantalón Globo Plisado: eliminación de pasadores y cinturón exterior; incorporación de cintura encauchada estructurada de 4.5 a 5 cm con banda elástica de alta densidad, cordón interior de ajuste y fruncido sastre en contorno continuo (360°), potenciando la comodidad ergonómica y el calce multitalle.
 - **v1.4 (2026-11-07):** Integración de calzado de estilismo oficial: zapatillas Air Jordan 5 Retro "Red Suede" (`references/refe-calzado-jordan-5-red-suede.jpg`), estableciendo el contraste carmesí de autor sobre el conjunto Total Black.
 - **v1.3 (2026-11-07):** Depuración y consolidación de galería: eliminación de croquis y bocetos descartados de pantalones rectos y chaquetas con capucha previas; consolidación de los activos definitivos del conjunto Kokusen (Pantalón Globo Plisado + Chaqueta Cuello Chimenea).
 - **v1.2 (2026-11-07):** Reemplazo de silueta de pantalón recto por el **Pantalón Globo Plisado Kokusen (Bombacho)** con pretina sastre, pinzas frontales profundas y puños elásticos fruncidos sobre botines, capturando con fidelidad la silueta de combate de Yuji Itadori para uso en oficina.

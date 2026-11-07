@@ -36,7 +36,7 @@ export interface CollectionReference {
 export const COLLECTION_INFO = {
   name: 'Kokusen',
   slug: 'kokusen',
-  version: '1.4',
+  version: '1.5',
   updatedAt: '2026-11-07',
   season: 'Atemporal / Clima Frío y Montaña (Bogotá)',
   concept: 'Deconstrucción sastre del uniforme de combate de Yuji Itadori (Jujutsu Kaisen, Shinjuku Showdown) y la técnica Kokusen',
@@ -58,7 +58,7 @@ export const GARMENTS: CollectionGarment[] = [
     sku: 'ANDR-KOK-PAN-01',
     category: 'Prenda Inferior Insignia (Pantalón Bombacho)',
     textile: 'Gabardina fluida de algodón peinado (280-300 GSM) con fondos de bolsillo en satín negro',
-    fit: 'Tiro alto con pretina sastre, pasadores, doble pliegue profundo y puños elásticos fruncidos en tobillo'
+    fit: 'Tiro alto con cintura encauchada fruncida (sin cinturón ni pasadores), cordón interior de ajuste, doble pliegue profundo y puños elásticos fruncidos en tobillo'
   }
 ];
 
@@ -70,7 +70,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'figurine',
     garment: 'Pantalón Globo Plisado Kokusen',
     view: 'pasarela',
-    description: 'Figurín de autor protagónico mostrando en exclusiva el Pantalón Globo Plisado con top fajado y zapatillas Air Jordan 5 Retro Red Suede en gamuza carmesí.',
+    description: 'Figurín de autor protagónico mostrando en exclusiva el Pantalón Globo Plisado con cintura encauchada (sin cinturón), top fajado y zapatillas Air Jordan 5 Retro Red Suede en gamuza carmesí.',
     sourceReference: './references/refe-pantalon-globo-01.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true
@@ -118,7 +118,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'flat-technical',
     garment: 'Pantalón Globo Plisado Kokusen',
     view: 'delantera',
-    description: 'Croquis plano frontal del Pantalón Globo con pretina sastre, pasadores, botón, doble pliegue y puños elásticos.',
+    description: 'Croquis plano frontal del Pantalón Globo con cintura encauchada fruncida (sin cinturón), cordón interior, doble pliegue y puños elásticos.',
     sourceReference: './references/refe-pantalon-globo-01.jpg',
     status: 'active',
     approved: true
@@ -130,7 +130,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'flat-technical',
     garment: 'Pantalón Globo Plisado Kokusen',
     view: 'trasera',
-    description: 'Croquis plano dorsal del Pantalón Globo con pretina trasera con pasadores, pinzas de entalle y doble vivo.',
+    description: 'Croquis plano dorsal del Pantalón Globo con cintura encauchada fruncida continua, pinzas de entalle y doble vivo.',
     sourceReference: './references/refe-pantalon-globo-01.jpg',
     status: 'active',
     approved: true
