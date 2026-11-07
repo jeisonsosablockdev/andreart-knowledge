@@ -75,6 +75,18 @@ export const ASSETS: Record<string, CollectionAsset> = {
     status: 'active',
     approved: true
   },
+  '01-sketch-figurin-chaqueta': {
+    id: '01-sketch-figurin-chaqueta',
+    filename: '01-sketch-figurin-chaqueta.jpg',
+    path: './assets/01-sketch-figurin-chaqueta.jpg',
+    category: 'figurine',
+    garment: 'Chaqueta Cuello Chimenea Kokusen',
+    view: 'pasarela',
+    description: 'Figurín de autor protagónico mostrando en exclusiva la Chaqueta Kokusen con cuello chimenea (11 cm), cremallera metálica continua, tancas carmesí, bolsillos diagonales y capota integrada.',
+    sourceReference: null,
+    status: 'active',
+    approved: true
+  },
   '01-sketch-personaje-frente': {
     id: '01-sketch-personaje-frente',
     filename: '01-sketch-personaje-frente.jpg',
@@ -141,8 +153,20 @@ export const ASSETS: Record<string, CollectionAsset> = {
     path: './assets/08-foto-realista-kokusen-hero.jpg',
     category: 'editorial',
     garment: 'Conjunto Kokusen',
-    view: 'editorial-lookbook',
+    view: 'editorial-lookbook-mujer',
     description: 'Fotografía editorial ultra-realista con modelo hispana/latina sobre sinfín azul estudio sin humo y pose Yuji Itadori, conjunto Kokusen con cintura encauchada y Air Jordan 5 Retro Red Suede.',
+    sourceReference: './references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
+    status: 'active',
+    approved: true
+  },
+  '09-foto-realista-kokusen-hombre': {
+    id: '09-foto-realista-kokusen-hombre',
+    filename: '09-foto-realista-kokusen-hombre.jpg',
+    path: './assets/09-foto-realista-kokusen-hombre.jpg',
+    category: 'editorial',
+    garment: 'Conjunto Kokusen',
+    view: 'editorial-lookbook-hombre',
+    description: 'Fotografía editorial ultra-realista con modelo masculino hispano con corte undercut sobre ciclorama sinfín azul estudio impecable (cero humo), pose de combate Yuji Itadori con mano en el bolsillo, vistiendo el conjunto Kokusen completo y zapatillas Air Jordan 5 Retro Red Suede.',
     sourceReference: './references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true

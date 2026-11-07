@@ -38,6 +38,18 @@
       "approved": true
     },
     {
+      "id": "01-sketch-figurin-chaqueta",
+      "filename": "01-sketch-figurin-chaqueta.jpg",
+      "path": "./assets/01-sketch-figurin-chaqueta.jpg",
+      "category": "figurine",
+      "garment": "Chaqueta Cuello Chimenea Kokusen",
+      "view": "pasarela",
+      "description": "Figurín de autor protagónico mostrando en exclusiva la Chaqueta Kokusen con cuello chimenea (11 cm), cremallera metálica continua, tancas carmesí, bolsillos diagonales y capota integrada.",
+      "source_reference": null,
+      "status": "active",
+      "approved": true
+    },
+    {
       "id": "01-sketch-personaje-frente",
       "filename": "01-sketch-personaje-frente.jpg",
       "path": "./assets/01-sketch-personaje-frente.jpg",
@@ -103,8 +115,20 @@
       "path": "./assets/08-foto-realista-kokusen-hero.jpg",
       "category": "editorial",
       "garment": "Conjunto Kokusen",
-      "view": "editorial-lookbook",
+      "view": "editorial-lookbook-mujer",
       "description": "Fotografía editorial ultra-realista de estudio con modelo de apariencia hispana/latina sobre ciclorama sinfín azul estudio impecable (cero humo), pose de combate Yuji Itadori con una mano en el bolsillo, vistiendo el conjunto Kokusen completo con pantalón de cintura encauchada y zapatillas Air Jordan 5 Retro 'Red Suede'.",
+      "source_reference": "./references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg",
+      "status": "active",
+      "approved": true
+    },
+    {
+      "id": "09-foto-realista-kokusen-hombre",
+      "filename": "09-foto-realista-kokusen-hombre.jpg",
+      "path": "./assets/09-foto-realista-kokusen-hombre.jpg",
+      "category": "editorial",
+      "garment": "Conjunto Kokusen",
+      "view": "editorial-lookbook-hombre",
+      "description": "Fotografía editorial ultra-realista con modelo masculino hispano con corte undercut sobre ciclorama sinfín azul estudio impecable (cero humo), pose de combate Yuji Itadori con mano en el bolsillo, vistiendo el conjunto Kokusen completo y zapatillas Air Jordan 5 Retro 'Red Suede'.",
       "source_reference": "./references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg",
       "status": "active",
       "approved": true

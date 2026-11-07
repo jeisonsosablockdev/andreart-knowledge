@@ -78,17 +78,27 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 ---
 
 ## 📸 4.0. Fotografía Editorial Realista (Lookbook Hero)
+
+### Lookbook Hero: Modelo Femenina Hispana
 ![[01 Brand Context/Colecciones/Kokusen/assets/08-foto-realista-kokusen-hero.jpg]]
-*Fotografía Editorial Realista (Lookbook Hero):* Modelo de apariencia hispana/latina luciendo el conjunto Kokusen completo en estudio de alta costura sobre fondo sinfín azul estudio impecable (cero humo): blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), cremallera central continua metálica, tancas carmesí y capota integrada, combinado con el nuevo Pantalón Globo Plisado Kokusen v1.5 con cintura encauchada fruncida (sin cinturón) en postura inspirada en Yuji Itadori con una mano en el bolsillo, descansando sobre las zapatillas de autor **Air Jordan 5 Retro "Red Suede"** en gamuza roja escarlata con lengüeta reflectiva 3M.
+*Fotografía Editorial Realista (Mujer):* Modelo de apariencia hispana/latina luciendo el conjunto Kokusen completo en estudio de alta costura sobre fondo sinfín azul estudio impecable (cero humo): blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), cremallera central continua metálica, tancas carmesí y capota integrada, combinado con el nuevo Pantalón Globo Plisado Kokusen v1.5 con cintura encauchada fruncida (sin cinturón) en postura inspirada en Yuji Itadori con una mano en el bolsillo, descansando sobre las zapatillas de autor **Air Jordan 5 Retro "Red Suede"** en gamuza roja escarlata con lengüeta reflectiva 3M.
+
+### Lookbook Hero: Modelo Masculino Hispano (Corte Undercut)
+![[01 Brand Context/Colecciones/Kokusen/assets/09-foto-realista-kokusen-hombre.jpg]]
+*Fotografía Editorial Realista (Hombre):* Modelo masculino de apariencia hispana/latina con corte undercut texturizado en los laterales y nuca, encarnando la versión de alta costura de Yuji Itadori en postura marcial erguida con la mano en el bolsillo del pantalón globo sobre fondo sinfín azul estudio sin humo, vistiendo el conjunto Kokusen completo y zapatillas **Air Jordan 5 Retro "Red Suede"**.
 
 ---
 
 ## 🎨 4.1. Figurines de Moda a Mano Alzada (Croquis de Taller)
 *Estilo de taller: Trazos visibles de grafito, tinta y aguada de acuarela sobre papel marfil (#F6F4EE) con sello oficial de autor Andreart.*
 
-### Figurín Individual: Pantalón Globo Plisado Kokusen (Protagónico)
+### Figurín Individual: Pantalón Globo Plisado Kokusen (Cintura Encauchada)
 ![[01 Brand Context/Colecciones/Kokusen/assets/01-sketch-figurin-pantalon-globo.jpg]]
-*Figurín de Autor (Pantalón Globo):* Modelo estilizada anime en pose erguida de pasarela luciendo en exclusiva el Pantalón Globo Plisado Kokusen en negro azabache (#0D0D0E): tiro alto con pretina sastre, pasadores, cinturón negro con hebilla sobria, pliegues frontales dobles profundos que abren un volumen curvo y fluido tipo bombacho/balloon, y puños elásticos fruncidos descansando sobre las zapatillas **Air Jordan 5 Retro "Red Suede"** en gamuza roja carmesí con lengüeta plateada reflectiva. Combinado con un top minimalista negro fajado para mantener el protagonismo absoluto en la arquitectura del pantalón.
+*Figurín de Autor (Pantalón Globo v1.5):* Modelo estilizada anime en pose erguida de pasarela luciendo en exclusiva el Pantalón Globo Plisado Kokusen en negro azabache (#0D0D0E): tiro alto con cintura encauchada fruncida elástica (5 cm) sin cinturón ni pasadores, pliegues frontales dobles profundos que abren un volumen curvo y fluido tipo bombacho/balloon, y puños elásticos fruncidos descansando sobre las zapatillas **Air Jordan 5 Retro "Red Suede"** en gamuza roja carmesí con lengüeta plateada reflectiva. Combinado con un top minimalista negro fajado para mantener el protagonismo absoluto en la arquitectura del pantalón.
+
+### Figurín Individual: Chaqueta Cuello Chimenea Kokusen (Protagónico)
+![[01 Brand Context/Colecciones/Kokusen/assets/01-sketch-figurin-chaqueta.jpg]]
+*Figurín de Autor (Chaqueta Kokusen):* Modelo estilizada anime luciendo en exclusiva la Chaqueta Técnica Kokusen con cuello chimenea estructurado (11 cm), cremallera metálica central continua visible hasta el borde superior con tirador, tancas tubulares carmesí (#D01E29) en cuello, bolsillos con tapeta en diagonal, pretina blouson y capota integrada reposando sobre la espalda, con llamadas caligráficas técnicas de autor.
 
 ### Figurín de Conjunto Completo Kokusen (Chaqueta + Pantalón Globo)
 ![[01 Brand Context/Colecciones/Kokusen/assets/01-sketch-personaje-frente.jpg]]
@@ -126,13 +136,15 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 
 | ID del Activo | Archivo en `assets/` | Tipología | Prenda / Pieza | Referencia Fuente |
 | :--- | :--- | :--- | :--- | :--- |
-| `01-sketch-figurin-pantalon-globo` | `01-sketch-figurin-pantalon-globo.jpg` | Figurín Protagónico | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
+| `01-sketch-figurin-pantalon-globo` | `01-sketch-figurin-pantalon-globo.jpg` | Figurín Protagónico | Pantalón Globo Plisado (Cintura Encauchada) | `references/refe-pantalon-globo-01.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
+| `01-sketch-figurin-chaqueta` | `01-sketch-figurin-chaqueta.jpg` | Figurín Protagónico | Chaqueta Cuello Chimenea Kokusen | Moldería atelier (Cuello 11 cm y Capota) |
 | `01-sketch-personaje-frente` | `01-sketch-personaje-frente.jpg` | Figurín Conjunto Completo | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-01.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
 | `04-sketch-chaqueta-frente` | `04-sketch-chaqueta-frente.jpg` | Plano Técnico (Delantero) | Chaqueta Cuello Chimenea Kokusen | Moldería atelier (Cuello 11 cm) |
-| `05-sketch-chaqueta-atras` | `05-sketch-chaqueta-atras.jpg` | Plano Técnico (Trasero) | Chaqueta Cuello Chimenea Kokusen | Moldería atelier (Canesú limpio) |
-| `06-sketch-pantalon-frente` | `06-sketch-pantalon-frente.jpg` | Plano Técnico (Delantero) | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` |
-| `07-sketch-pantalon-atras` | `07-sketch-pantalon-atras.jpg` | Plano Técnico (Trasero) | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` |
-| `08-foto-realista-kokusen-hero` | `08-foto-realista-kokusen-hero.jpg` | Editorial de Lookbook | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
+| `05-sketch-chaqueta-atras` | `05-sketch-chaqueta-atras.jpg` | Plano Técnico (Trasero) | Chaqueta Cuello Chimenea Kokusen | Moldería atelier (Canesú limpio y Capota) |
+| `06-sketch-pantalon-frente` | `06-sketch-pantalon-frente.jpg` | Plano Técnico (Delantero) | Pantalón Globo Plisado (Cintura Encauchada) | `references/refe-pantalon-globo-01.jpg` |
+| `07-sketch-pantalon-atras` | `07-sketch-pantalon-atras.jpg` | Plano Técnico (Trasero) | Pantalón Globo Plisado (Cintura Encauchada) | `references/refe-pantalon-globo-01.jpg` |
+| `08-foto-realista-kokusen-hero` | `08-foto-realista-kokusen-hero.jpg` | Editorial Lookbook (Mujer) | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
+| `09-foto-realista-kokusen-hombre` | `09-foto-realista-kokusen-hombre.jpg` | Editorial Lookbook (Hombre) | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
 
 ---
 
