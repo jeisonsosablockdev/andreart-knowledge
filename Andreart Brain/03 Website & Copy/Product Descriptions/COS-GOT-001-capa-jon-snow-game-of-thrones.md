@@ -1,16 +1,18 @@
 ---
-title: "Ficha de Producto Tienda Web: Capa Jon Snow (Game of Thrones)"
+title: "Ficha de Producto Tienda Web: Capa Medieval de Invierno con Cuello de Piel"
 category: "03 Website & Copy"
 workflow: "WF-COPY-PRODUCT"
 skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.4"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-GOT-001"
 price_cop: "250000"
+price_cercia: "$250.000 COP"
+price_bazar: "$250.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-capa-jon-snow-game-of-thrones"
 tags:
   - ecommerce
@@ -23,7 +25,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Ficha de Producto Tienda Web: Capa Jon Snow (Game of Thrones)
+# Ficha de Producto Tienda Web: Capa Medieval de Invierno con Cuello de Piel
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Ficha oficial de producto para tienda en línea de la **Capa Jon Snow Game of Thrones** (`COS-GOT-001`). Prenda exterior de invierno de silueta imponente inspirada en el Norte y la Guardia de la Noche, confeccionada en Bogotá con tela oscura de alto gramaje, cuello envolvente tipo piel y moldería unisex adaptable.
@@ -31,14 +33,15 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre en Tienda:** Disfraz Capa Jon Snow Game of Thrones
+- **Nombre en Tienda:** Traje Capa Medieval de Invierno con Cuello de Piel
 - **Línea:** Sagas & Universos Especiales / Capas y Sobretodos
 - **Código de Referencia (SKU):** `COS-GOT-001`
-- **Precio Oficial:** $250.000 COP
-- **Metatítulo:** `Capa Jon Snow Game of Thrones con Piel | Andreart` (49 caracteres)
+- **Precio Cercia:** $250.000 COP
+- **Precio Bazar Bogotá:** $250.000 COP
+- **Metatítulo:** `Traje Capa Medieval de Invierno con Piel | Andreart` (48 caracteres)
 - **Metadescripción:** `Capa medieval inspirada en Jon Snow con cuello de piel sintética premium y caída pesada. Confección artesanal en Bogotá con moldería adaptable XS a XL.` (152 caracteres)
 - **Metatags:** `capa jon snow, capa game of thrones bogota, capa medieval con piel, capa invernalia, cosplay game of thrones, sobretodo medieval bogota, andreart vestuario`
-- **URL Amigable (Slug):** `disfraz-capa-jon-snow-game-of-thrones`
+- **URL Amigable (Slug):** `traje-capa-jon-snow-game-of-thrones` (Slug actual en Cercia: `disfraz-capa-jon-snow-game-of-thrones`)
 - **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-capa-jon-snow-game-of-thrones`
 
 ---
@@ -79,5 +82,8 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.4 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.3 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
+- **v1.2 (2026-11-07):** Actualizar nombre comercial en tienda reemplazando Disfraz por Traje
 - **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-GOT-001`).

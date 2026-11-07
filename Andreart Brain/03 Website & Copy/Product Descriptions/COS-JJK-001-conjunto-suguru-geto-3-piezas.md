@@ -1,15 +1,18 @@
 ---
-title: "Ficha de Producto Tienda Web: Conjunto Suguru Geto (Kimono, Gojo Kesa, Falda Plisada y Hakama)"
+title: "Ficha de Producto Tienda Web: Conjunto Monje Geto (4 Piezas)"
 category: "03 Website & Copy"
 workflow: "WF-COPY-PRODUCT"
 skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: ready
-version: "1.2"
+version: "1.5"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-JJK-001"
+price_cop: "Por definir"
+price_cercia: "Por definir (Taller / Cotización)"
+price_bazar: "Por definir (Taller / Cotización)"
 tags:
   - ecommerce
   - ficha-producto
@@ -22,7 +25,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Ficha de Producto Tienda Web: Conjunto Suguru Geto (4 Piezas)
+# Ficha de Producto Tienda Web: Conjunto Monje Geto (4 Piezas)
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Ficha técnica y comercial para la tienda web del **Conjunto Suguru Geto** (*Jujutsu Kaisen*), compuesto por 4 piezas coordinadas: **Túnica kimono cruzada azul noche, Gojo kesa ceremonial verde esmeralda con brocado dorado, Falda plisada estructurada y Pantalón hakama**. Redactada en lenguaje claro, accesible y sensorial, con moldería adaptable de XS a XL, 100% lenguaje afirmativo, sin términos despectivos ni emojis.
@@ -30,12 +33,14 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre del Producto:** Conjunto Suguru Geto (Túnica Kimono, Gojo Kesa, Falda Plisada y Pantalón Hakama)
+- **Nombre del Producto:** Conjunto Monje Geto (Túnica Kimono, Gojo Kesa, Falda y Hakama - 4 Piezas)
 - **Línea:** Conjuntos Especiales & Urban Fantasy
 - **Código de Referencia (SKU Principal Cercia):** `COS-JJK-001`
 - **Código de Referencia Alternativo (Por Personaje):** `COS-GETO-001`
 - **Código de Referencia Línea Autor:** `ANDR-GETO-001`
-- **Metatítulo:** `Conjunto Suguru Geto Unisex 4 Piezas (Kimono, Kesa, Hakama) | Andreart` (67 caracteres)
+- **Precio Cercia:** Por definir (Taller / Cotización)
+- **Precio Bazar Bogotá:** Por definir (Taller / Cotización)
+- **Metatítulo:** `Conjunto Monje Geto Ceremonial 4 Piezas | Andreart` (50 caracteres)
 - **Metadescripción:** `Conjunto Suguru Geto unisex de 4 piezas: túnica azul noche, gojo kesa verde y oro, falda plisada y hakama. Confección en Bogotá con moldería adaptable XS a XL.` (157 caracteres)
 - **Metatags:** `conjunto suguru geto, cosplay jujutsu kaisen bogota, gojo kesa verde, tunica kimono suguru geto, cosplay anime bogota, hakama anime, andreart vestuario`
 - **URL Amigable (Slug):** `conjunto-suguru-geto-kimono-kesa-falda-hakama`
@@ -81,6 +86,9 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.5 (2026-11-07):** Actualizar nombres oficiales solicitados: Vestido blanco Leia (COS-SW-001), Traje Maestro de la Fuerza (COS-SW-002) y Conjunto Monje Geto (COS-JJK-001)
+- **v1.4 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.3 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
 - **v1.2 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.1 (2026-11-06):** Actualizar a conjunto de 4 piezas incorporando falda plisada, eliminar 'inteligente' dejando solo 'molderia' y remover encabezados H3
 - **v1.0 (2026-11-06):** Creación de ficha técnica, breve descripción, descripción completa y asignación de SKU (COS-JJK-001) para carga en tienda web basándose en la estructura del Conjunto Jedi (capa-jedi-obi-wan-ficha-tienda.md) con terminología de gojo kesa, 100% lenguaje afirmativo y cero emojis.

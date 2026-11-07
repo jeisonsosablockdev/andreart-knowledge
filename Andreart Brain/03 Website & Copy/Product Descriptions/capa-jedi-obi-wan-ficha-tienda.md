@@ -1,15 +1,18 @@
 ---
-title: "Ficha de Producto Tienda Web: Conjunto Jedi (Capa, Kimono y Obi)"
+title: "Ficha de Producto Tienda Web: Traje Maestro de la Fuerza (3 Piezas)"
 category: "03 Website & Copy"
 workflow: "WF-COPY-PRODUCT"
 skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: ready
-version: "1.7"
+version: "1.10"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-SW-002"
+price_cop: "Por definir"
+price_cercia: "Por definir (Taller / Cotización)"
+price_bazar: "Por definir (Taller / Cotización)"
 tags:
   - ecommerce
   - ficha-producto
@@ -20,7 +23,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Ficha de Producto Tienda Web: Conjunto Jedi (3 Piezas)
+# Ficha de Producto Tienda Web: Traje Maestro de la Fuerza (3 Piezas)
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Ficha técnica y comercial para la tienda web del **Conjunto Jedi**, compuesto por 3 piezas coordinadas: **Capa Jedi con capota, Kimono interior cruzado y Obi**. Redactada en lenguaje claro, directo y accesible, con moldería inteligente adaptable de XS a XL, 100% lenguaje afirmativo y sin términos rebuscados ni emojis.
@@ -28,12 +31,14 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre del Producto:** Conjunto Jedi (Capa, Kimono y Obi)
+- **Nombre del Producto:** Traje Maestro de la Fuerza (Capa, Kimono y Obi - 3 Piezas)
 - **Línea:** Conjuntos Especiales & Urban Fantasy
 - **Código de Referencia (SKU Principal Cercia):** `COS-SW-002` (Continuación oficial Star Wars en Cercia tras `COS-SW-001`)
 - **Código de Referencia Alternativo (Por Personaje):** `COS-JED-001`
 - **Código de Referencia Línea Autor:** `ANDR-JED-001`
-- **Metatítulo:** `Conjunto Jedi Unisex 3 Piezas (Capa, Kimono, Obi) | Andreart` (58 caracteres)
+- **Precio Cercia:** Por definir (Taller / Cotización)
+- **Precio Bazar Bogotá:** Por definir (Taller / Cotización)
+- **Metatítulo:** `Traje Maestro de la Fuerza 3 Piezas Unisex | Andreart` (53 caracteres)
 - **Metadescripción:** `Conjunto Jedi unisex de 3 piezas: capa con capota en café, kimono blanco y obi. Confección en Bogotá con moldería adaptable XS a XL. Sé tu propio héroe.` (155 caracteres)
 - **Metatags:** `conjunto jedi, capa jedi bogota, kimono jedi, traje star wars unisex, cosplay obi wan bogota, cosplay star wars bogota, capa con capota cafe, andreart vestuario`
 - **URL Amigable (Slug):** `conjunto-jedi-capa-kimono-obi`
@@ -78,6 +83,9 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.10 (2026-11-07):** Actualizar nombres oficiales solicitados: Vestido blanco Leia (COS-SW-001), Traje Maestro de la Fuerza (COS-SW-002) y Conjunto Monje Geto (COS-JJK-001)
+- **v1.9 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.8 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
 - **v1.7 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.6 (2026-11-06):** Homologar codigos SKU con la estructura oficial de Cercia: COS-SW-002 y COS-JED-001
 - **v1.5 (2026-11-06):** Ajustar apertura de descripción a 'de los maestros Jedi'

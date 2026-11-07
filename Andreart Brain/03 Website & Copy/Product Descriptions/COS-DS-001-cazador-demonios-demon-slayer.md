@@ -1,16 +1,18 @@
 ---
-title: "Ficha de Producto Tienda Web: Cazador de Demonios Completo (Demon Slayer)"
+title: "Ficha de Producto Tienda Web: Cazador de Demonios Completo (5 Piezas)"
 category: "03 Website & Copy"
 workflow: "WF-COPY-PRODUCT"
 skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.2"
+version: "1.5"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-DS-001"
 price_cop: "450000"
+price_cercia: "$450.000 COP"
+price_bazar: "$450.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-cazador-demonios-demon-slayer-completo"
 tags:
   - ecommerce
@@ -23,7 +25,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Ficha de Producto Tienda Web: Cazador de Demonios Completo (Demon Slayer)
+# Ficha de Producto Tienda Web: Cazador de Demonios Completo (5 Piezas)
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Ficha oficial de producto para tienda en línea del **Conjunto Cazador de Demonios Demon Slayer Completo** (`COS-DS-001`). Set integral de 5 piezas coordinadas (haori estampado, camisa de uniforme, pantalón bombacho, calentadoras y cinturón) confeccionado en Bogotá con moldería adaptable y acabados de autor.
@@ -31,14 +33,15 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre en Tienda:** Disfraz Cazador de Demonios Demon Slayer Completo
+- **Nombre en Tienda:** Traje Cazador de Demonios Completo (5 Piezas)
 - **Línea:** Sagas & Universos Especiales / Sets Completos de Animación
 - **Código de Referencia (SKU):** `COS-DS-001`
-- **Precio Oficial:** $450.000 COP
-- **Metatítulo:** `Conjunto Cazador de Demonios 5 Piezas Unisex | Andreart` (56 caracteres)
+- **Precio Cercia:** $450.000 COP
+- **Precio Bazar Bogotá:** $450.000 COP
+- **Metatítulo:** `Traje Cazador de Demonios 5 Piezas Unisex | Andreart` (49 caracteres)
 - **Metadescripción:** `Conjunto unisex de 5 piezas inspirado en Demon Slayer: haori, camisa, pantalón, polainas y cinturón. Confección en Bogotá con moldería adaptable XS a XL.` (154 caracteres)
 - **Metatags:** `cazador de demonios, cosplay demon slayer bogota, conjunto tanjiro, haori demon slayer, uniforme kimetsu no yaiba, cosplay anime bogota, andreart vestuario`
-- **URL Amigable (Slug):** `cazador-demonios-demon-slayer-completo` (Slug alternativo tienda: `disfraz-cazador-demonios-demon-slayer-completo`)
+- **URL Amigable (Slug):** `traje-cazador-demonios-demon-slayer-completo` (Slug actual en Cercia: `disfraz-cazador-demonios-demon-slayer-completo`)
 - **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-cazador-demonios-demon-slayer-completo`
 
 ---
@@ -83,6 +86,9 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.5 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.4 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
+- **v1.3 (2026-11-07):** Actualizar nombre comercial en tienda reemplazando Disfraz por Traje
 - **v1.2 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.1 (2026-11-07):** Incorporar metatítulo, metadescripción, slug y copies optimizados para Bazar Bogotá
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-DS-001`).

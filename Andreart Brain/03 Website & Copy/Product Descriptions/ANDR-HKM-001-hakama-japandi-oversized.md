@@ -6,11 +6,13 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.2"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "ANDR-HKM-001"
 price_cop: "250000"
+price_cercia: "$250.000 COP"
+price_bazar: "$250.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/pantalon-hakama-japandi-oversized-unisex"
 tags:
   - ecommerce
@@ -33,7 +35,8 @@ tags:
 - **Nombre en Tienda:** Hakama Japandi Oversized Unisex
 - **Línea:** Prenda Insignia / Moda de Autor Japandi
 - **Código de Referencia (SKU):** `ANDR-HKM-001`
-- **Precio Oficial:** $250.000 COP
+- **Precio Cercia:** $250.000 COP
+- **Precio Bazar Bogotá:** $250.000 COP
 - **Metatítulo:** `Pantalón Hakama Japandi Oversized Unisex | Andreart` (51 caracteres)
 - **Metadescripción:** `Pantalón hakama oversized de inspiración japonesa y diseño de autor. Confección en Bogotá con moldería adaptable XS a XL y caída pesada de gran presencia.` (155 caracteres)
 - **Metatags:** `pantalon hakama, hakama oversized, moda japandi bogota, pantalon japones unisex, moda de autor bogota, hakama contemporaneo, ropa alternativa bogota, andreart vestuario`
@@ -77,5 +80,6 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.2 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
 - **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`ANDR-HKM-001`).
