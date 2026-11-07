@@ -105,12 +105,12 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 ![[01 Brand Context/Colecciones/Kokusen/assets/05-sketch-chaqueta-atras.jpg]]
 *Chaqueta - Vista Trasera:* Espalda depurada con canesú sastre, hombros caídos, pretina fruncida elástica en el bajo y la capota integrada drapeada con volumen sastre sobre la parte superior de la espalda.
 
-### Pantalón Globo Plisado Kokusen (Silueta Bombacho de Alta Sastrería)
+### Pantalón Globo Plisado Kokusen (Silueta Bombacho con Cintura Encauchada)
 ![[01 Brand Context/Colecciones/Kokusen/assets/06-sketch-pantalon-frente.jpg]]
-*Pantalón Globo - Vista Delantera:* Croquis técnico a mano alzada mostrando pretina estructurada de tiro alto con pasadores, botón central, doble pliegue frontal profundo hacia el interior, volumen curvo bombacho/balloon y puños elásticos fruncidos en el tobillo sobre papel marfil con sello Andreart.
+*Pantalón Globo - Vista Delantera:* Croquis técnico a mano alzada mostrando cintura encauchada fruncida de tiro alto (sin pasadores ni cinturón), doble pliegue frontal profundo hacia el interior naciendo bajo el elástico, volumen curvo bombacho/balloon y puños elásticos fruncidos en el tobillo sobre papel marfil con sello Andreart.
 
 ![[01 Brand Context/Colecciones/Kokusen/assets/07-sketch-pantalon-atras.jpg]]
-*Pantalón Globo - Vista Trasera:* Croquis técnico a mano alzada mostrando pretina trasera con pasadores, pinzas de entalle anatómico, doble bolsillo de vivo horizontal limpio, holgura dorsal y puños elásticos en bota.
+*Pantalón Globo - Vista Trasera:* Croquis técnico a mano alzada mostrando cintura encauchada fruncida continua 360°, pinzas de entalle anatómico, doble bolsillo de vivo horizontal limpio con botón, holgura dorsal y puños elásticos en bota.
 
 ![[01 Brand Context/Colecciones/Kokusen/references/refe-pantalon-globo-01.jpg]]
 *Referencia de Diseño y Flat de Taller:* Silueta de tiro alto con pretina sastre formal, cinturón, pliegues frontales dobles profundos y bota recogida en tobillo sobre calzado cerrado. A la derecha, despiece en plano.
