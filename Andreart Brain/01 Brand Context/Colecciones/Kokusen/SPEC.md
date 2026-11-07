@@ -7,7 +7,7 @@ skills_used:
   - "tailor"
   - "textile-engineer"
 status: active
-version: "1.3"
+version: "1.4"
 created_at: 2026-11-07
 updated_at: 2026-11-07
 collection_name: "Kokusen"
@@ -54,7 +54,8 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 - **Base Estructural Atemporal:** Negro azabache (#0D0D0E) y Carbón profundo (#1C1D21) en tejido de sarga y gabardina con acabado mate sin reflejos.
 - **Atmósfera Interior:** Forro completo en satín negro azabache (#0A0A0B) de tacto sedoso tanto en el cuerpo de la chaqueta como en los fondos de bolsillo del pantalón.
 - **Herrajes y Fornituras:** Níquel pavonado negro mate en cremalleras, broches de presión ocultos y tancas de freno.
-- **Identidad Itadori:** 100% arquitectónica. No requiere detalles de color en el cuerpo de la prenda; la pertenencia al personaje se transmite exclusivamente a través del volumen, la altura y caída del cuello chimenea (con su discreto detalle de ojaletes y tanca) y el patronaje bombacho abullonado del pantalón globo recogido en los tobillos.
+- **Identidad Itadori:** 100% arquitectónica en las prendas. No requiere contrastes de color en el cuerpo del vestuario; la pertenencia al personaje se transmite exclusivamente a través del volumen, la altura y caída del cuello chimenea (con su discreto detalle de ojaletes y tanca) y el patronaje bombacho abullonado del pantalón globo recogido en los tobillos.
+- **Calzado Insignia de Estilismo (Contraste Carmesí Itadori):** Como elemento de estilismo icónico que corona el look urbano de pasarela, el conjunto se complementa con las zapatillas retro de baloncesto **Air Jordan 5 Retro "Red Suede"** en gamuza rojo escarlata (#D01E29), lengüeta plateada 3M reflectiva, seguro de cordones transparente y dientes de tiburón negros en la media suela (`references/refe-calzado-jordan-5-red-suede.jpg`). Los puños elásticos fruncidos del pantalón globo descansan holgados sobre la caña alta de los tenis, recreando con fidelidad insuperable el impacto visual del héroe.
 
 ---
 
@@ -78,7 +79,7 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 
 ## 📸 4.0. Fotografía Editorial Realista (Lookbook Hero)
 ![[01 Brand Context/Colecciones/Kokusen/assets/08-foto-realista-kokusen-hero.jpg]]
-*Fotografía Editorial Realista:* Modelo luciendo el conjunto Kokusen completo en estudio de alta costura: blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), tapeta con cremallera central y tancas en cuello, combinado con el nuevo Pantalón Globo Plisado Kokusen de tiro alto con pinzas profundas y puños elásticos fruncidos sobre botines de cuero negro.
+*Fotografía Editorial Realista:* Modelo luciendo el conjunto Kokusen completo en estudio de alta costura: blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), tapeta con cremallera central y tancas en cuello, combinado con el nuevo Pantalón Globo Plisado Kokusen de tiro alto con pinzas profundas y puños elásticos fruncidos sobre las zapatillas de baloncesto de autor **Air Jordan 5 Retro "Red Suede"** en rica gamuza roja escarlata, con lengüeta plateada reflectiva 3M y seguro de cordones transparente.
 
 ---
 
@@ -87,11 +88,11 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 
 ### Figurín Individual: Pantalón Globo Plisado Kokusen (Protagónico)
 ![[01 Brand Context/Colecciones/Kokusen/assets/01-sketch-figurin-pantalon-globo.jpg]]
-*Figurín de Autor (Pantalón Globo):* Modelo estilizada anime en pose erguida de pasarela luciendo en exclusiva el Pantalón Globo Plisado Kokusen en negro azabache (#0D0D0E): tiro alto con pretina sastre, pasadores, cinturón negro con hebilla sobria, pliegues frontales dobles profundos que abren un volumen curvo y fluido tipo bombacho/balloon, y puños elásticos fruncidos ceñidos sobre botines negros de punta fina. Combinado con un top minimalista negro fajado para mantener el protagonismo absoluto en la arquitectura del pantalón.
+*Figurín de Autor (Pantalón Globo):* Modelo estilizada anime en pose erguida de pasarela luciendo en exclusiva el Pantalón Globo Plisado Kokusen en negro azabache (#0D0D0E): tiro alto con pretina sastre, pasadores, cinturón negro con hebilla sobria, pliegues frontales dobles profundos que abren un volumen curvo y fluido tipo bombacho/balloon, y puños elásticos fruncidos descansando sobre las zapatillas **Air Jordan 5 Retro "Red Suede"** en gamuza roja carmesí con lengüeta plateada reflectiva. Combinado con un top minimalista negro fajado para mantener el protagonismo absoluto en la arquitectura del pantalón.
 
 ### Figurín de Conjunto Completo Kokusen (Chaqueta + Pantalón Globo)
 ![[01 Brand Context/Colecciones/Kokusen/assets/01-sketch-personaje-frente.jpg]]
-*Figurín de Pasarela (Look Completo):* Modelo estilizada anime luciendo el conjunto Kokusen total black definitivo: blouson técnico con cuello chimenea estructurado (11 cm), cremallera central con tancas en cuello, hombros caídos y el Pantalón Globo Plisado de tiro alto con puños elásticos sobre botines negros.
+*Figurín de Pasarela (Look Completo):* Modelo estilizada anime luciendo el conjunto Kokusen total black definitivo: blouson técnico con cuello chimenea estructurado (11 cm), cremallera central con tancas en cuello, hombros caídos y el Pantalón Globo Plisado de tiro alto con puños elásticos descansando sobre las zapatillas **Air Jordan 5 Retro "Red Suede"** en contraste carmesí de autor.
 
 ---
 
@@ -112,7 +113,10 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 *Pantalón Globo - Vista Trasera:* Croquis técnico a mano alzada mostrando pretina trasera con pasadores, pinzas de entalle anatómico, doble bolsillo de vivo horizontal limpio, holgura dorsal y puños elásticos en bota.
 
 ![[01 Brand Context/Colecciones/Kokusen/references/refe-pantalon-globo-01.jpg]]
-*Referencia de Diseño y Flat de Taller:* Silueta de tiro alto con pretina sastre formal, cinturón, pliegues frontales dobles profundos y bota recogida en tobillo sobre botines de cuero. A la derecha, despiece en plano.
+*Referencia de Diseño y Flat de Taller:* Silueta de tiro alto con pretina sastre formal, cinturón, pliegues frontales dobles profundos y bota recogida en tobillo sobre calzado cerrado. A la derecha, despiece en plano.
+
+![[01 Brand Context/Colecciones/Kokusen/references/refe-calzado-jordan-5-red-suede.jpg]]
+*Referencia Oficial de Calzado:* Zapatillas Air Jordan 5 Retro "Red Suede" en gamuza roja carmesí (#D01E29), lengüeta plateada reflectiva 3M, tanca de cordones transparente y dientes de tiburón negros en la media suela. Aporte clave de contraste dinámico para el arquetipo Itadori.
 
 ---
 
@@ -122,13 +126,13 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 
 | ID del Activo | Archivo en `assets/` | Tipología | Prenda / Pieza | Referencia Fuente |
 | :--- | :--- | :--- | :--- | :--- |
-| `01-sketch-figurin-pantalon-globo` | `01-sketch-figurin-pantalon-globo.jpg` | Figurín Protagónico | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` |
-| `01-sketch-personaje-frente` | `01-sketch-personaje-frente.jpg` | Figurín Conjunto Completo | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-01.jpg` |
+| `01-sketch-figurin-pantalon-globo` | `01-sketch-figurin-pantalon-globo.jpg` | Figurín Protagónico | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
+| `01-sketch-personaje-frente` | `01-sketch-personaje-frente.jpg` | Figurín Conjunto Completo | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-01.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
 | `04-sketch-chaqueta-frente` | `04-sketch-chaqueta-frente.jpg` | Plano Técnico (Delantero) | Chaqueta Cuello Chimenea Kokusen | Moldería atelier (Cuello 11 cm) |
 | `05-sketch-chaqueta-atras` | `05-sketch-chaqueta-atras.jpg` | Plano Técnico (Trasero) | Chaqueta Cuello Chimenea Kokusen | Moldería atelier (Canesú limpio) |
 | `06-sketch-pantalon-frente` | `06-sketch-pantalon-frente.jpg` | Plano Técnico (Delantero) | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` |
 | `07-sketch-pantalon-atras` | `07-sketch-pantalon-atras.jpg` | Plano Técnico (Trasero) | Pantalón Globo Plisado Kokusen | `references/refe-pantalon-globo-01.jpg` |
-| `08-foto-realista-kokusen-hero` | `08-foto-realista-kokusen-hero.jpg` | Editorial de Lookbook | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` |
+| `08-foto-realista-kokusen-hero` | `08-foto-realista-kokusen-hero.jpg` | Editorial de Lookbook | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
 
 ---
 
@@ -163,7 +167,7 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 ### Look Diario Casual / Viernes Urbano (El Arquetipo Itadori al Descubierto)
 • **Porte de la Chaqueta:** Sube la cremallera al 100% cubriendo el cuello y mandíbula, y ajusta ligeramente las tancas para marcar la silueta de combate característica del personaje.
 • **Porte del Pantalón:** El puño elástico fruncido permite posicionar la bota justo en el tobillo o subirla un par de centímetros sobre la pantorrilla para un look táctico y dinámico.
-• **Calzado y Estilismo Casual:** Calzado deportivo limpio o botines urbanos de suela estructurada. Las prendas de la colección se mantienen rigurosamente 100% monocromáticas en negro azabache, proyectando la silueta de combate de Yuji Itadori con la sobriedad y madurez de una pieza de alta sastrería.
+• **Calzado Insignia de Estilismo:** Zapatillas de baloncesto retro **Air Jordan 5 Retro "Red Suede"** en gamuza roja carmesí (`references/refe-calzado-jordan-5-red-suede.jpg`), con lengüeta plateada reflectiva y tanca de cordones. Las prendas de la colección se mantienen rigurosamente 100% monocromáticas en negro azabache, proyectando la silueta de combate de Yuji Itadori con la sobriedad y madurez de una pieza de alta sastrería.
 
 ---
 
@@ -178,6 +182,7 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.4 (2026-11-07):** Integración de calzado de estilismo oficial: zapatillas Air Jordan 5 Retro "Red Suede" (`references/refe-calzado-jordan-5-red-suede.jpg`), estableciendo el contraste carmesí de autor sobre el conjunto Total Black.
 - **v1.3 (2026-11-07):** Depuración y consolidación de galería: eliminación de croquis y bocetos descartados de pantalones rectos y chaquetas con capucha previas; consolidación de los activos definitivos del conjunto Kokusen (Pantalón Globo Plisado + Chaqueta Cuello Chimenea).
 - **v1.2 (2026-11-07):** Reemplazo de silueta de pantalón recto por el **Pantalón Globo Plisado Kokusen (Bombacho)** con pretina sastre, pinzas frontales profundas y puños elásticos fruncidos sobre botines, capturando con fidelidad la silueta de combate de Yuji Itadori para uso en oficina.
 - **v1.1 (2026-11-07):** Oficialización del nombre "Kokusen", ajuste de forros a negro total en ambas prendas y refinamiento de la guía de estilismo para oficina.

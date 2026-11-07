@@ -1,5 +1,5 @@
 /**
- * Collection Asset Barrel: Kokusen (v1.3)
+ * Collection Asset Barrel: Kokusen (v1.4)
  * AndreArt Vestuario - Urban Fantasy Haute Couture
  * 
  * Central entry point defining active assets, garments, and source references.
@@ -36,7 +36,7 @@ export interface CollectionReference {
 export const COLLECTION_INFO = {
   name: 'Kokusen',
   slug: 'kokusen',
-  version: '1.3',
+  version: '1.4',
   updatedAt: '2026-11-07',
   season: 'Atemporal / Clima Frío y Montaña (Bogotá)',
   concept: 'Deconstrucción sastre del uniforme de combate de Yuji Itadori (Jujutsu Kaisen, Shinjuku Showdown) y la técnica Kokusen',
@@ -70,8 +70,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'figurine',
     garment: 'Pantalón Globo Plisado Kokusen',
     view: 'pasarela',
-    description: 'Figurín de autor protagónico mostrando en exclusiva el Pantalón Globo Plisado con top fajado.',
-    sourceReference: './references/refe-pantalon-globo-01.jpg',
+    description: 'Figurín de autor protagónico mostrando en exclusiva el Pantalón Globo Plisado con top fajado y zapatillas Air Jordan 5 Retro Red Suede en gamuza carmesí.',
+    sourceReference: './references/refe-pantalon-globo-01.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true
   },
@@ -82,8 +82,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'figurine',
     garment: 'Conjunto Kokusen',
     view: 'frente-pasarela',
-    description: 'Figurín de moda de pasarela del look total black integrado (Chaqueta + Pantalón Globo sobre botines).',
-    sourceReference: './references/refe-pantalon-globo-01.jpg',
+    description: 'Figurín de moda de pasarela del look total black integrado (Chaqueta Cuello Chimenea con tancas + Pantalón Globo Plisado sobre zapatillas Air Jordan 5 Retro Red Suede).',
+    sourceReference: './references/refe-pantalon-globo-01.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true
   },
@@ -142,8 +142,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'editorial',
     garment: 'Conjunto Kokusen',
     view: 'editorial-lookbook',
-    description: 'Fotografía editorial ultra-realista de estudio con modelo real vistiendo el conjunto Kokusen completo sobre tacones.',
-    sourceReference: './references/refe-pantalon-globo-02.jpg',
+    description: 'Fotografía editorial ultra-realista de estudio con modelo real vistiendo el conjunto Kokusen completo con zapatillas Air Jordan 5 Retro Red Suede.',
+    sourceReference: './references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true
   }
@@ -161,5 +161,11 @@ export const REFERENCES: Record<string, CollectionReference> = {
     path: './references/refe-pantalon-globo-02.jpg',
     type: 'drape-fit',
     description: 'Referencia de caída y drapeado de gabardina de alto gramaje con bota recogida sobre calzado cerrado.'
+  },
+  'refe-calzado-jordan-5-red-suede': {
+    filename: 'refe-calzado-jordan-5-red-suede.jpg',
+    path: './references/refe-calzado-jordan-5-red-suede.jpg',
+    type: 'footwear-styling',
+    description: 'Referencia de calzado insignia: Zapatillas Air Jordan 5 Retro Red Suede en gamuza carmesí (#D01E29), lengüeta reflectiva plateada 3M y seguro de cordones transparente.'
   }
 };
