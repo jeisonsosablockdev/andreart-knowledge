@@ -6,9 +6,9 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: ready
-version: "1.7"
+version: "1.8"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 sku: "COS-SW-002"
 tags:
   - ecommerce
@@ -35,8 +35,9 @@ tags:
 - **Código de Referencia Línea Autor:** `ANDR-JED-001`
 - **Metatítulo:** `Conjunto Jedi Unisex 3 Piezas (Capa, Kimono, Obi) | Andreart` (58 caracteres)
 - **Metadescripción:** `Conjunto Jedi unisex de 3 piezas: capa con capota en café, kimono blanco y obi. Confección en Bogotá con moldería adaptable XS a XL. Sé tu propio héroe.` (155 caracteres)
+- **Metatags:** `conjunto jedi, capa jedi bogota, kimono jedi, traje star wars unisex, cosplay obi wan bogota, cosplay star wars bogota, capa con capota cafe, andreart vestuario`
 - **URL Amigable (Slug):** `conjunto-jedi-capa-kimono-obi`
-- **URL en Tienda:** `https://andreart.cercia.co/productos/conjunto-jedi-capa-kimono-obi`
+- **URL de Tienda Online:** `https://andreart.cercia.co/productos/conjunto-jedi-capa-kimono-obi`
 
 ---
 
@@ -77,6 +78,7 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.8 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.7 (2026-11-06):** Agregar metatítulo, metadescripción y URL amigable (slug) para SEO de tienda
 - **v1.6 (2026-11-06):** Homologar codigos SKU con la estructura oficial de Cercia: COS-SW-002 y COS-JED-001
 - **v1.5 (2026-11-06):** Ajustar apertura de descripción a 'de los maestros Jedi'

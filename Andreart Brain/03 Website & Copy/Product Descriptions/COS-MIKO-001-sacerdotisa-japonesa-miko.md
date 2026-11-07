@@ -6,9 +6,9 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.0"
+version: "1.1"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 sku: "COS-MIKO-001"
 price_cop: "350000"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay"
@@ -35,7 +35,11 @@ tags:
 - **Línea:** Sagas & Universos Especiales / Tradición Oriental Reinterpretada
 - **Código de Referencia (SKU):** `COS-MIKO-001`
 - **Precio Oficial:** $350.000 COP
-- **Enlace en Cercia:** [Ver en Tienda](https://andreart.cercia.co/productos/disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay)
+- **Metatítulo:** `Traje Sacerdotisa Japonesa Miko Tradicional | Andreart` (53 caracteres)
+- **Metadescripción:** `Atuendo tradicional de sacerdotisa Miko: kosode blanco con cintas carmesí y hakama rojo bermellón. Confección en Bogotá con moldería adaptable de XS a XL.` (154 caracteres)
+- **Metatags:** `traje sacerdotisa japonesa, cosplay miko bogota, kosode y hakama rojo, disfraz kikyo inuyasha, atuendo tradicional japones, ropa oriental bogota, andreart vestuario`
+- **URL Amigable (Slug):** `disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay`
+- **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay`
 
 ---
 
@@ -75,4 +79,5 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-MIKO-001`).

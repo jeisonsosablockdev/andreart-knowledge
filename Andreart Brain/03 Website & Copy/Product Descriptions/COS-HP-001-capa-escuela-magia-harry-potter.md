@@ -6,9 +6,9 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.0"
+version: "1.1"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 sku: "COS-HP-001"
 price_cop: "280000"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-capa-escuela-magia-harry-potter"
@@ -34,7 +34,11 @@ tags:
 - **Línea:** Sagas & Universos Especiales / Capas y Sobretodos
 - **Código de Referencia (SKU):** `COS-HP-001`
 - **Precio Oficial:** $280.000 COP
-- **Enlace en Cercia:** [Ver en Tienda](https://andreart.cercia.co/productos/disfraz-capa-escuela-magia-harry-potter)
+- **Metatítulo:** `Capa Escuela de Magia Harry Potter Unisex | Andreart` (52 caracteres)
+- **Metadescripción:** `Capa de hechicero inspirada en Harry Potter con forro interno en satín, bolsillo para varita y capota profunda. Confección en Bogotá con moldería XS a XL.` (154 caracteres)
+- **Metatags:** `capa harry potter, capa escuela de magia bogota, capa con bolsillo varita, capa de hechicero, cosplay harry potter bogota, capa medieval bogota, andreart vestuario`
+- **URL Amigable (Slug):** `disfraz-capa-escuela-magia-harry-potter`
+- **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-capa-escuela-magia-harry-potter`
 
 ---
 
@@ -72,4 +76,5 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-HP-001`).

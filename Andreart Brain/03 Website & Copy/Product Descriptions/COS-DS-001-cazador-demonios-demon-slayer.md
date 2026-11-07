@@ -6,7 +6,7 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.2"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-DS-001"
@@ -37,6 +37,7 @@ tags:
 - **Precio Oficial:** $450.000 COP
 - **Metatítulo:** `Conjunto Cazador de Demonios 5 Piezas Unisex | Andreart` (56 caracteres)
 - **Metadescripción:** `Conjunto unisex de 5 piezas inspirado en Demon Slayer: haori, camisa, pantalón, polainas y cinturón. Confección en Bogotá con moldería adaptable XS a XL.` (154 caracteres)
+- **Metatags:** `cazador de demonios, cosplay demon slayer bogota, conjunto tanjiro, haori demon slayer, uniforme kimetsu no yaiba, cosplay anime bogota, andreart vestuario`
 - **URL Amigable (Slug):** `cazador-demonios-demon-slayer-completo` (Slug alternativo tienda: `disfraz-cazador-demonios-demon-slayer-completo`)
 - **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-cazador-demonios-demon-slayer-completo`
 
@@ -82,5 +83,6 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.2 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.1 (2026-11-07):** Incorporar metatítulo, metadescripción, slug y copies optimizados para Bazar Bogotá
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-DS-001`).
