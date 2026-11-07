@@ -29,3 +29,5 @@ __pycache__/
 # Obsidian workspace cache
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
