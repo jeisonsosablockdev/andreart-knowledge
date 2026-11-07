@@ -79,7 +79,7 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 
 ## 📸 4.0. Fotografía Editorial Realista (Lookbook Hero)
 ![[01 Brand Context/Colecciones/Kokusen/assets/08-foto-realista-kokusen-hero.jpg]]
-*Fotografía Editorial Realista (Lookbook Hero):* Modelo luciendo el conjunto Kokusen completo en estudio de alta costura sobre fondo ciclorama en **azul eléctrico vibrante (#0038FF)** con sutil neblina/humo bajo en el suelo: blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), cremallera central continua metálica, tancas carmesí y capota integrada, combinado con el Pantalón Globo Plisado Kokusen de tiro alto en postura inspirada en Yuji Itadori con una mano en el bolsillo, descansando sobre las zapatillas de autor **Air Jordan 5 Retro "Red Suede"** en gamuza roja escarlata con lengüeta reflectiva 3M.
+*Fotografía Editorial Realista (Lookbook Hero):* Modelo de apariencia hispana/latina luciendo el conjunto Kokusen completo en estudio de alta costura sobre fondo sinfín azul estudio impecable (cero humo): blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), cremallera central continua metálica, tancas carmesí y capota integrada, combinado con el nuevo Pantalón Globo Plisado Kokusen v1.5 con cintura encauchada fruncida (sin cinturón) en postura inspirada en Yuji Itadori con una mano en el bolsillo, descansando sobre las zapatillas de autor **Air Jordan 5 Retro "Red Suede"** en gamuza roja escarlata con lengüeta reflectiva 3M.
 
 ---
 

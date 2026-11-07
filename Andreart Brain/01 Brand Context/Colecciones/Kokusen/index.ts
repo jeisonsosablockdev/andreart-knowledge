@@ -142,7 +142,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'editorial',
     garment: 'Conjunto Kokusen',
     view: 'editorial-lookbook',
-    description: 'Fotografía editorial ultra-realista sobre fondo azul eléctrico con humo bajo y pose Yuji Itadori, vistiendo el conjunto Kokusen con Air Jordan 5 Retro Red Suede.',
+    description: 'Fotografía editorial ultra-realista con modelo hispana/latina sobre sinfín azul estudio sin humo y pose Yuji Itadori, conjunto Kokusen con cintura encauchada y Air Jordan 5 Retro Red Suede.',
     sourceReference: './references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true
