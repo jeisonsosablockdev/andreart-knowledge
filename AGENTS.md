@@ -22,6 +22,7 @@
 | Activate project skills | `bash MarketingAgentCore/scripts/enable-project-skills.sh` |
 | Activate project skills (Windows) | `powershell -ExecutionPolicy Bypass -File .\MarketingAgentCore\scripts\enable-project-skills.ps1` |
 | Verify Channel Prices (Cercia & Bazar) | `bash MarketingAgentCore/scripts/verify-channel-prices.sh` |
+| Prune Collection Assets (TS) | `node MarketingAgentCore/scripts/prune-collection-versions.ts <slug> [--dry-run\|--hard\|--inspect]` |
 | Rebuild Obsidian Agent Client | `cd obsidian-agent-client && npm install && npm run build` |
 
 ## Commit Attribution
@@ -65,11 +66,12 @@ To prevent prompt/context drift and ensure consistent quality, every task must f
 1. **Context Gate:** Always consult `MarketingAgentCore/context/product-marketing-context.md` before generating marketing content. Never invent ICPs, brand voice, or positioning in isolation.
 2. **Task Decomposition:** Use `bash MarketingAgentCore/scripts/task-manager.sh` to track multi-step initiatives, defining atomic tasks (`TASK-001`, `TASK-002`) and explicit dependencies (`depends_on`).
 3. **Skill Orchestration:** Load and adhere to the relevant `SKILL.md` from `MarketingAgentCore/skills/` (e.g. `mas-copywriting`, `mas-seo-audit`, `mas-email-sequence`).
-4. **Structured Drafting & Safe Refinement:** Apply `MarketingAgentCore/templates/note-template.md` (YAML frontmatter with version, `> [!NOTE]` callouts, and wikilinks). When modifying existing files, use `bash MarketingAgentCore/scripts/refine-note.sh` to take safety snapshots and maintain the changelog.
+4. **Structured Drafting, SDD & Safe Refinement:** Apply `MarketingAgentCore/templates/note-template.md` (YAML frontmatter with version, `> [!NOTE]` callouts, and wikilinks). Cuando se modifiquen notas existentes, usar `bash MarketingAgentCore/scripts/refine-note.sh` para snapshots de seguridad. Para colecciones de moda, aplicar la arquitectura autónoma (`Colecciones/<Nombre>/SPEC.md`) y el skill `sdd-fashion-collection`. Tras iteraciones aprobadas, ejecutar `node MarketingAgentCore/scripts/prune-collection-versions.ts <coleccion>` para mantener la galería de assets 100% limpia.
 5. **Measurement & Closure:** Register deliverables and mark tasks completed in the session JSON (`task-manager.sh update`), assigning tracking events and KPIs.
 
 ## Vault Conventions
 - Use existing category folders under `Andreart Brain/` (numbered 00 to 10)
+- Colecciones de Moda (SDD): Cada colección cápsula vive en su propia carpeta autónoma (`Andreart Brain/01 Brand Context/Colecciones/<Nombre>/`) conteniendo su especificación técnica (`SPEC.md`), sus activos activos (`assets/`), sus descartes (`assets/.archive/`) y sus insumos (`references/`)
 - Prefer descriptive file names like `linkedin-post-ideas-apr-2026.md`
 - Keep one note per deliverable or per coherent working artifact
 - Create a new subfolder only when there are 3+ related deliverables that do not fit an existing subfolder cleanly

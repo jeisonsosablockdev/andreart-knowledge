@@ -26,7 +26,7 @@ tags:
 # Colección Cápsula: Kokusen
 
 > [!NOTE]
-> **Resumen Ejecutivo:** Colección cápsula de autor "Kokusen" (Conjunto esencial de 2 piezas: Chaqueta Cuello Chimenea y Pantalón Sastre). Diseñada para uso diario y oficina contemporánea, deconstruyendo la silueta de combate de Yuji Itadori (*Jujutsu Kaisen*) y el fenómeno del *Destello Negro* mediante una estética rigurosamente monocromática, forros interiores en satín negro azabache, moldería inteligente adaptable (XS a XL) y sastrería estructurada para clima frío de montaña.
+> **Resumen Ejecutivo:** Colección cápsula de autor "Kokusen" (Conjunto esencial de 2 piezas: Chaqueta Cuello Chimenea y Pantalón Globo Plisado). Diseñada para uso diario y oficina contemporánea, deconstruyendo la silueta de combate de Yuji Itadori (*Jujutsu Kaisen*) y el fenómeno del *Destello Negro* mediante una estética rigurosamente monocromática, silueta bombacha estructurada con puños elásticos fruncidos sobre botines, forros interiores en satín negro azabache, moldería inteligente adaptable (XS a XL) y sastrería de alta gama para clima frío de montaña.
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 ### Manifiesto Creativo
 En la historia original, los uniformes de la escuela Jujutsu son confeccionados a medida para canalizar la energía física y el estilo de combate de cada hechicero; el de Yuji se distingue por su cuello alto envolvente, su holgura dinámica y su capacidad de soportar impactos extremos sin perder compostura.
 
-Andrea canaliza el concepto de *Kokusen* —la distorsión espacial que ocurre en una millonésima de segundo cuando la energía y el impacto físico convergen a la perfección— en un conjunto de dos piezas puramente monocromático. La colección prescinde de estampados literales; la identidad de Itadori se manifiesta en la arquitectura pura: la silueta envolvente del cuello chimenea, la caída solemne de las pinzas dobles y la precisión de un patronaje sastre pensado para transitar con porte autoritario en la oficina y con soltura en el día a día.
+Andrea canaliza el concepto de *Kokusen* —la distorsión espacial que ocurre en una millonésima de segundo cuando la energía y el impacto físico convergen a la perfección— en un conjunto de dos piezas puramente monocromático. La colección prescinde de estampados literales; la identidad de Itadori se manifiesta en la arquitectura pura: la silueta envolvente del cuello chimenea con su herraje técnico puntual, el volumen escultural abullonado del pantalón globo plisado recogido con puño elástico en los tobillos (evocando con elegancia adulta la bota de combate del personaje), y la precisión de un patronaje sastre pensado para transitar con porte autoritario en la oficina y con soltura en el día a día.
 
 Diseñado con dedicación artesanal y visión de autor para integrar la presencia de arquetipos épicos al guardarropa cotidiano:
 • Confección consciente en Bogotá bajo supervisión directa en taller.  
@@ -54,7 +54,7 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 - **Base Estructural Atemporal:** Negro azabache (#0D0D0E) y Carbón profundo (#1C1D21) en tejido de sarga y gabardina con acabado mate sin reflejos.
 - **Atmósfera Interior:** Forro completo en satín negro azabache (#0A0A0B) de tacto sedoso tanto en el cuerpo de la chaqueta como en los fondos de bolsillo del pantalón.
 - **Herrajes y Fornituras:** Níquel pavonado negro mate en cremalleras, broches de presión ocultos y tancas de freno.
-- **Identidad Itadori:** 100% arquitectónica. No requiere detalles de color en la prenda; la pertenencia al personaje se transmite exclusivamente a través del volumen, la altura y caída del cuello chimenea y el patronaje amplio del pantalón.
+- **Identidad Itadori:** 100% arquitectónica. No requiere detalles de color en el cuerpo de la prenda; la pertenencia al personaje se transmite exclusivamente a través del volumen, la altura y caída del cuello chimenea (con su discreto detalle de ojaletes y tanca) y el patronaje bombacho abullonado del pantalón globo recogido en los tobillos.
 
 ---
 
@@ -71,21 +71,25 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 
 | Pieza | Tipología | Silueta y Porte | Textil Recomendado | Moldería Adaptable | SKU |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Chaqueta Cuello Chimenea Kokusen** | Prenda Superior Insignia (Chaqueta) | Corte relajado, cuello alto tipo chimenea con jareta de ajuste, tapeta frontal oculta y volumen contenido en bajo | Sarga técnica de algodón peinado pesada (310 GSM) con forro completo en satín negro azabache de alta densidad | Hombro caído, holgura ergonómica en sisa y sistema de tancas regulables en cuello y cintura (XS a XL) | `ANDR-KOK-CHQ-01` |
-| **Pantalón Sastre Kokusen** | Prenda Inferior Insignia (Pantalón) | Pernera ancha relajada con doble pinza frontal profunda hacia el interior, tiro medio-alto y quiebre vertical sastre | Gabardina pesada de algodón peinado (300 GSM) con alta recuperación y fondos de bolsillo en satín negro | Pretina híbrida (frontal plana sastre con pasadores de cinturón, posterior elástica con lazos interiores) | `ANDR-KOK-PAN-01` |
+| **Chaqueta Cuello Chimenea Kokusen** | Prenda Superior Insignia (Chaqueta) | Corte relajado, cuello alto tipo chimenea con ojaletes y tanca regulable, tapeta frontal oculta y volumen contenido en bajo | Sarga técnica de algodón peinado pesada (310 GSM) con forro completo en satín negro azabache de alta densidad | Hombro caído, holgura ergonómica en sisa y sistema de tancas regulables en cuello y cintura (XS a XL) | `ANDR-KOK-CHQ-01` |
+| **Pantalón Globo Plisado Kokusen** | Prenda Inferior Insignia (Pantalón Bombacho) | Silueta globo/balloon de tiro alto con pretina sastre, pasadores de cinturón, pliegues frontales profundos y bota recogida en tobillo con puño elástico fruncido | Gabardina/sarga pesada fluida de algodón peinado (280-300 GSM) con alta recuperación y fondos de bolsillo en satín negro | Pretina híbrida sastre (frontal plana con pasadores, posterior elástica con lazos interiores) y puños elásticos en bota | `ANDR-KOK-PAN-01` |
 
 ---
 
 ## 📸 4.0. Fotografía Editorial Realista (Lookbook Hero)
 ![[01 Brand Context/Colecciones/Assets/Kokusen/08-foto-realista-kokusen-hero.jpg]]
-*Fotografía Editorial Realista:* Modelo luciendo el conjunto Kokusen completo en estudio de alta costura: blouson en sarga pesada con cuello chimenea estructurado (11 cm), tapeta oculta, ojaletes y reguladores de cordón en el cuello, y pantalón sastre de pernera ancha con doble pinza frontal profunda.
+*Fotografía Editorial Realista:* Modelo luciendo el conjunto Kokusen completo en estudio de alta costura: blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), tapeta con cremallera central y tancas en cuello, combinado con el nuevo Pantalón Globo Plisado Kokusen de tiro alto con pinzas profundas y puños elásticos fruncidos sobre botines de cuero negro.
 
 ---
 
-## 🎨 4.1. Figurines de Moda a Mano Alzada (Turnaround Completo)
+## 🎨 4.1. Figurines de Moda a Mano Alzada (Croquis de Taller)
 *Estilo de taller: Trazos visibles de grafito, tinta y aguada de acuarela sobre papel marfil (#F6F4EE) con sello oficial de autor Andreart.*
 
-### Vista Frontal
+### Figurín Individual: Pantalón Globo Plisado Kokusen (Protagónico)
+![[01 Brand Context/Colecciones/Assets/Kokusen/01-sketch-figurin-pantalon-globo.jpg]]
+*Figurín de Autor (Pantalón Globo):* Modelo estilizada anime en pose erguida de pasarela luciendo en exclusiva el Pantalón Globo Plisado Kokusen en negro azabache (#0D0D0E): tiro alto con pretina sastre, pasadores, cinturón negro con hebilla sobria, pliegues frontales dobles profundos que abren un volumen curvo y fluido tipo bombacho/balloon, y puños elásticos fruncidos ceñidos sobre botines negros de punta fina. Combinado con un top minimalista negro fajado para mantener el protagonismo absoluto en la arquitectura del pantalón.
+
+### Vista Frontal (Conjunto Completo con Chaqueta)
 ![[01 Brand Context/Colecciones/Assets/Kokusen/01-sketch-personaje-frente.jpg]]
 *Figurín Frontal:* Modelo estilizado anime luciendo el conjunto Kokusen completo: cuello chimenea cerrado (11 cm), tapeta frontal oculta, hombros caídos y pantalón sastre con pinzas dobles profundas.
 
@@ -108,12 +112,15 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 ![[01 Brand Context/Colecciones/Assets/Kokusen/05-sketch-chaqueta-atras.jpg]]
 *Chaqueta - Vista Trasera:* Espalda depurada con canesú limpio, hombros caídos de corte sastre y pretina fruncida elástica en el bajo.
 
-### Pantalón Sastre Kokusen
+### Pantalón Globo Plisado Kokusen (Silueta Bombacho de Alta Sastrería)
 ![[01 Brand Context/Colecciones/Assets/Kokusen/06-sketch-pantalon-frente.jpg]]
-*Pantalón - Vista Delantera:* Pretina estructurada con pasadores para cinturón, botón sastre central, doble pinza profunda hacia el interior y pernera amplia.
+*Pantalón Globo - Vista Delantera:* Croquis técnico a mano alzada mostrando pretina estructurada de tiro alto con pasadores, botón central, doble pliegue frontal profundo hacia el interior, volumen curvo bombacho/balloon y puños elásticos fruncidos en el tobillo sobre papel marfil con sello Andreart.
 
 ![[01 Brand Context/Colecciones/Assets/Kokusen/07-sketch-pantalon-atras.jpg]]
-*Pantalón - Vista Trasera:* Pretina trasera con pasadores, pinzas de entalle anatómico, doble bolsillo de vivo horizontal limpio y quiebre vertical recto.
+*Pantalón Globo - Vista Trasera:* Croquis técnico a mano alzada mostrando pretina trasera con pasadores, pinzas de entalle anatómico, doble bolsillo de vivo horizontal limpio, holgura dorsal y puños elásticos en bota.
+
+![[01 Brand Context/Colecciones/Assets/Kokusen/refe-pantalon-globo-01.jpg]]
+*Referencia de Diseño y Flat de Taller:* Silueta de tiro alto con pretina sastre formal, cinturón, pliegues frontales dobles profundos y bota recogida en tobillo sobre botines de cuero. A la derecha, despiece en plano.
 
 ---
 
@@ -126,26 +133,29 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 • **Sistema de Ajuste:** Jareta en bajo con tensores laterales ocultos para alternar entre caída recta minimalista o silueta blouson abullonada.
 • **Tolerancias de Confección:** $\pm 0.5\text{ cm}$ en costuras estructurales; dobladillos de manga limpios.
 
-### 5.2. Pantalón Sastre Kokusen (`ANDR-KOK-PAN-01`)
-• **Construcción y Acabados de Sastrería:** Doble pinza frontal invertida que aporta volumen arquitectónico sobre la pierna sin abultar la cintura. Vistas diagonales limpias en bolsillos delanteros y bolsillos traseros de doble vivo sastre.
-• **Forro y Vistas:** Fondos de bolsillo confeccionados en satín negro de alta resistencia, garantizando suavidad al tacto y durabilidad.
-• **Sistema de Ajuste:** Pretina híbrida con frontal liso y pasadores tradicionales para cinturón formal de oficina; sección trasera con elástico reforzado y cordón de ajuste interior para adaptarse con fluidez desde XS hasta XL.
-• **Especificación Textil:** Gabardina pesada de algodón peinado (300 GSM) de hilado cerrado, con alta recuperación al arrugado tras largas horas de trabajo sentado.
-• **Bajo y Ajuste:** Dobladillo ancho de 4 cm con puntada oculta; apto para llevar en largo tradicional o doblado con vuelta limpia sobre zapatillas.
+### 5.2. Pantalón Globo Plisado Kokusen (`ANDR-KOK-PAN-01`)
+• **Construcción y Arquitectura de Silueta (Bombacho Sastre):**
+  - **Pretina:** Pretina alta estructurada (4.5 cm de ancho) con botón sastre al tono, cremallera delantera oculta bajo bragueta limpia y pasadores reforzados para cinturón formal de 3 a 3.5 cm.
+  - **Plisado Frontal:** Doble pliegue/pinza profunda hacia el interior (3.5 cm de profundidad por pliegue) en cada pernera, generando una apertura volumétrica redondeada, orgánica y amplia a lo largo de muslos y pantorrillas.
+  - **Pernera Curva Balloon:** Patronaje curvo que maximiza la libertad de movimiento, garantizando cero tirantez al sentarse o caminar en largas jornadas de oficina.
+  - **Bota y Puño de Tobillo:** Terminación en puño elástico fruncido ancho (*gathered elastic cuff*) de 4 cm que ciñe con suavidad el tobillo, logrando que el tejido caiga abullonado y escultural sobre botines o zapatillas.
+• **Forro y Acabados Interiores:** Fondos de bolsillo delantero profundos integrados a la costura y bolsillos traseros de doble vivo limpio, confeccionados 100% en satín negro azabache de alta densidad.
+• **Sistema de Ajuste Multitalle:** Pretina híbrida con frontal liso sastre y sección dorsal con elástico interior regulable para ajuste impecable desde XS hasta XL.
+• **Especificación Textil:** Gabardina pesada o sarga fluida de algodón peinado (280-300 GSM) con torsión cerrada, excelente caída con peso gravitacional y alta resistencia a las arrugas.
 
 ---
 
 ## 👔 6. Guía de Estilismo: De la Oficina al Día a Día
 
-### Look Diario de Oficina / Lunes a Jueves (Sastrería Monocromática)
-• **Prenda Inferior:** Viste el **Pantalón Sastre Kokusen** a la cintura con un cinturón sobrio de cuero negro. Combínalo con una camisa blanca de popelina o un jersey fino de cuello cisne por dentro.
+### Look Diario de Oficina / Lunes a Jueves (Sastrería Monocromática Escultural)
+• **Prenda Inferior:** Viste el **Pantalón Globo Plisado Kokusen** ceñido a la cintura con un cinturón sobrio de cuero negro. Combínalo con una camisa de cuello nerú o un jersey fino de cuello cisne fajado por dentro para resaltar la arquitectura de los pliegues frontales.
 • **Porte de la Chaqueta:** Lleva la **Chaqueta Kokusen** abierta o con la cremallera semiabierta hasta la altura del pecho. El cuello chimenea se abre hacia los costados emulando una solapa sastre moderna.
-• **Calzado:** Botines chelsea de cuero negro, zapatos derby o mocasines limpios. La lectura en el entorno corporativo o creativo es la de un dos piezas vanguardista de sastrería sobria y corte impecable.
+• **Calzado:** Botines de cuero negro con punta fina o tacón de bloque, o botines Chelsea limpios. El puño elástico en el tobillo permite que el pantalón caiga abullonado y fluido sobre la caña del botín sin arrastrar ni acumular tela de forma descuidada. La lectura en el entorno corporativo o creativo es la de un dos piezas vanguardista de sastrería sobria y corte impecable.
 
 ### Look Diario Casual / Viernes Urbano (El Arquetipo Itadori al Descubierto)
 • **Porte de la Chaqueta:** Sube la cremallera al 100% cubriendo el cuello y mandíbula, y ajusta ligeramente las tancas para marcar la silueta de combate característica del personaje.
-• **Porte del Pantalón:** Da una o dos vueltas al dobladillo del pantalón para lucir la bota limpia y acortada.
-• **Calzado y Estilismo Casual:** Calzado deportivo limpio o botines urbanos (en la referencia fotográfica de estilismo, se combina con zapatillas rojas de competición y gorra salmón como contraste personal del usuario). Las prendas de la colección se mantienen rigurosamente 100% monocromáticas en negro azabache, proyectando la silueta de combate de Yuji Itadori con la sobriedad y madurez de una pieza de alta sastrería.
+• **Porte del Pantalón:** El puño elástico fruncido permite posicionar la bota justo en el tobillo o subirla un par de centímetros sobre la pantorrilla para un look táctico y dinámico.
+• **Calzado y Estilismo Casual:** Calzado deportivo limpio o botines urbanos de suela estructurada. Las prendas de la colección se mantienen rigurosamente 100% monocromáticas en negro azabache, proyectando la silueta de combate de Yuji Itadori con la sobriedad y madurez de una pieza de alta sastrería.
 
 ---
 
@@ -160,6 +170,7 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.2 (2026-11-07):** Reemplazo de silueta de pantalón recto por el **Pantalón Globo Plisado Kokusen (Bombacho)** con pretina sastre, pinzas frontales profundas y puños elásticos fruncidos sobre botines, capturando con fidelidad la silueta de combate de Yuji Itadori para uso en oficina.
 - **v1.1 (2026-11-07):** Oficialización del nombre "Kokusen", ajuste de forros a negro total en ambas prendas y refinamiento de la guía de estilismo para oficina.
 - **v1.0 (2026-11-07):** Generación inicial de la colección cápsula mediante `create-collection.js`.
 

@@ -26,7 +26,7 @@ tags:
 # Colección Cápsula: Resonancia Shinjuku (Borrador Preliminar)
 
 > [!WARNING]
-> **Nota de Estado:** Este borrador preliminar ha sido superado y reemplazado por la versión oficial definitiva de la colección: [[01 Brand Context/Colecciones/coleccion-kokusen-nov-2026.md|Colección Cápsula: Kokusen]], con especificación 100% monocromática en negro absoluto (tejido, forros, cierres e insumos).
+> **Nota de Estado:** Este borrador preliminar ha sido superado y reemplazado por la versión oficial definitiva de la colección: [[01 Brand Context/Colecciones/Kokusen/SPEC.md|Colección Cápsula: Kokusen]], con especificación 100% monocromática en negro absoluto (tejido, forros, cierres e insumos).
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Colección cápsula de autor "Resonancia Shinjuku" (Conjunto de 2 Piezas: Blouson Táctico y Pantalón Sastre). Diseñada para vestir en la oficina y en el día a día contemporáneo, integrando de forma sutil los códigos visuales y la fuerza del uniforme de combate de Yuji Itadori mediante sastrería estructurada, moldería adaptable multitalla (XS a XL) y acabados nobles para clima frío de montaña.
