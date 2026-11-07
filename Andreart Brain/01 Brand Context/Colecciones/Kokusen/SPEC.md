@@ -98,12 +98,12 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 
 ## 📐 4.2. Bocetos Técnicos Individuales por Prenda (Fashion Flats a Mano Alzada)
 
-### Chaqueta Cuello Chimenea Kokusen (Diseño Minimalista con Detalle de Autor)
+### Chaqueta Cuello Chimenea Kokusen (Diseño Minimalista con Detalle de Autor y Capota)
 ![[01 Brand Context/Colecciones/Kokusen/assets/04-sketch-chaqueta-frente.jpg]]
-*Chaqueta - Vista Delantera:* Silueta blouson minimalista con cuello alto chimenea estructurado (11 cm), tapeta frontal limpia con cremallera oculta, bolsillos diagonales con cartera, jareta en bajo y el detalle puntual en el cuello: ojaletes metálicos dobles con regulador de cordón y lazo tubular en U.
+*Chaqueta - Vista Delantera:* Silueta blouson minimalista con cuello alto chimenea estructurado (11 cm), cremallera metálica central continua visible hasta el borde superior del cuello con tirador metálico, ojaletes dobles con lazos tubulares cortos en U carmesí (#D01E29) y tancas, bolsillos diagonales con cartera, pretina fruncida en bajo con tensores frontales y la capota integrada reposando detrás del cuello sobre los hombros.
 
 ![[01 Brand Context/Colecciones/Kokusen/assets/05-sketch-chaqueta-atras.jpg]]
-*Chaqueta - Vista Trasera:* Espalda depurada con canesú limpio, hombros caídos de corte sastre y pretina fruncida elástica en el bajo.
+*Chaqueta - Vista Trasera:* Espalda depurada con canesú sastre, hombros caídos, pretina fruncida elástica en el bajo y la capota integrada drapeada con volumen sastre sobre la parte superior de la espalda.
 
 ### Pantalón Globo Plisado Kokusen (Silueta Bombacho de Alta Sastrería)
 ![[01 Brand Context/Colecciones/Kokusen/assets/06-sketch-pantalon-frente.jpg]]

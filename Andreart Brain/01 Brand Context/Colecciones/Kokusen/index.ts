@@ -94,7 +94,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'flat-technical',
     garment: 'Chaqueta Cuello Chimenea Kokusen',
     view: 'delantera',
-    description: 'Croquis plano frontal de la Chaqueta Blouson con cuello chimenea (11 cm), tapeta limpia oculta y tancas.',
+    description: 'Croquis plano frontal de la Chaqueta Blouson con cuello chimenea (11 cm), cremallera metálica continua, ojaletes con tancas carmesí, bolsillos diagonales y capota.',
     sourceReference: null,
     status: 'active',
     approved: true
@@ -106,7 +106,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'flat-technical',
     garment: 'Chaqueta Cuello Chimenea Kokusen',
     view: 'trasera',
-    description: 'Croquis plano dorsal de la Chaqueta Blouson con canesú limpio, hombros caídos y pretina con elástico.',
+    description: 'Croquis plano dorsal de la Chaqueta Blouson con canesú sastre, hombros caídos, pretina con elástico y capota drapeada.',
     sourceReference: null,
     status: 'active',
     approved: true
