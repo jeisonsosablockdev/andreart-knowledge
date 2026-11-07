@@ -6,11 +6,13 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.2"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "ANDR-KMN-001"
 price_cop: "150000"
+price_cercia: "$150.000 COP"
+price_bazar: "$150.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/camisa-kimono-japonesa-negra-japandi"
 tags:
   - ecommerce
@@ -33,7 +35,8 @@ tags:
 - **Nombre en Tienda:** Camisa Kimono Unisex Estilo Japandi
 - **Línea:** Moda de Autor / Estilo Japandi Contemporáneo
 - **Código de Referencia (SKU):** `ANDR-KMN-001`
-- **Precio Oficial:** $150.000 COP
+- **Precio Cercia:** $150.000 COP
+- **Precio Bazar Bogotá:** $150.000 COP
 - **Metatítulo:** `Camisa Kimono Japandi Unisex de Autor | Andreart Bogotá` (55 caracteres)
 - **Metadescripción:** `Camisa kimono negra estilo japandi de diseño de autor. Silueta holgada unisex, moldería adaptable XS a XL y confección en Bogotá. Moda minimalista y versátil.` (160 caracteres)
 - **Metatags:** `camisa kimono, kimono unisex, moda japandi bogota, kimono urbano, ropa de autor bogota, camisa estilo japones, moda minimalista unisex, andreart vestuario`
@@ -76,5 +79,6 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.2 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
 - **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`ANDR-KMN-001`).

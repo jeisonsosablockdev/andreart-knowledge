@@ -1,16 +1,18 @@
 ---
-title: "Ficha de Producto Tienda Web: Capa Escuela de Magia (Harry Potter)"
+title: "Ficha de Producto Tienda Web: Capa Escuela de Magia Unisex"
 category: "03 Website & Copy"
 workflow: "WF-COPY-PRODUCT"
 skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.4"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-HP-001"
 price_cop: "280000"
+price_cercia: "$280.000 COP"
+price_bazar: "$280.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-capa-escuela-magia-harry-potter"
 tags:
   - ecommerce
@@ -22,7 +24,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Ficha de Producto Tienda Web: Capa Escuela de Magia (Harry Potter)
+# Ficha de Producto Tienda Web: Capa Escuela de Magia Unisex
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Ficha oficial de producto para tienda en línea de la **Capa Escuela de Magia - Harry Potter** (`COS-HP-001`). Prenda exterior de silueta envolvente inspirada en el mundo mágico de Hogwarts, confeccionada en Bogotá con telas de alto gramaje, forro interior y acabados de autor.
@@ -30,14 +32,15 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre en Tienda:** Disfraz Capa Escuela de Magia - Harry Potter
+- **Nombre en Tienda:** Traje Capa Escuela de Magia Unisex
 - **Línea:** Sagas & Universos Especiales / Capas y Sobretodos
 - **Código de Referencia (SKU):** `COS-HP-001`
-- **Precio Oficial:** $280.000 COP
-- **Metatítulo:** `Capa Escuela de Magia Harry Potter Unisex | Andreart` (52 caracteres)
+- **Precio Cercia:** $280.000 COP
+- **Precio Bazar Bogotá:** $280.000 COP
+- **Metatítulo:** `Traje Capa Escuela de Magia Unisex | Andreart` (45 caracteres)
 - **Metadescripción:** `Capa de hechicero inspirada en Harry Potter con forro interno en satín, bolsillo para varita y capota profunda. Confección en Bogotá con moldería XS a XL.` (154 caracteres)
 - **Metatags:** `capa harry potter, capa escuela de magia bogota, capa con bolsillo varita, capa de hechicero, cosplay harry potter bogota, capa medieval bogota, andreart vestuario`
-- **URL Amigable (Slug):** `disfraz-capa-escuela-magia-harry-potter`
+- **URL Amigable (Slug):** `traje-capa-escuela-magia-harry-potter` (Slug actual en Cercia: `disfraz-capa-escuela-magia-harry-potter`)
 - **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-capa-escuela-magia-harry-potter`
 
 ---
@@ -76,5 +79,8 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.4 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.3 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
+- **v1.2 (2026-11-07):** Actualizar nombre comercial en tienda reemplazando Disfraz por Traje
 - **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-HP-001`).

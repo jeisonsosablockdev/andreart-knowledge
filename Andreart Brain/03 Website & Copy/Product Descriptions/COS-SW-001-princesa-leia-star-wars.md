@@ -1,16 +1,18 @@
 ---
-title: "Ficha de Producto Tienda Web: Princesa Leia Clásico (Star Wars)"
+title: "Ficha de Producto Tienda Web: Vestido Blanco Leia"
 category: "03 Website & Copy"
 workflow: "WF-COPY-PRODUCT"
 skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.5"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-SW-001"
 price_cop: "250000"
+price_cercia: "$250.000 COP"
+price_bazar: "$250.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-princesa-leia-star-wars-clasico"
 tags:
   - ecommerce
@@ -23,7 +25,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Ficha de Producto Tienda Web: Princesa Leia Clásico (Star Wars)
+# Ficha de Producto Tienda Web: Vestido Blanco Leia
 
 > [!NOTE]
 > **Resumen Ejecutivo:** Ficha oficial de producto para tienda en línea del **Vestido Princesa Leia Star Wars Clásico** (`COS-SW-001`). Prenda icónica de corte amplio y líneas puras en color blanco con capucha y cinturón estructurado, confeccionada en Bogotá con moldería adaptable de XS a XL.
@@ -31,14 +33,15 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre en Tienda:** Disfraz Princesa Leia Star Wars Clásico
+- **Nombre en Tienda:** Vestido Blanco Leia
 - **Línea:** Sagas & Universos Especiales / Star Wars
 - **Código de Referencia (SKU):** `COS-SW-001`
-- **Precio Oficial:** $250.000 COP
-- **Metatítulo:** `Vestido Túnica Princesa Leia Star Wars Clásico | Andreart` (57 caracteres)
+- **Precio Cercia:** $250.000 COP
+- **Precio Bazar Bogotá:** $250.000 COP
+- **Metatítulo:** `Vestido Blanco Leia con Capota | Andreart` (42 caracteres)
 - **Metadescripción:** `Vestido túnica blanco de la Princesa Leia con capota fluida, mangas acampanadas y cinturón detallado. Confección en Bogotá con moldería adaptable de XS a XL.` (157 caracteres)
 - **Metatags:** `vestido princesa leia, tunica princesa leia star wars, cosplay princesa leia bogota, traje star wars clasico, vestido con capota blanco, andreart vestuario`
-- **URL Amigable (Slug):** `disfraz-princesa-leia-star-wars-clasico`
+- **URL Amigable (Slug):** `traje-princesa-leia-star-wars-clasico` (Slug actual en Cercia: `disfraz-princesa-leia-star-wars-clasico`)
 - **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-princesa-leia-star-wars-clasico`
 
 ---
@@ -79,5 +82,9 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.5 (2026-11-07):** Actualizar nombres oficiales solicitados: Vestido blanco Leia (COS-SW-001), Traje Maestro de la Fuerza (COS-SW-002) y Conjunto Monje Geto (COS-JJK-001)
+- **v1.4 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.3 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
+- **v1.2 (2026-11-07):** Actualizar nombre comercial en tienda reemplazando Disfraz por Traje
 - **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-SW-001`).

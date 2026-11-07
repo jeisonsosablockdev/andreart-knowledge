@@ -6,11 +6,13 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.1"
+version: "1.4"
 created_at: 2026-11-06
 updated_at: 2026-11-07
 sku: "COS-MIKO-001"
 price_cop: "350000"
+price_cercia: "$350.000 COP"
+price_bazar: "$350.000 COP"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay"
 tags:
   - ecommerce
@@ -31,14 +33,15 @@ tags:
 ---
 
 ## 🏷️ Identificación del Producto
-- **Nombre en Tienda:** Disfraz Sacerdotisa Japonesa Anime Estilo Tradicional Cosplay
+- **Nombre en Tienda:** Traje Sacerdotisa Japonesa Tradicional Miko (Kosode y Hakama)
 - **Línea:** Sagas & Universos Especiales / Tradición Oriental Reinterpretada
 - **Código de Referencia (SKU):** `COS-MIKO-001`
-- **Precio Oficial:** $350.000 COP
+- **Precio Cercia:** $350.000 COP
+- **Precio Bazar Bogotá:** $350.000 COP
 - **Metatítulo:** `Traje Sacerdotisa Japonesa Miko Tradicional | Andreart` (53 caracteres)
 - **Metadescripción:** `Atuendo tradicional de sacerdotisa Miko: kosode blanco con cintas carmesí y hakama rojo bermellón. Confección en Bogotá con moldería adaptable de XS a XL.` (154 caracteres)
-- **Metatags:** `traje sacerdotisa japonesa, cosplay miko bogota, kosode y hakama rojo, disfraz kikyo inuyasha, atuendo tradicional japones, ropa oriental bogota, andreart vestuario`
-- **URL Amigable (Slug):** `disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay`
+- **Metatags:** `traje sacerdotisa japonesa, cosplay miko bogota, kosode y hakama rojo, traje kikyo inuyasha, atuendo tradicional japones, ropa oriental bogota, andreart vestuario`
+- **URL Amigable (Slug):** `traje-sacerdotisa-japonesa-anime-tradicional-cosplay` (Slug actual en Cercia: `disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay`)
 - **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-sacerdotisa-japonesa-anime-tradicional-cosplay`
 
 ---
@@ -79,5 +82,8 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.4 (2026-11-07):** Integrar estructura de seguimiento de precios multicanal (Cercia y Bazar Bogotá)
+- **v1.3 (2026-11-07):** Retirar marcas comerciales registradas de títulos y nombres de producto protegiendo derechos de autor, preservándolas en metatags y descripciones
+- **v1.2 (2026-11-07):** Actualizar nombre comercial en tienda reemplazando Disfraz por Traje
 - **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-MIKO-001`).

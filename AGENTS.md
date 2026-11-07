@@ -21,6 +21,7 @@
 | Validate imported skills | `bash marketingskills/validate-skills.sh` |
 | Activate project skills | `bash MarketingAgentCore/scripts/enable-project-skills.sh` |
 | Activate project skills (Windows) | `powershell -ExecutionPolicy Bypass -File .\MarketingAgentCore\scripts\enable-project-skills.ps1` |
+| Verify Channel Prices (Cercia & Bazar) | `bash MarketingAgentCore/scripts/verify-channel-prices.sh` |
 | Rebuild Obsidian Agent Client | `cd obsidian-agent-client && npm install && npm run build` |
 
 ## Commit Attribution
