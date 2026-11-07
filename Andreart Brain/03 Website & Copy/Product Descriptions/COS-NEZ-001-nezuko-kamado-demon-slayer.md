@@ -6,9 +6,9 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.0"
+version: "1.1"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 sku: "COS-NEZ-001"
 price_cop: "350000"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-nezuko-kamado-demon-slayer-completo"
@@ -35,7 +35,11 @@ tags:
 - **Línea:** Sagas & Universos Especiales / Sets Completos de Animación
 - **Código de Referencia (SKU):** `COS-NEZ-001`
 - **Precio Oficial:** $350.000 COP
-- **Enlace en Cercia:** [Ver en Tienda](https://andreart.cercia.co/productos/disfraz-nezuko-kamado-demon-slayer-completo)
+- **Metatítulo:** `Conjunto Nezuko Kamado Demon Slayer Completo | Andreart` (55 caracteres)
+- **Metadescripción:** `Set completo inspirado en Nezuko Kamado: kimono rosa estampado, haori negro exterior, obi a cuadros y calentadoras. Confección en Bogotá con ajuste XS a XL.` (156 caracteres)
+- **Metatags:** `cosplay nezuko bogota, disfraz nezuko kamado, kimono nezuko demon slayer, conjunto nezuko completo, cosplay anime bogota, kimono tradicional anime, andreart vestuario`
+- **URL Amigable (Slug):** `disfraz-nezuko-kamado-demon-slayer-completo`
+- **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-nezuko-kamado-demon-slayer-completo`
 
 ---
 
@@ -74,4 +78,5 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-NEZ-001`).

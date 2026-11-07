@@ -6,9 +6,9 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.0"
+version: "1.1"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 sku: "COS-SW-001"
 price_cop: "250000"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-princesa-leia-star-wars-clasico"
@@ -35,7 +35,11 @@ tags:
 - **Línea:** Sagas & Universos Especiales / Star Wars
 - **Código de Referencia (SKU):** `COS-SW-001`
 - **Precio Oficial:** $250.000 COP
-- **Enlace en Cercia:** [Ver en Tienda](https://andreart.cercia.co/productos/disfraz-princesa-leia-star-wars-clasico)
+- **Metatítulo:** `Vestido Túnica Princesa Leia Star Wars Clásico | Andreart` (57 caracteres)
+- **Metadescripción:** `Vestido túnica blanco de la Princesa Leia con capota fluida, mangas acampanadas y cinturón detallado. Confección en Bogotá con moldería adaptable de XS a XL.` (157 caracteres)
+- **Metatags:** `vestido princesa leia, tunica princesa leia star wars, cosplay princesa leia bogota, traje star wars clasico, vestido con capota blanco, andreart vestuario`
+- **URL Amigable (Slug):** `disfraz-princesa-leia-star-wars-clasico`
+- **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-princesa-leia-star-wars-clasico`
 
 ---
 
@@ -75,4 +79,5 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-SW-001`).

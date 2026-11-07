@@ -6,9 +6,9 @@ skills_used:
   - "mas-copywriting"
   - "copy-editing"
 status: active
-version: "1.0"
+version: "1.1"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 sku: "COS-GOT-001"
 price_cop: "250000"
 cercia_url: "https://andreart.cercia.co/productos/disfraz-capa-jon-snow-game-of-thrones"
@@ -35,7 +35,11 @@ tags:
 - **Línea:** Sagas & Universos Especiales / Capas y Sobretodos
 - **Código de Referencia (SKU):** `COS-GOT-001`
 - **Precio Oficial:** $250.000 COP
-- **Enlace en Cercia:** [Ver en Tienda](https://andreart.cercia.co/productos/disfraz-capa-jon-snow-game-of-thrones)
+- **Metatítulo:** `Capa Jon Snow Game of Thrones con Piel | Andreart` (49 caracteres)
+- **Metadescripción:** `Capa medieval inspirada en Jon Snow con cuello de piel sintética premium y caída pesada. Confección artesanal en Bogotá con moldería adaptable XS a XL.` (152 caracteres)
+- **Metatags:** `capa jon snow, capa game of thrones bogota, capa medieval con piel, capa invernalia, cosplay game of thrones, sobretodo medieval bogota, andreart vestuario`
+- **URL Amigable (Slug):** `disfraz-capa-jon-snow-game-of-thrones`
+- **URL de Tienda Online:** `https://andreart.cercia.co/productos/disfraz-capa-jon-snow-game-of-thrones`
 
 ---
 
@@ -75,4 +79,5 @@ Sé tu propio héroe.
 ---
 
 ## 🔄 Historial de Revisiones (Changelog)
+- **v1.1 (2026-11-07):** Incorporar Metatítulo, Metadescripción y Metatags SEO
 - **v1.0 (2026-11-06):** Creación y homologación de la ficha técnica oficial vinculada al catálogo de Cercia (`COS-GOT-001`).

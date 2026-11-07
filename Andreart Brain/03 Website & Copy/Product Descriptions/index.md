@@ -5,9 +5,9 @@ workflow: "WF-PRODUCT-INDEX"
 skills_used:
   - "mas-copywriting"
 status: active
-version: "1.0"
+version: "1.1"
 created_at: 2026-11-06
-updated_at: 2026-11-06
+updated_at: 2026-11-07
 tags:
   - ecommerce
   - catalogo
@@ -35,9 +35,14 @@ tags:
 - [[03 Website & Copy/Product Descriptions/COS-NEZ-001-nezuko-kamado-demon-slayer.md|COS-NEZ-001]]: Nezuko Kamado Completo - Demon Slayer ($350.000 COP)
 - [[03 Website & Copy/Product Descriptions/COS-SW-001-princesa-leia-star-wars.md|COS-SW-001]]: Princesa Leia Clásico - Star Wars ($250.000 COP)
 - [[03 Website & Copy/Product Descriptions/COS-SW-002-conjunto-jedi-3-piezas.md|COS-SW-002]]: Conjunto Jedi (Capa, Kimono y Obi - 3 Piezas)
+- [[03 Website & Copy/Product Descriptions/COS-JJK-001-conjunto-suguru-geto-3-piezas.md|COS-JJK-001]]: Conjunto Suguru Geto - Jujutsu Kaisen (4 Piezas)
 - [[03 Website & Copy/Product Descriptions/COS-MIKO-001-sacerdotisa-japonesa-miko.md|COS-MIKO-001]]: Sacerdotisa Japonesa Tradicional - Miko ($350.000 COP)
 
 ---
 
 ## 🔗 Referencia Maestra
 - Consultar documento de homologación y reglas de nomenclatura: [[01 Brand Context/Catalogo y SKUs Cercia.md]]
+
+
+## 🔄 Historial de Revisiones (Changelog)
+- **v1.1 (2026-11-07):** Agregar COS-JJK-001 al índice de fichas de producto

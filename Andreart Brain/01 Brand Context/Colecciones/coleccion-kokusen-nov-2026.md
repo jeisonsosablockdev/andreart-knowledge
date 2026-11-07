@@ -76,6 +76,12 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 
 ---
 
+## 📸 4.0. Fotografía Editorial Realista (Lookbook Hero)
+![[01 Brand Context/Colecciones/Assets/Kokusen/08-foto-realista-kokusen-hero.jpg]]
+*Fotografía Editorial Realista:* Modelo luciendo el conjunto Kokusen completo en estudio de alta costura: blouson en sarga pesada con cuello chimenea estructurado (11 cm), tapeta oculta, ojaletes y reguladores de cordón en el cuello, y pantalón sastre de pernera ancha con doble pinza frontal profunda.
+
+---
+
 ## 🎨 4.1. Figurines de Moda a Mano Alzada (Turnaround Completo)
 *Estilo de taller: Trazos visibles de grafito, tinta y aguada de acuarela sobre papel marfil (#F6F4EE) con sello oficial de autor Andreart.*
 
