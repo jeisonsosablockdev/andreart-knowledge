@@ -1,0 +1,25 @@
+{
+  "name": "Resonancia Shinjuku",
+  "concept": "Deconstrucción del uniforme de hechicería urbana de Yuji Itadori adaptado a la sastrería sutil para la oficina y el día a día",
+  "hero": "Blouson Cuello Chimenea Resonancia",
+  "season": "Atemporal / Clima Frío y Montaña (Bogotá)",
+  "palette": "Negro azabache (#0D0D0E), carbón profundo (#1C1D21) y acentos en rojo carmesí (#A31D24)",
+  "pieces": [
+    {
+      "nombre": "Blouson Cuello Chimenea Resonancia",
+      "tipo": "Prenda Superior Insignia (Chaqueta)",
+      "silueta": "Corte relajado, cuello alto tipo chimenea con jareta de ajuste, tapeta oculta y volumen contenido",
+      "textil": "Sarga técnica de algodón peinado (310 GSM) con forro de satín rojo carmesí",
+      "molderia": "Hombro caído, sisa amplia ergonómica y sistema de tancas regulables en cuello y cintura (XS a XL)",
+      "sku": "ANDR-JJK-BLOU-01"
+    },
+    {
+      "nombre": "Pantalón Sastre Plisado Divergente",
+      "tipo": "Prenda Inferior Insignia (Pantalón)",
+      "silueta": "Pernera ancha relajada con doble pinza frontal profunda y quiebre vertical nítido",
+      "textil": "Gabardina de algodón peinado pesada (300 GSM) de alta recuperación",
+      "molderia": "Pretina híbrida (frontal plana sastre con pasadores de cinturón, posterior elástica con lazos interiores)",
+      "sku": "ANDR-JJK-PANT-01"
+    }
+  ]
+}

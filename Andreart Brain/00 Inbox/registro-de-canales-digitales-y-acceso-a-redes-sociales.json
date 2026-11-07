@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MarketingTaskSession",
+  "description": "Plantilla estándar para el seguimiento, descomposición y encadenamiento de tareas de marketing en AndreArt.",
+  "session_id": "registro-de-canales-digitales-y-acceso-a-redes-sociales",
+  "created_at": "2026-08-09T22:16:27.727Z",
+  "updated_at": "2026-08-09T22:17:03.549Z",
+  "status": "completed",
+  "intent": {
+    "raw_prompt": "registro-de-canales-digitales-y-acceso-a-redes-sociales",
+    "business_goal": "Objetivo comercial por definir",
+    "target_icp": "Audiencia objetivo por definir",
+    "constraints": [
+      "Tono directo",
+      "Sin clichés"
+    ],
+    "brand_context_verified": true
+  },
+  "workflows_chained": [
+    "CREAR DOCUMENTO MAESTRO DE CANALES Y ACCESOS OFICIALES",
+    "ACTUALIZAR PRODUCT-MARKETING-CONTEXT.MD CON SECCIÓN DE CANALES OFICIALES",
+    "ACTUALIZAR INDEX.MD DE 01 BRAND CONTEXT EN EL VAULT"
+  ],
+  "atomic_tasks": [
+    {
+      "id": "TASK-001",
+      "title": "TASK-001",
+      "workflow": "CREAR DOCUMENTO MAESTRO DE CANALES Y ACCESOS OFICIALES",
+      "skills": [
+        "MarketingAgentCore/context/brand-channels-and-access.md"
+      ],
+      "status": "completed",
+      "depends_on": [],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": []
+      },
+      "output": {
+        "vault_path": "01 Brand Context/Canales Oficiales y Redes Sociales.md",
+        "format": "markdown",
+        "summary": "Documento maestro de canales oficiales y accesos a redes sociales creado"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Crear documento maestro de canales y accesos oficiales",
+        "Revisión y formato verificados"
+      ]
+    },
+    {
+      "id": "TASK-002",
+      "title": "TASK-002",
+      "workflow": "ACTUALIZAR PRODUCT-MARKETING-CONTEXT.MD CON SECCIÓN DE CANALES OFICIALES",
+      "skills": [
+        "mas-social-content"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "TASK-001"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "TASK-001"
+        ]
+      },
+      "output": {
+        "vault_path": "01 Brand Context/product-marketing-context.md",
+        "format": "markdown",
+        "summary": "Sección de canales oficiales agregada a product-marketing-context.md"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Actualizar product-marketing-context.md con sección de canales oficiales",
+        "Revisión y formato verificados"
+      ]
+    },
+    {
+      "id": "TASK-003",
+      "title": "TASK-003",
+      "workflow": "ACTUALIZAR INDEX.MD DE 01 BRAND CONTEXT EN EL VAULT",
+      "skills": [
+        "mas-social-content"
+      ],
+      "status": "completed",
+      "depends_on": [
+        "TASK-002"
+      ],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": [
+          "TASK-002"
+        ]
+      },
+      "output": {
+        "vault_path": "01 Brand Context/index.md",
+        "format": "markdown",
+        "summary": "Índice de Brand Context actualizado con la referencia a Canales Oficiales"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Actualizar index.md de 01 Brand Context en el vault",
+        "Revisión y formato verificados"
+      ]
+    }
+  ],
+  "metrics_and_measurement": {
+    "primary_kpi": "Tasa de conversión / resultado",
+    "baseline_value": "N/A",
+    "target_value": "A definir",
+    "tracking_plan_path": "08 Analytics & Measurement/"
+  }
+}

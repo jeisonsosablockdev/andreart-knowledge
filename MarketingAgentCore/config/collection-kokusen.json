@@ -1,0 +1,25 @@
+{
+  "name": "Kokusen",
+  "concept": "Deconstrucción del uniforme de combate de Yuji Itadori y la técnica del Destello Negro (Kokusen), traducidos a una sastrería urbana monocromática de dos piezas para la oficina y el día a día",
+  "hero": "Chaqueta Cuello Chimenea Kokusen",
+  "season": "Atemporal / Clima Frío y Montaña (Bogotá)",
+  "palette": "Negro azabache (#0D0D0E), carbón profundo (#1C1D21) y grafito (#2A2C33), con forros completos en satín negro y herrajes en níquel pavonado mate",
+  "pieces": [
+    {
+      "nombre": "Chaqueta Cuello Chimenea Kokusen",
+      "tipo": "Prenda Superior Insignia (Chaqueta)",
+      "silueta": "Corte relajado, cuello alto tipo chimenea con jareta de ajuste, tapeta frontal oculta y volumen contenido en bajo",
+      "textil": "Sarga técnica de algodón peinado pesada (310 GSM) con forro completo en satín negro azabache de alta densidad",
+      "molderia": "Hombro caído, holgura ergonómica en sisa y sistema de tancas regulables en cuello y cintura (XS a XL)",
+      "sku": "ANDR-KOK-CHQ-01"
+    },
+    {
+      "nombre": "Pantalón Sastre Kokusen",
+      "tipo": "Prenda Inferior Insignia (Pantalón)",
+      "silueta": "Pernera ancha relajada con doble pinza frontal profunda, tiro medio-alto y quiebre vertical sastre",
+      "textil": "Gabardina pesada de algodón peinado (300 GSM) con alta recuperación y fondos de bolsillo en satín negro",
+      "molderia": "Pretina híbrida (frontal plana sastre con pasadores de cinturón, posterior elástica con lazos interiores)",
+      "sku": "ANDR-KOK-PAN-01"
+    }
+  ]
+}

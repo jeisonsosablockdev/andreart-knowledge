@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MarketingTaskSession",
+  "description": "Plantilla estándar para el seguimiento, descomposición y encadenamiento de tareas de marketing en AndreArt.",
+  "session_id": "actualizaci-n-de-lnk-bio-oficial-de-instagram",
+  "created_at": "2026-08-09T22:47:41.651Z",
+  "updated_at": "2026-08-09T22:48:07.255Z",
+  "status": "completed",
+  "intent": {
+    "raw_prompt": "actualizaci-n-de-lnk-bio-oficial-de-instagram",
+    "business_goal": "Objetivo comercial por definir",
+    "target_icp": "Audiencia objetivo por definir",
+    "constraints": [
+      "Tono directo",
+      "Sin clichés"
+    ],
+    "brand_context_verified": true
+  },
+  "workflows_chained": [
+    "ACTUALIZAR ENLACE OFICIAL LNK.BIO EN DOCUMENTOS DE CONTEXTO"
+  ],
+  "atomic_tasks": [
+    {
+      "id": "TASK-001",
+      "title": "TASK-001",
+      "workflow": "ACTUALIZAR ENLACE OFICIAL LNK.BIO EN DOCUMENTOS DE CONTEXTO",
+      "skills": [
+        "01 Brand Context/Canales Oficiales y Redes Sociales.md"
+      ],
+      "status": "completed",
+      "depends_on": [],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": []
+      },
+      "output": {
+        "vault_path": "01 Brand Context/Canales Oficiales y Redes Sociales.md",
+        "format": "markdown",
+        "summary": "Enlace oficial https://lnk.bio/andreart registrado en todos los archivos de contexto"
+      },
+      "validation_criteria": [
+        "Cumple estándar de Actualizar enlace oficial Lnk.bio en documentos de contexto",
+        "Revisión y formato verificados"
+      ]
+    }
+  ],
+  "metrics_and_measurement": {
+    "primary_kpi": "Tasa de conversión / resultado",
+    "baseline_value": "N/A",
+    "target_value": "A definir",
+    "tracking_plan_path": "08 Analytics & Measurement/"
+  }
+}

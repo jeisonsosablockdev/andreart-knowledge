@@ -1,0 +1,44 @@
+{
+  "system_version": "2.0-minimalist",
+  "carousel_id": "2026-08-16-carrusel-hanbok-moderno-knot-of-time",
+  "aspect_ratio": "4:5 (1080x1350 px)",
+  "garment": "Conjunto Hanbok Moderno Knot of Time",
+  "cultural_reference": "Tradición Oriental Reinterpretada / K-Fashion Urbana",
+  "brand_visual_identity": {
+    "palette": {
+      "deep_violet": "#3E2356",
+      "soft_lilac": "#CBBAD9",
+      "atelier_ivory": "#F6F4EE",
+      "obsidian_charcoal": "#1E1B24",
+      "pure_white": "#FFFFFF"
+    },
+    "positive_tokens": "andreart brand visual style, ultra-minimalist, ample negative space, clean uncluttered composition, airy elegance, loose delicate fluid linework, zero clutter, spacious clean background, haute couture minimalism, simple and breathable layout",
+    "negative_tokens": "cluttered, overcrowded, busy composition, excessive annotations, floating objects, saturated details, messy lines, text clutter, heavy textures, overly dense, visually noisy, cheap cosplay, bright neon party colors, childish cartoon, muddy colors"
+  },
+  "slides": {
+    "slide_1_hero": {
+      "file": "01-portada-hero.png",
+      "type": "Fotografía Editorial / Hero",
+      "description": "Fotografía editorial vertical 4:5 de alta costura urbana. Conjunto Hanbok Moderno Knot of Time luciendo en modelo con iluminación dramática de taller, atmósfera violeta profundo (#3E2356) y porte heroico inspirado en Tradición Oriental Reinterpretada / K-Fashion Urbana.",
+      "prompt": "High-fashion editorial vertical 4:5 portrait of a model wearing avant-garde Conjunto Hanbok Moderno Knot of Time, Andreart brand style, deep violet atmospheric studio lighting (#3E2356), soft lavender rim light (#CBBAD9), moody cinematic depth, uncluttered clean background, sharp focus, haute couture styling."
+    },
+    "slide_2_line_art_figurine": {
+      "file": "02-figurin-lineas-tecnico.png",
+      "type": "Ficha Técnica CAD de Patronaje (Figurín & Plano Técnico)",
+      "description": "Ilustración técnica de moda y plano CAD de patronaje. Maniquí estilizado vistiendo el conjunto a la izquierda y dibujo plano técnico con cotas, pliegues y anotaciones a la derecha sobre fondo blanco puro.",
+      "prompt": "Professional fashion technical flat drawing and specification sheet of avant-garde Conjunto Hanbok Moderno Knot of Time, in the exact artistic CAD style of the reference image, pure white background, crisp black vector line art. Left side shows a minimalist mannequin fashion figure wearing the ensemble. Right side shows the detailed technical flat drawing of the garment with seam lines, fabric drape arrows, and neat uppercase technical callout annotations with leader lines, and 'DESIGN NO. 042' at bottom right. High contrast, precise tailoring blueprints."
+    },
+    "slide_3_pas_detail": {
+      "file": "03-plano-detalle-pas.png",
+      "type": "Planos Macro Detalle & Confort PAS",
+      "description": "Fotografía macro a la textura textil de alto gramaje con matices lavanda (#CBBAD9), costuras reforzadas limpias y marquilla estampada suave imperceptible al tacto (confort PAS).",
+      "prompt": "Professional macro photography of dark heavyweight luxury textile weave with soft lavender undertones (#CBBAD9), clean reinforced tailoring stitches, seamless printed tagless label, tactile comfort PAS, clean studio lighting, shallow depth of field, minimalist composition."
+    },
+    "slide_4_conversion_cta": {
+      "file": "04-conversion-cta.png",
+      "type": "Slide de Cierre Comercial (CTA)",
+      "description": "Diseño gráfico comercial ultra-minimalista para Instagram en formato 4:5. Fondo liso en morado real (#3E2356), monograma geométrico blanco de Andreart, tipografía fina 'SÉ TU PROPIO HÉROE'. Máxima limpieza visual.",
+      "prompt": "Ultra-minimalist haute couture Instagram slide for Andreart, seamless flat solid deep royal violet background (#3E2356), vast empty negative space, perfectly centered clean white geometric Andreart logo monogram, minimal single-line elegant typography 'SÉ TU PROPIO HÉROE', clean refined luxury aesthetic, zero clutter, breathable and simple."
+    }
+  }
+}

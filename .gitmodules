@@ -1,0 +1,6 @@
+[submodule "marketingskills"]
+	path = marketingskills
+	url = https://github.com/coreyhaines31/marketingskills.git
+[submodule "obsidian-agent-client"]
+	path = obsidian-agent-client
+	url = https://github.com/RAIT-09/obsidian-agent-client.git

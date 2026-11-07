@@ -1,0 +1,81 @@
+{
+  "carousel_id": "2026-08-10-carrusel-hanbok-reinterpretado-concierto-bts",
+  "title": "Hanbok Reinterpretado de Autor (Semana 1 - Hanbok 1)",
+  "garment": "Hanbok Reinterpretado de Autor",
+  "cultural_reference": "BTS / Eventos K-Pop",
+  "aspect_ratio": "4:5 (1080x1350 px)",
+  "brand_visual_identity": {
+    "deep_violet": "#3E2356",
+    "soft_lilac": "#CBBAD9",
+    "atelier_ivory": "#F6F4EE",
+    "obsidian_charcoal": "#1E1B24",
+    "pure_white": "#FFFFFF",
+    "slogan": "Sé tu propio héroe"
+  },
+  "assets_inventory": {
+    "hero": {
+      "file": "01-portada-hero.png",
+      "type": "Fotografía Editorial Hero (Entrada)",
+      "description": "Fotografía editorial de la modelo vistiendo el Hanbok Moderno con jeogori negro, lazo de cintura y falda morada jacquard floral."
+    },
+    "detalles": [
+      {
+        "file": "02-detalle-1-cuello-crossover.png",
+        "type": "Detalle 1: Cuello Crossover & Vivo Rosa Pastel",
+        "description": "Macro fotografía de alta costura al cuello cruzado del jeogori negro con vivo interior rosa pastel y costuras de alta sastrería.",
+        "prompt": "Extreme macro close-up photography of the crossover collar neckline of the modern Hanbok from the reference image. Crisp clean black tailored cropped jeogori fabric with delicate light pastel pink inner collar lining accent. Fine high-density tailored stitching, matte black luxury fabric texture, studio rim lighting, shallow depth of field, haute couture craftsmanship detail, Andreart brand aesthetic."
+      },
+      {
+        "file": "03-detalle-2-lazo-cinturon.png",
+        "type": "Detalle 2: Lazo Otgoreum & Cinturón de Talle Alto",
+        "description": "Plano detalle del lazo negro frontal y pretina ancha reposando sobre la textura de la falda brocada.",
+        "prompt": "Macro close-up shot focusing on the wide black silk ribbon tie bow tied at the waist of the modern Hanbok from the reference image. The elegant black bow rests over the high-waisted pleated royal purple textured jacquard skirt with pale pink rose patterns. Clear focus on the smooth ribbon knot, the rich wavy textile texture underneath, clean stitching, luxury tailoring studio lighting."
+      },
+      {
+        "file": "04-detalle-3-pliegues-falda.png",
+        "type": "Detalle 3: Pliegues Arquitectónicos & Acabados de Ruedo",
+        "description": "Plano detalle a los pliegues de caída estructurada y las rosas en relieve sobre el tejido morado.",
+        "prompt": "Close-up macro shot of the architectural pleats and hem of the royal purple jacquard flared skirt from the reference image. Embossed pale pink and lavender rose floral motifs across the textured wavy purple fabric. Deep crisp knife pleats, heavy fabric drape, invisible hem stitching, ultra-fine textile craftsmanship, elegant studio lighting."
+      }
+    ],
+    "patrones": [
+      {
+        "file": "05-patron-1-textil-jacquard.png",
+        "type": "Patrón 1: Muestra Textil Damasco / Jacquard Floral",
+        "description": "Textura macro en plano cenital del tejido jacquard morado con rosas botánicas y ondas sutiles.",
+        "prompt": "Full-frame macro flat lay photography of the luxury jacquard textile pattern from the skirt in the reference image. Rich royal purple woven fabric background with subtle wavy moire texture, adorned with delicate pale pink and soft lilac embossed botanical rose blossoms in full bloom. Intricate high-density thread weave, lustrous sheen, elegant haute couture textile swatch."
+      },
+      {
+        "file": "06-patron-2-cad-plano-tecnico.png",
+        "type": "Patrón 2: Ficha Técnica CAD de Patronaje y Deconstrucción",
+        "description": "Plano CAD vectorial con cotas técnicas, despiece de piezas y anotaciones de moldería adaptativa XS-XL.",
+        "prompt": "Professional fashion technical flat drawing and CAD pattern blueprints for the modern Hanbok ensemble from the reference image. Pure crisp white background (#FFFFFF). On the left, a minimalist vector fashion figure wearing the black cropped jeogori and purple pleated floral skirt. On the right, geometric pattern cutting pieces (front jeogori crossover panel, collar band, pleated skirt draft) with fine black vector lines, tailoring dimension lines, pleat arrows, and neat uppercase technical callouts DESIGN NO. 043."
+      },
+      {
+        "file": "07-patron-3-figurin-lineas.png",
+        "type": "Patrón 3: Figurín Line-Art Minimalista",
+        "description": "Trazado fino minimalista de autor en tinta sobre fondo marfil taller mostrando la silueta en descanso.",
+        "prompt": "Ultra-minimalist fine line art fashion sketch of modern Hanbok ensemble, loose delicate fluid black ink vector lines on clean atelier ivory background (#F6F4EE), ample negative space, elegant flowing silhouette, zero clutter."
+      }
+    ],
+    "cta": [
+      {
+        "file": "08-cta-1-ultra-minimal-violeta.png",
+        "type": "CTA 1: Monograma Geométrico Ultra-Minimalista",
+        "description": "Fondo liso morado real (#3E2356) con monograma blanco de Andreart y eslogan Sé tu propio héroe.",
+        "prompt": "Ultra-minimalist haute couture Instagram slide for Andreart, seamless flat solid deep royal violet background (#3E2356), vast empty negative space, perfectly centered clean white geometric Andreart logo monogram, minimal single-line elegant typography SÉ TU PROPIO HÉROE, clean refined luxury aesthetic, zero clutter."
+      },
+      {
+        "file": "09-cta-2-boton-whatsapp.png",
+        "type": "CTA 2: Tarjeta de Conversión con Botón Luminous WhatsApp",
+        "description": "Composición morada con botón de pedido directo, mención de confección en Bogotá y moldería XS-XL.",
+        "prompt": "Haute couture Instagram CTA card for Andreart, deep royal violet canvas, centered white logo, Sé tu propio héroe typography, Atelier Bogotá info, luminous glowing WhatsApp direct order button at bottom."
+      },
+      {
+        "file": "10-cta-3-tarjeta-editorial.png",
+        "type": "CTA 3: Marco Editorial de Autor",
+        "description": "Marco con filetes lavanda y marfil sobre fondo morado real para remate estético o portada de despedida."
+      }
+    ]
+  }
+}

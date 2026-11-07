@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MarketingTaskSession",
+  "description": "Plantilla estándar para el seguimiento, descomposición y encadenamiento de tareas de marketing en AndreArt.",
+  "session_id": "instagram-capa-jedi-obi-wan",
+  "created_at": "2026-11-06T17:19:57.880Z",
+  "updated_at": "2026-11-06T17:22:24.333Z",
+  "status": "completed",
+  "intent": {
+    "raw_prompt": "instagram-capa-jedi-obi-wan",
+    "business_goal": "Crear publicacion de Instagram y alt-text para Capa Jedi Obi-Wan con copy-editing y Ralph Loop",
+    "target_icp": "Profesionales tech, creativos y comunidad de cine epico / fantasia urbana",
+    "constraints": [
+      "Sin palabras prohibidas (geek",
+      "cosplay barato)",
+      "enfasis en diseno de autor y caida estructurada"
+    ],
+    "brand_context_verified": true
+  },
+  "workflows_chained": [
+    "W5_CONTENT_SOCIAL"
+  ],
+  "atomic_tasks": [
+    {
+      "id": "TASK-001",
+      "title": "Redactar copies y alt-text para Capa Jedi Obi-Wan con Copy-Editing y Ralph Loop",
+      "workflow": "W5_CONTENT_SOCIAL",
+      "skills": [
+        "copy-editing",
+        "mas-copywriting",
+        "mas-social-content"
+      ],
+      "status": "completed",
+      "depends_on": [],
+      "inputs": {
+        "context_file": "MarketingAgentCore/context/product-marketing-context.md",
+        "reference_task_ids": []
+      },
+      "output": {
+        "vault_path": "07 Paid, Social & Community/Social Content/2026-11-06-instagram-capa-jedi-obi-wan.md",
+        "format": "markdown",
+        "summary": "Copies comerciales con 7 pasadas de copy-editing, Ralph Loop (8.9/9.0) y Alt-Texts generados en 2026-11-06-instagram-capa-jedi-obi-wan.md"
+      },
+      "validation_criteria": [
+        "Cumple estándar de W5_CONTENT_SOCIAL",
+        "Revisión y formato verificados"
+      ]
+    }
+  ],
+  "metrics_and_measurement": {
+    "primary_kpi": "Tasa de conversión / resultado",
+    "baseline_value": "N/A",
+    "target_value": "A definir",
+    "tracking_plan_path": "08 Analytics & Measurement/",
+    "final_notes": "Publicacion de Instagram y Alt-Texts para Capa Jedi Obi-Wan completados con exito bajo estandares de copy-editing y Ralph Loop"
+  }
+}
