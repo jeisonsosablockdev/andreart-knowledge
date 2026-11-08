@@ -27,8 +27,8 @@
       "name": "Enterizo Over-Rider Rebel Pilot",
       "sku": "ANDR-OVR-REB-01",
       "category": "Prenda Enteriza Exterior (Oversuit)",
-      "textile": "Cordura / Nylon Oxford 600D impermeable en Naranja Vuelo Rebelde (#D84315) con mangas en alforzas nervadas (pin-tucks), pechera táctica en lona blanca repelente (#F0EFEB) y forro térmico capitonado desmontable",
-      "fit": "Corte ergonómico precurvado para moto en naranja vuelo rebelde, mangas con alforzas acolchadas continuas, pechera táctica blanca estructurada con arneses carbón, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda y drop-seat trasero"
+      "textile": "Cordura / Nylon Oxford 600D impermeable en Naranja Vuelo Rebelde (#D84315) con canesú de pecho blanco integrado (#F0EFEB), mangas en alforzas nervadas (pin-tucks) y forro térmico capitonado desmontable",
+      "fit": "Corte ergonómico precurvado para moto en naranja vuelo rebelde, canesú blanco integrado dividido verticalmente por la cremallera completa lateral derecha (cuello a bota), mangas con alforzas acolchadas continuas, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera interna de entrepierna en pierna izquierda y drop-seat trasero"
     }
   ],
   "assets": [
@@ -87,7 +87,7 @@
       "category": "figurine",
       "garment": "Enterizo Over-Rider Rebel Pilot",
       "view": "frente-pasarela-hombre-naranja-rebelde",
-      "description": "Figurín de autor a mano alzada en acuarela naranja (#D84315) sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Poe Dameron luciendo el enterizo técnico motero, pechera táctica blanca estructurada con arneses técnicos carbón, bolsillos cargo con reatas en muslos y espinillas, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.",
+      "description": "Figurín de autor a mano alzada en acuarela naranja (#D84315) sobre papel marfil (#F6F4EE) con modelo masculino estilo Paradise Kiss (Ai Yazawa) luciendo el enterizo técnico motero, canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera completa lateral derecha (cuello a bota), mangas con alforzas nervadas continuas (pin-tucks), cremallera interna de entrepierna en pierna izquierda, bolsillos cargo con reatas, llamadas técnicas y sello oficial Andreart.",
       "source_reference": "./references/refe-piloto-rebelde-poe-dameron.png, ./references/refe-vista-frontal-puesta.jpg",
       "status": "active",
       "approved": true
