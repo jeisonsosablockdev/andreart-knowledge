@@ -63,12 +63,13 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 ---
 
-## 🏍️ 3. Catálogo de Prendas Insignia (2 Modelos Oficiales)
+## 🏍️ 3. Catálogo de Prendas Insignia (3 Modelos Oficiales)
 
 | Modelo | Referencia SKU | Inspiración / Universo | Gráficos y Personalización | Arquitectura y Funcionalidad |
 | :--- | :--- | :--- | :--- | :--- |
 | **Enterizo Over-Rider Toman Shodai** | `ANDR-OVR-TOM-01` | Manjirō Sano / Tokyo Revengers | Base Total Jet Black (#0D0D0E). Espalda: Kanjis oficiales Toman ("初代", "東京卍會", "天上天下唯我独尊") en serigrafía reflectiva. Mangas: "初代総長" vertical. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y forro térmico desmontable. |
 | **Enterizo Over-Rider The Capsules** | `ANDR-OVR-AKI-01` | Akira / Mitsuru Kuwata & Shotaro Kaneda | Base Rojo Escarlata Kaneda (#D01E29). Hombreras acolchadas acanaladas estilo Akira. Espalda: Gran emblema circular de la píldora bicolor con leyenda *"Good for health, Bad for education"*. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello motero con broches, drop-seat lumbar y forro térmico desmontable. |
+| **Enterizo Over-Rider Rebel Pilot** | `ANDR-OVR-REB-01` | Piloto Rebelde X-Wing (Star Wars / Poe Dameron & Luke Skywalker) | Base Naranja Vuelo Rebelde (#D84315), pechera táctica blanca estructurada (#F0EFEB) con arneses técnicos carbón, bolsillos cargo modulares en muslos y espinillas con reatas de ajuste. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello alto acanalado cortaviento, drop-seat trasero y forro térmico desmontable. |
 
 ---
 
@@ -113,6 +114,12 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/04-figurin-capsules-akira-espalda.jpg]]
 *Figurín Dorsal (The Capsules Akira v1.1):* Vista posterior de cuerpo entero mostrando en el centro de la espalda a gran escala el emblemático diseño circular de la píldora cápsula bicolor (rojo escarlata y blanco) con el lema *"Good for health, Bad for education"*, canesú sastre con compartimento para capota escamoteable, hombreras acanaladas visibles desde atrás, solapa lumbar abatible (*drop-seat*) con franja reflectiva y cremallera horizontal, llamadas técnicas caligráficas y el sello oficial Andreart sobre papel marfil.
 
+### Enterizo Over-Rider Rebel Pilot (Alianza Rebelde / Star Wars)
+
+#### Vista Frontal (Figurín Protagónico Masculino en Naranja Vuelo Rebelde)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/05-figurin-rebel-pilot-frente.jpg]]
+*Figurín Frontal (Rebel Pilot v1.0):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en Naranja Vuelo Rebelde (#D84315): modelo masculino estilizado de alta costura inspirado en Poe Dameron luciendo el enterizo técnico motero con pechera táctica blanca estructurada (#F0EFEB), arneses técnicos en gris carbón con reata vertical y hebillas de sujeción, cuello alto acanalado cortaviento, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillos cargo tácticos con fuelle y reatas de compresión en muslos y espinillas, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+
 ---
 
 ## 🗂️ 4.5. Manifiesto y Barrel de Activos (`manifest.json` / `index.ts`)
@@ -123,6 +130,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | `02-figurin-toman-shodai-espalda` | `02-figurin-toman-shodai-espalda.jpg` | Figurín Protagónico (Espalda) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Kanjis Toman & Drop-Seat) |
 | `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico (Frente Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` |
 | `04-figurin-capsules-akira-espalda` | `04-figurin-capsules-akira-espalda.jpg` | Figurín Protagónico (Espalda Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + Píldora Akira |
+| `05-figurin-rebel-pilot-frente` | `05-figurin-rebel-pilot-frente.jpg` | Figurín Protagónico (Frente Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | `references/refe-piloto-rebelde-poe-dameron.png` |
 
 ---
 
@@ -130,6 +138,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | Archivo de Referencia | Descripción Técnica y Utilidad de Patronaje |
 | :--- | :--- |
+| `refe-piloto-rebelde-poe-dameron.png` | Referencia de indumentaria de vuelo de piloto de la Resistencia / Alianza Rebelde (Poe Dameron): traje de vuelo naranja, pechera táctica blanca, arneses pélvicos de seguridad y bolsillos cargo en perneras. |
 | `refe-kaneda-akira-suit.jpg` | Referencia oficial de Shotaro Kaneda (Akira): traje y chaqueta en rojo escarlata, hombreras acolchadas acanaladas y cuello motero con broches. |
 | `refe-apertura-paso-1.jpg` | Demostración de colocación rápida: apertura inicial envolvente sin descalzarse. |
 | `refe-apertura-paso-2-forro.jpg` | Vista interior del forro acolchado capitonado en rombos y solapa frontal. |

@@ -59,6 +59,13 @@ export const GARMENTS: CollectionGarment[] = [
     category: 'Prenda Enteriza Exterior (Oversuit)',
     textile: 'Cordura / Nylon Oxford 600D impermeable en Rojo Escarlata Kaneda (#D01E29) con forro térmico capitonado desmontable',
     fit: 'Corte ergonómico precurvado para moto en rojo escarlata, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y gran emblema dorsal de la píldora "Good for health, Bad for education"'
+  },
+  {
+    name: 'Enterizo Over-Rider Rebel Pilot',
+    sku: 'ANDR-OVR-REB-01',
+    category: 'Prenda Enteriza Exterior (Oversuit)',
+    textile: 'Cordura / Nylon Oxford 600D impermeable en Naranja Vuelo Rebelde (#D84315) con pechera táctica en lona blanca repelente (#F0EFEB) y forro térmico capitonado desmontable',
+    fit: 'Corte ergonómico precurvado para moto en naranja vuelo rebelde, pechera táctica blanca estructurada con arneses carbón, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda y drop-seat trasero'
   }
 ];
 
@@ -110,10 +117,28 @@ export const ASSETS: Record<string, CollectionAsset> = {
     sourceReference: './references/refe-kaneda-akira-suit.jpg, ./references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true
+  },
+  '05-figurin-rebel-pilot-frente': {
+    id: '05-figurin-rebel-pilot-frente',
+    filename: '05-figurin-rebel-pilot-frente.jpg',
+    path: './assets/05-figurin-rebel-pilot-frente.jpg',
+    category: 'figurine',
+    garment: 'Enterizo Over-Rider Rebel Pilot',
+    view: 'frente-pasarela-hombre-naranja-rebelde',
+    description: 'Figurín de autor a mano alzada en acuarela naranja (#D84315) sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Poe Dameron luciendo el enterizo técnico motero, pechera táctica blanca estructurada con arneses técnicos carbón, bolsillos cargo con reatas en muslos y espinillas, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.',
+    sourceReference: './references/refe-piloto-rebelde-poe-dameron.png, ./references/refe-vista-frontal-puesta.jpg',
+    status: 'active',
+    approved: true
   }
 };
 
 export const REFERENCES: Record<string, CollectionReference> = {
+  'refe-piloto-rebelde-poe-dameron': {
+    filename: 'refe-piloto-rebelde-poe-dameron.png',
+    path: './references/refe-piloto-rebelde-poe-dameron.png',
+    type: 'rebel-pilot-flight-suit-reference',
+    description: 'Referencia de indumentaria de vuelo de piloto de la Resistencia / Alianza Rebelde (Poe Dameron): traje de vuelo naranja, pechera táctica blanca, arneses pélvicos de seguridad y bolsillos cargo en perneras provista por el usuario.'
+  },
   'refe-kaneda-akira-suit': {
     filename: 'refe-kaneda-akira-suit.jpg',
     path: './references/refe-kaneda-akira-suit.jpg',
