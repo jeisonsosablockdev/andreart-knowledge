@@ -64,8 +64,8 @@ export const GARMENTS: CollectionGarment[] = [
     name: 'Enterizo Over-Rider Rebel Pilot',
     sku: 'ANDR-OVR-REB-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
-    textile: 'Cordura / Nylon Oxford 600D impermeable en Naranja Vuelo Rebelde (#D84315) con pechera táctica en lona blanca repelente (#F0EFEB) y forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto en naranja vuelo rebelde, pechera táctica blanca estructurada con arneses carbón, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda y drop-seat trasero'
+    textile: 'Cordura / Nylon Oxford 600D impermeable en Naranja Vuelo Rebelde (#D84315) con mangas en alforzas nervadas (pin-tucks), pechera táctica en lona blanca repelente (#F0EFEB) y forro térmico capitonado desmontable',
+    fit: 'Corte ergonómico precurvado para moto en naranja vuelo rebelde, mangas con alforzas acolchadas continuas, pechera táctica blanca estructurada con arneses carbón, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda y drop-seat trasero'
   }
 ];
 
@@ -133,6 +133,12 @@ export const ASSETS: Record<string, CollectionAsset> = {
 };
 
 export const REFERENCES: Record<string, CollectionReference> = {
+  'refe-chaqueta-columbia-star-wars-alforzas': {
+    filename: 'refe-chaqueta-columbia-star-wars-alforzas.jpg',
+    path: './references/refe-chaqueta-columbia-star-wars-alforzas.jpg',
+    type: 'sleeve-pintuck-reference',
+    description: 'Referencia de alforzas nervadas (pin-tucks / canalé acolchado continuo) a lo largo del exterior de las mangas en chaqueta de vuelo Star Wars x Columbia provista por el usuario.'
+  },
   'refe-piloto-rebelde-poe-dameron': {
     filename: 'refe-piloto-rebelde-poe-dameron.png',
     path: './references/refe-piloto-rebelde-poe-dameron.png',

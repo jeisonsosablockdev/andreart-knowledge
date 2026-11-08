@@ -69,7 +69,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | :--- | :--- | :--- | :--- | :--- |
 | **Enterizo Over-Rider Toman Shodai** | `ANDR-OVR-TOM-01` | Manjirō Sano / Tokyo Revengers | Base Total Jet Black (#0D0D0E). Espalda: Kanjis oficiales Toman ("初代", "東京卍會", "天上天下唯我独尊") en serigrafía reflectiva. Mangas: "初代総長" vertical. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y forro térmico desmontable. |
 | **Enterizo Over-Rider The Capsules** | `ANDR-OVR-AKI-01` | Akira / Mitsuru Kuwata & Shotaro Kaneda | Base Rojo Escarlata Kaneda (#D01E29). Hombreras acolchadas acanaladas estilo Akira. Espalda: Gran emblema circular de la píldora bicolor con leyenda *"Good for health, Bad for education"*. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello motero con broches, drop-seat lumbar y forro térmico desmontable. |
-| **Enterizo Over-Rider Rebel Pilot** | `ANDR-OVR-REB-01` | Piloto Rebelde X-Wing (Star Wars / Poe Dameron & Luke Skywalker) | Base Naranja Vuelo Rebelde (#D84315), pechera táctica blanca estructurada (#F0EFEB) con arneses técnicos carbón, bolsillos cargo modulares en muslos y espinillas con reatas de ajuste. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello alto acanalado cortaviento, drop-seat trasero y forro térmico desmontable. |
+| **Enterizo Over-Rider Rebel Pilot** | `ANDR-OVR-REB-01` | Piloto Rebelde X-Wing (Star Wars / Poe Dameron & Luke Skywalker) | Base Naranja Vuelo Rebelde (#D84315), mangas con alforzas horizontales acolchadas en canalé continuo (pin-tucks), pechera táctica blanca estructurada (#F0EFEB) con arneses técnicos carbón, bolsillos cargo modulares en muslos y espinillas con reatas de ajuste. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello alto acanalado cortaviento, drop-seat trasero y forro térmico desmontable. |
 
 ---
 
@@ -138,6 +138,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | Archivo de Referencia | Descripción Técnica y Utilidad de Patronaje |
 | :--- | :--- |
+| `refe-chaqueta-columbia-star-wars-alforzas.jpg` | Referencia de alforzas nervadas (pin-tucks / canalé acolchado continuo) a lo largo del exterior de las mangas en chaqueta de vuelo Star Wars x Columbia provista por el usuario. |
 | `refe-piloto-rebelde-poe-dameron.png` | Referencia de indumentaria de vuelo de piloto de la Resistencia / Alianza Rebelde (Poe Dameron): traje de vuelo naranja, pechera táctica blanca, arneses pélvicos de seguridad y bolsillos cargo en perneras. |
 | `refe-kaneda-akira-suit.jpg` | Referencia oficial de Shotaro Kaneda (Akira): traje y chaqueta en rojo escarlata, hombreras acolchadas acanaladas y cuello motero con broches. |
 | `refe-apertura-paso-1.jpg` | Demostración de colocación rápida: apertura inicial envolvente sin descalzarse. |
