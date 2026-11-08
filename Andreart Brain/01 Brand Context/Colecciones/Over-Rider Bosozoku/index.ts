@@ -51,14 +51,14 @@ export const GARMENTS: CollectionGarment[] = [
     sku: 'ANDR-OVR-TOM-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
     textile: 'Cordura / Nylon Oxford 600D impermeable con forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto, cremalleras laterales de pierna completa, drop-seat trasero y serigrafía reflectiva kanjis Toman'
+    fit: 'Corte ergonómico precurvado para moto, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y serigrafía reflectiva kanjis Toman'
   },
   {
     name: 'Enterizo Over-Rider The Capsules',
     sku: 'ANDR-OVR-AKI-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
     textile: 'Cordura / Nylon Oxford 600D impermeable con forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto, cremalleras laterales de pierna completa, drop-seat trasero y emblema cápsula Akira reflectivo'
+    fit: 'Corte ergonómico precurvado para moto, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y emblema cápsula Akira reflectivo'
   }
 ];
 
@@ -70,8 +70,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'figurine',
     garment: 'Enterizo Over-Rider Toman Shodai',
     view: 'frente-pasarela',
-    description: 'Figurín de autor anime inspirado en Mikey luciendo el enterizo técnico motero en Jet Black (#0D0D0E) con cuello chimenea, cremallera central bidireccional, bolsillos técnicos y caligrafía dorada reflectiva "初代総長" en mangas.',
-    sourceReference: './references/refe-vista-frontal-puesta.jpg',
+    description: 'Figurín de autor a mano alzada en acuarela sobre papel marfil (#F6F4EE) luciendo el enterizo técnico motero en Jet Black (#0D0D0E) con cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, bolsillo táctico de pecho, kanjis dorados reflectivos "初代総長", llamadas técnicas y sello Andreart.',
+    sourceReference: './references/refe-vista-frontal-puesta.jpg, ./references/refe-apertura-total-capullo.jpg',
     status: 'active',
     approved: true
   },

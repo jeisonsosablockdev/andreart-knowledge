@@ -74,9 +74,9 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 ## ⚙️ 4. Ingeniería Textil y Ergonomía Motera
 
-### 4.1. Sistema de Apertura Dual Integral (Fast Step-In)
-• **Cremallera Central Frontal:** Cremallera continua bidireccional impermeable (cremallera de 2 carros) desde el borde del cuello chimenea hasta el tiro, cubierta por doble tapeta cortaviento con cierre hermético de velcro.  
-• **Cremalleras Laterales de Pierna Completa:** Cremalleras perimétricas que recorren desde la cadera/cintura hasta el dobladillo inferior del tobillo en ambas piernas. Permiten abrir completamente las perneras para introducir las piernas con botas gruesas de moto puestas, sin ensuciar el interior de la prenda.  
+### 4.1. Sistema de Apertura Asimétrico Fast Step-In (Ingeniería de Doble Cremallera)
+• **Cremallera Completa Continua en Lado Derecho (Cuello a Bota):** Cremallera perimétrica continua impermeable de alto calibre que recorre desde el cuello alto / hombro derecho, bajando verticalmente por el costado derecho del torso y a lo largo de toda la pernera derecha exterior hasta el tobillo y la bota. Al desabrocharse, abre todo el lateral derecho en abanico envolvente (tipo capullo) para colocarse y retirarse el enterizo en segundos con el calzado puesto.  
+• **Cremallera Interna de Entrepierna en Pierna Izquierda (Entrepierna a Bota):** Cremallera técnica continua ubicada en el borde interno (*inseam*) de la pierna izquierda, recorriendo desde el tiro / entrepierna hasta el dobladillo inferior de la bota izquierda. Facilita la entrada de la bota y el calce ergonómico sin tener que elevar la pierna.  
 • **Solapa Lumbar Abatible (*Drop-Seat*):** Cremallera horizontal continua protegida bajo un canesú cortaviento y banda reflectiva en la zona baja de la espalda. Permite abatir la parte posterior del pantalón sin desabrochar la chaqueta, brindando acceso inmediato a bolsillos traseros o uso sanitario sin retirarse el casco ni la prenda superior.
 
 ### 4.2. Climatología y Modularidad Térmica
@@ -97,7 +97,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 #### Vista Frontal (Figurín Protagónico)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/01-figurin-toman-shodai-frente.jpg]]
-*Figurín Frontal (Toman Shodai):* Modelo anime inspirado en Manjirō Sano ("Mikey") en postura erguida de pasarela luciendo el enterizo técnico motero en Total Jet Black mate (#0D0D0E): cuello chimenea alto (10 cm), cremallera central bidireccional continua con tapeta cortaviento, bolsillos asimétricos de pecho (fuelle a la derecha y termosellado a la izquierda), cremalleras perimétricas laterales de cintura a tobillo y los kanjis caligráficos en oro reflectivo "初代総長" en ambas mangas.
+*Figurín Frontal (Toman Shodai v1.1):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): modelo estilizada luciendo el enterizo técnico motero con cuello chimenea cortaviento, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillo táctico de fuelle en pecho, kanjis caligráficos dorados reflectivos "初代総長" en manga, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
 
 #### Vista Dorsal / Espalda (Figurín Protagónico)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/02-figurin-toman-shodai-espalda.jpg]]
