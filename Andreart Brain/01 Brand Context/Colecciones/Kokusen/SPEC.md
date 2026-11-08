@@ -83,9 +83,9 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 ![[01 Brand Context/Colecciones/Kokusen/assets/08-foto-realista-kokusen-hero.jpg]]
 *Fotografía Editorial Realista (Mujer):* Modelo de apariencia hispana/latina luciendo el conjunto Kokusen completo en estudio de alta costura sobre fondo sinfín azul estudio impecable (cero humo): blouson técnico en sarga pesada con cuello chimenea estructurado (11 cm), cremallera central continua metálica, tancas carmesí y capota integrada, combinado con el nuevo Pantalón Globo Plisado Kokusen v1.5 con cintura encauchada fruncida (sin cinturón) en postura inspirada en Yuji Itadori con una mano en el bolsillo, descansando sobre las zapatillas de autor **Air Jordan 5 Retro "Red Suede"** en gamuza roja escarlata con lengüeta reflectiva 3M.
 
-### Lookbook Hero: Modelo Masculino Hispano (Corte Undercut)
+### Lookbook Hero: Modelo Masculino Hispano (Pose de Combate Yuji Itadori)
 ![[01 Brand Context/Colecciones/Kokusen/assets/09-foto-realista-kokusen-hombre.jpg]]
-*Fotografía Editorial Realista (Hombre):* Modelo masculino de apariencia hispana/latina con corte undercut texturizado en los laterales y nuca, encarnando la versión de alta costura de Yuji Itadori en postura marcial erguida con la mano en el bolsillo del pantalón globo sobre fondo sinfín azul estudio sin humo, vistiendo el conjunto Kokusen completo y zapatillas **Air Jordan 5 Retro "Red Suede"**.
+*Fotografía Editorial Realista (Hombre):* Modelo masculino de apariencia hispana/latina con corte undercut moderno (laterales rebajados en fade limpio y textura superior definida), encarnando la versión de alta costura de Yuji Itadori en la pose exacta de combate marcial de Jujutsu: brazo derecho alzado en guardia a la altura del pecho con mano en garra abierta, brazo izquierdo bajo ceñido a la cadera, y postura ágil de pies con pierna frontal flexionada en torsión cinética. Todo sobre fondo sinfín azul eléctrico estudio (#0038FF) impecable (sin humo ambiental), vistiendo el conjunto Kokusen completo con pantalón globo de cintura encauchada y zapatillas **Air Jordan 5 Retro "Red Suede"**.
 
 ---
 
@@ -128,6 +128,9 @@ Diseñado con dedicación artesanal y visión de autor para integrar la presenci
 ![[01 Brand Context/Colecciones/Kokusen/references/refe-calzado-jordan-5-red-suede.jpg]]
 *Referencia Oficial de Calzado:* Zapatillas Air Jordan 5 Retro "Red Suede" en gamuza roja carmesí (#D01E29), lengüeta plateada reflectiva 3M, tanca de cordones transparente y dientes de tiburón negros en la media suela. Aporte clave de contraste dinámico para el arquetipo Itadori.
 
+![[01 Brand Context/Colecciones/Kokusen/references/refe-pose-combate-yuji.jpg]]
+*Referencia Oficial de Pose de Combate:* Postura marcial canónica de Yuji Itadori en combate Jujutsu con torso en ángulo 3/4, guardia frontal con mano en garra a la altura del pecho, brazo bajo en cadera y juego ágil de pies en flexión cinética.
+
 ---
 
 ## 🗂️ 4.3. Manifiesto y Barrel de Activos (`manifest.json` / `index.ts`)
@@ -144,7 +147,7 @@ La colección cuenta con un barrel tipado en TypeScript ([index.ts](file:///User
 | `06-sketch-pantalon-frente` | `06-sketch-pantalon-frente.jpg` | Plano Técnico (Delantero) | Pantalón Globo Plisado (Cintura Encauchada) | `references/refe-pantalon-globo-01.jpg` |
 | `07-sketch-pantalon-atras` | `07-sketch-pantalon-atras.jpg` | Plano Técnico (Trasero) | Pantalón Globo Plisado (Cintura Encauchada) | `references/refe-pantalon-globo-01.jpg` |
 | `08-foto-realista-kokusen-hero` | `08-foto-realista-kokusen-hero.jpg` | Editorial Lookbook (Mujer) | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
-| `09-foto-realista-kokusen-hombre` | `09-foto-realista-kokusen-hombre.jpg` | Editorial Lookbook (Hombre) | Conjunto Kokusen Total Black | `references/refe-pantalon-globo-02.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
+| `09-foto-realista-kokusen-hombre` | `09-foto-realista-kokusen-hombre.jpg` | Editorial Lookbook (Hombre) | Conjunto Kokusen Total Black | `references/refe-pose-combate-yuji.jpg` + `references/refe-calzado-jordan-5-red-suede.jpg` |
 
 ---
 

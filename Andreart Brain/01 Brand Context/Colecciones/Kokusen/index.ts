@@ -166,8 +166,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'editorial',
     garment: 'Conjunto Kokusen',
     view: 'editorial-lookbook-hombre',
-    description: 'Fotografía editorial ultra-realista con modelo masculino hispano con corte undercut sobre ciclorama sinfín azul estudio impecable (cero humo), pose de combate Yuji Itadori con mano en el bolsillo, vistiendo el conjunto Kokusen completo y zapatillas Air Jordan 5 Retro Red Suede.',
-    sourceReference: './references/refe-pantalon-globo-02.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
+    description: 'Fotografía editorial ultra-realista con modelo masculino hispano con corte undercut sobre ciclorama sinfín azul estudio impecable (cero humo), adoptando fielmente la pose de combate marcial de Yuji Itadori (brazo derecho alzado en guardia a la altura del pecho con garra abierta, brazo izquierdo bajo y juego dinámico de pies), vistiendo el conjunto Kokusen completo y zapatillas Air Jordan 5 Retro Red Suede.',
+    sourceReference: './references/refe-pose-combate-yuji.jpg, ./references/refe-calzado-jordan-5-red-suede.jpg',
     status: 'active',
     approved: true
   }
@@ -191,5 +191,11 @@ export const REFERENCES: Record<string, CollectionReference> = {
     path: './references/refe-calzado-jordan-5-red-suede.jpg',
     type: 'footwear-styling',
     description: 'Referencia de calzado insignia: Zapatillas Air Jordan 5 Retro Red Suede en gamuza carmesí (#D01E29), lengüeta reflectiva plateada 3M y seguro de cordones transparente.'
+  },
+  'refe-pose-combate-yuji': {
+    filename: 'refe-pose-combate-yuji.jpg',
+    path: './references/refe-pose-combate-yuji.jpg',
+    type: 'pose-combat-reference',
+    description: 'Referencia de pose de combate: Postura marcial de Yuji Itadori con guardia frontal alta con garra abierta, brazo bajo en cadera y juego ágil de pies en flexión cinética.'
   }
 };
