@@ -82,7 +82,7 @@ export const ASSETS: Record<string, CollectionAsset> = {
     category: 'figurine',
     garment: 'Enterizo Over-Rider Toman Shodai',
     view: 'espalda-dorsal',
-    description: 'Figurín de autor anime dorsal mostrando la gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代", "東京卍會", "天上天下唯我独尊"), canesú sastre con compartimento de capota y solapa drop-seat lumbar con banda reflectiva.',
+    description: 'Figurín de autor a mano alzada en acuarela sobre papel marfil (#F6F4EE) dorsal mostrando la gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代", "東京卍會", "初代総長"), canesú con compartimento de capota, solapa drop-seat lumbar con banda reflectiva, llamadas técnicas sutiles y sello Andreart.',
     sourceReference: './references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true

@@ -101,7 +101,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 #### Vista Dorsal / Espalda (Figurín Protagónico)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/02-figurin-toman-shodai-espalda.jpg]]
-*Figurín Dorsal (Toman Shodai):* Vista posterior de cuerpo entero mostrando la imponente gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代" en canesú superior, "東京卍會" central a gran escala y "天上天下唯我独尊" en laterales), kanjis de manga "初代総長", compartimento de capota escamoteable en cuello, y sistema drop-seat lumbar abatible protegido por franja reflectiva microprismática de seguridad vial de 5 cm.
+*Figurín Dorsal (Toman Shodai v1.1):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): vista posterior de cuerpo entero con moño alto pulido luciendo la caligrafía tradicional en oro reflectivo de la Tokyo Manji Gang ("初代" en canesú superior, "東京卍會" en espina central y "初代総長" en mangas), canesú con compartimento para capota escamoteable, solapa lumbar abatible (*drop-seat*) con banda reflectiva horizontal plata, tres llamadas técnicas caligráficas discretas y el sello oficial Andreart en la esquina inferior derecha.
 
 ### Enterizo Over-Rider The Capsules (Akira)
 
