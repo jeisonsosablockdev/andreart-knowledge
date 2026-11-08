@@ -103,6 +103,12 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/02-figurin-toman-shodai-espalda.jpg]]
 *Figurín Dorsal (Toman Shodai):* Vista posterior de cuerpo entero mostrando la imponente gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代" en canesú superior, "東京卍會" central a gran escala y "天上天下唯我独尊" en laterales), kanjis de manga "初代総長", compartimento de capota escamoteable en cuello, y sistema drop-seat lumbar abatible protegido por franja reflectiva microprismática de seguridad vial de 5 cm.
 
+### Enterizo Over-Rider The Capsules (Akira)
+
+#### Vista Frontal (Figurín Protagónico Masculino)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/03-figurin-capsules-akira-frente.jpg]]
+*Figurín Frontal (The Capsules Akira v1.0):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): modelo masculino estilizado de alta costura inspirado en Shotaro Kaneda / Mitsuru Kuwata luciendo el enterizo técnico motero con cuello chimenea cortaviento, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillo táctico de fuelle en pecho, el emblemático parche de la píldora cápsula bicolor (rojo escarlata y blanco) con el lema *"Good for health, Bad for education"*, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+
 ---
 
 ## 🗂️ 4.5. Manifiesto y Barrel de Activos (`manifest.json` / `index.ts`)
@@ -111,6 +117,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | :--- | :--- | :--- | :--- | :--- |
 | `01-figurin-toman-shodai-frente` | `01-figurin-toman-shodai-frente.jpg` | Figurín Protagónico (Frente) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Tokyo Manji Gang / Mikey) |
 | `02-figurin-toman-shodai-espalda` | `02-figurin-toman-shodai-espalda.jpg` | Figurín Protagónico (Espalda) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Kanjis Toman & Drop-Seat) |
+| `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico (Frente Masculino) | Enterizo Over-Rider The Capsules | Moldería atelier (Akira / Kaneda & Kuwata) |
 
 ---
 

@@ -86,6 +86,18 @@ export const ASSETS: Record<string, CollectionAsset> = {
     sourceReference: './references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true
+  },
+  '03-figurin-capsules-akira-frente': {
+    id: '03-figurin-capsules-akira-frente',
+    filename: '03-figurin-capsules-akira-frente.jpg',
+    path: './assets/03-figurin-capsules-akira-frente.jpg',
+    category: 'figurine',
+    garment: 'Enterizo Over-Rider The Capsules',
+    view: 'frente-pasarela-hombre',
+    description: 'Figurín de autor a mano alzada en acuarela sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Kaneda luciendo el enterizo técnico motero en Jet Black (#0D0D0E), parche The Capsules ("Good for health, Bad for education"), cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.',
+    sourceReference: './references/refe-vista-frontal-puesta.jpg, ./references/refe-apertura-total-capullo.jpg',
+    status: 'active',
+    approved: true
   }
 };
 
