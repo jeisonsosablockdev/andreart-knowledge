@@ -62,7 +62,32 @@ export const GARMENTS: CollectionGarment[] = [
   }
 ];
 
-export const ASSETS: Record<string, CollectionAsset> = {};
+export const ASSETS: Record<string, CollectionAsset> = {
+  '01-figurin-toman-shodai-frente': {
+    id: '01-figurin-toman-shodai-frente',
+    filename: '01-figurin-toman-shodai-frente.jpg',
+    path: './assets/01-figurin-toman-shodai-frente.jpg',
+    category: 'figurine',
+    garment: 'Enterizo Over-Rider Toman Shodai',
+    view: 'frente-pasarela',
+    description: 'Figurín de autor anime inspirado en Mikey luciendo el enterizo técnico motero en Jet Black (#0D0D0E) con cuello chimenea, cremallera central bidireccional, bolsillos técnicos y caligrafía dorada reflectiva "初代総長" en mangas.',
+    sourceReference: './references/refe-vista-frontal-puesta.jpg',
+    status: 'active',
+    approved: true
+  },
+  '02-figurin-toman-shodai-espalda': {
+    id: '02-figurin-toman-shodai-espalda',
+    filename: '02-figurin-toman-shodai-espalda.jpg',
+    path: './assets/02-figurin-toman-shodai-espalda.jpg',
+    category: 'figurine',
+    garment: 'Enterizo Over-Rider Toman Shodai',
+    view: 'espalda-dorsal',
+    description: 'Figurín de autor anime dorsal mostrando la gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代", "東京卍會", "天上天下唯我独尊"), canesú sastre con compartimento de capota y solapa drop-seat lumbar con banda reflectiva.',
+    sourceReference: './references/refe-dropseat-lumbar-1.jpg',
+    status: 'active',
+    approved: true
+  }
+};
 
 export const REFERENCES: Record<string, CollectionReference> = {
   'refe-apertura-paso-1': {

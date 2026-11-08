@@ -91,6 +91,29 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 ---
 
+## 🎨 4.4. Figurines de Moda de Autor (Croquis de Pasarela y Taller)
+
+### Enterizo Over-Rider Toman Shodai (Tokyo Revengers)
+
+#### Vista Frontal (Figurín Protagónico)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/01-figurin-toman-shodai-frente.jpg]]
+*Figurín Frontal (Toman Shodai):* Modelo anime inspirado en Manjirō Sano ("Mikey") en postura erguida de pasarela luciendo el enterizo técnico motero en Total Jet Black mate (#0D0D0E): cuello chimenea alto (10 cm), cremallera central bidireccional continua con tapeta cortaviento, bolsillos asimétricos de pecho (fuelle a la derecha y termosellado a la izquierda), cremalleras perimétricas laterales de cintura a tobillo y los kanjis caligráficos en oro reflectivo "初代総長" en ambas mangas.
+
+#### Vista Dorsal / Espalda (Figurín Protagónico)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/02-figurin-toman-shodai-espalda.jpg]]
+*Figurín Dorsal (Toman Shodai):* Vista posterior de cuerpo entero mostrando la imponente gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代" en canesú superior, "東京卍會" central a gran escala y "天上天下唯我独尊" en laterales), kanjis de manga "初代総長", compartimento de capota escamoteable en cuello, y sistema drop-seat lumbar abatible protegido por franja reflectiva microprismática de seguridad vial de 5 cm.
+
+---
+
+## 🗂️ 4.5. Manifiesto y Barrel de Activos (`manifest.json` / `index.ts`)
+
+| ID del Activo | Archivo en `assets/` | Tipología | Prenda / Pieza | Referencia Fuente |
+| :--- | :--- | :--- | :--- | :--- |
+| `01-figurin-toman-shodai-frente` | `01-figurin-toman-shodai-frente.jpg` | Figurín Protagónico (Frente) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Tokyo Manji Gang / Mikey) |
+| `02-figurin-toman-shodai-espalda` | `02-figurin-toman-shodai-espalda.jpg` | Figurín Protagónico (Espalda) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Kanjis Toman & Drop-Seat) |
+
+---
+
 ## 📸 5. Referencias Técnicas de Taller (`references/`)
 
 | Archivo de Referencia | Descripción Técnica y Utilidad de Patronaje |
