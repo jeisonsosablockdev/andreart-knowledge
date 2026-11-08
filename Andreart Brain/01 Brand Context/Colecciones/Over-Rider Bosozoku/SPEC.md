@@ -120,6 +120,10 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/05-figurin-rebel-pilot-frente.jpg]]
 *Figurín Frontal (Rebel Pilot v1.1 - Canesú Integrado & Estética Paradise Kiss):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en Naranja Vuelo Rebelde (#D84315): modelo masculino estilizado en estética anime de alta costura al estilo Paradise Kiss (Ai Yazawa) luciendo el enterizo técnico motero con canesú de pecho blanco marfil (#F0EFEB) integrado directamente en el patronaje del mono y dividido verticalmente por la cremallera completa lateral derecha, mangas con alforzas nervadas continuas (pin-tucks), cremallera técnica interna en entrepierna de pierna izquierda, bolsillos cargo tácticos con fuelle y reatas en muslos y espinillas, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
 
+#### Vista Dorsal / Espalda (Figurín Protagónico Masculino con Emblema Alianza Rebelde)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/06-figurin-rebel-pilot-espalda.jpg]]
+*Figurín Dorsal (Rebel Pilot v1.0):* Vista posterior de cuerpo entero luciendo en el centro de la espalda a gran escala el emblemático diseño del Pájaro Fénix (Starbird) de la Alianza Rebelde en serigrafía blanco marfil reflectivo (#F0EFEB), canesú sastre con compartimento para capota escamoteable, mangas con alforzas acolchadas continuas (pin-tucks) visibles a lo largo de ambos brazos, solapa lumbar abatible (*drop-seat*) con franja reflectiva microprismática plata y cremallera horizontal, llamadas técnicas caligráficas discretas y el sello oficial Andreart sobre papel marfil.
+
 ---
 
 ## 🗂️ 4.5. Manifiesto y Barrel de Activos (`manifest.json` / `index.ts`)
@@ -131,6 +135,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico (Frente Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` |
 | `04-figurin-capsules-akira-espalda` | `04-figurin-capsules-akira-espalda.jpg` | Figurín Protagónico (Espalda Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + Píldora Akira |
 | `05-figurin-rebel-pilot-frente` | `05-figurin-rebel-pilot-frente.jpg` | Figurín Protagónico (Frente Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | `references/refe-piloto-rebelde-poe-dameron.png` |
+| `06-figurin-rebel-pilot-espalda` | `06-figurin-rebel-pilot-espalda.jpg` | Figurín Protagónico (Espalda Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | Emblema Fénix Rebelde + `references/refe-chaqueta-columbia-star-wars-alforzas.jpg` |
 
 ---
 

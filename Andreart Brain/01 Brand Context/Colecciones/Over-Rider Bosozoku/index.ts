@@ -129,6 +129,18 @@ export const ASSETS: Record<string, CollectionAsset> = {
     sourceReference: './references/refe-piloto-rebelde-poe-dameron.png, ./references/refe-vista-frontal-puesta.jpg',
     status: 'active',
     approved: true
+  },
+  '06-figurin-rebel-pilot-espalda': {
+    id: '06-figurin-rebel-pilot-espalda',
+    filename: '06-figurin-rebel-pilot-espalda.jpg',
+    path: './assets/06-figurin-rebel-pilot-espalda.jpg',
+    category: 'figurine',
+    garment: 'Enterizo Over-Rider Rebel Pilot',
+    view: 'espalda-dorsal-hombre-naranja-rebelde',
+    description: 'Figurín de autor a mano alzada en acuarela dorsal mostrando a gran escala en el centro de la espalda el emblemático diseño circular del Pájaro Fénix (Starbird) de la Alianza Rebelde en serigrafía marfil reflectiva (#F0EFEB), mangas con alforzas acolchadas continuas (pin-tucks), canesú con capota escamoteable, solapa lumbar drop-seat con banda reflectiva microprismática y sello oficial Andreart.',
+    sourceReference: './references/refe-chaqueta-columbia-star-wars-alforzas.jpg, ./references/refe-dropseat-lumbar-1.jpg',
+    status: 'active',
+    approved: true
   }
 };
 
