@@ -57,8 +57,8 @@ export const GARMENTS: CollectionGarment[] = [
     name: 'Enterizo Over-Rider The Capsules',
     sku: 'ANDR-OVR-AKI-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
-    textile: 'Cordura / Nylon Oxford 600D impermeable con forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y emblema cápsula Akira reflectivo'
+    textile: 'Cordura / Nylon Oxford 600D impermeable en Rojo Escarlata Kaneda (#D01E29) con forro térmico capitonado desmontable',
+    fit: 'Corte ergonómico precurvado para moto en rojo escarlata, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y gran emblema dorsal de la píldora "Good for health, Bad for education"'
   }
 ];
 
@@ -93,15 +93,33 @@ export const ASSETS: Record<string, CollectionAsset> = {
     path: './assets/03-figurin-capsules-akira-frente.jpg',
     category: 'figurine',
     garment: 'Enterizo Over-Rider The Capsules',
-    view: 'frente-pasarela-hombre',
-    description: 'Figurín de autor a mano alzada en acuarela sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Kaneda luciendo el enterizo técnico motero en Jet Black (#0D0D0E), parche The Capsules ("Good for health, Bad for education"), cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.',
-    sourceReference: './references/refe-vista-frontal-puesta.jpg, ./references/refe-apertura-total-capullo.jpg',
+    view: 'frente-pasarela-hombre-rojo',
+    description: 'Figurín de autor a mano alzada en acuarela roja escarlata (#D01E29) sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Kaneda luciendo el enterizo técnico motero, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.',
+    sourceReference: './references/refe-kaneda-akira-suit.jpg, ./references/refe-vista-frontal-puesta.jpg',
+    status: 'active',
+    approved: true
+  },
+  '04-figurin-capsules-akira-espalda': {
+    id: '04-figurin-capsules-akira-espalda',
+    filename: '04-figurin-capsules-akira-espalda.jpg',
+    path: './assets/04-figurin-capsules-akira-espalda.jpg',
+    category: 'figurine',
+    garment: 'Enterizo Over-Rider The Capsules',
+    view: 'espalda-dorsal-hombre-rojo',
+    description: 'Figurín de autor a mano alzada en acuarela dorsal mostrando a gran escala en el centro de la espalda el emblemático diseño circular de la píldora cápsula con el lema "Good for health, Bad for education", hombreras acanaladas, canesú con capota escamoteable y solapa lumbar drop-seat con banda reflectiva.',
+    sourceReference: './references/refe-kaneda-akira-suit.jpg, ./references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true
   }
 };
 
 export const REFERENCES: Record<string, CollectionReference> = {
+  'refe-kaneda-akira-suit': {
+    filename: 'refe-kaneda-akira-suit.jpg',
+    path: './references/refe-kaneda-akira-suit.jpg',
+    type: 'character-design-reference',
+    description: 'Referencia oficial de Shotaro Kaneda (Akira): traje y chaqueta en rojo escarlata, hombreras acolchadas acanaladas y cuello motero con broches provista por el usuario.'
+  },
   'refe-apertura-paso-1': {
     filename: 'refe-apertura-paso-1.jpg',
     path: './references/refe-apertura-paso-1.jpg',

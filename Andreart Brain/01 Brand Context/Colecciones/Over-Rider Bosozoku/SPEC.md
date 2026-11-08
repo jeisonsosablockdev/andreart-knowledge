@@ -55,10 +55,10 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | Tono / Elemento | Código Hex | Aplicación Textil y Acabado | Función / Sentido en la Prenda |
 | :--- | :--- | :--- | :--- |
-| **Total Jet Black** | `#0D0D0E` | Cordura / Nylon Oxford 600D mate impermeable | Base estructural exterior monocromática de alta resistencia a la abrasión |
+| **Total Jet Black** | `#0D0D0E` | Cordura / Nylon Oxford 600D mate impermeable | Base estructural exterior para la Edición Toman Shodai (Tokyo Revengers) |
+| **Rojo Escarlata Kaneda** | `#D01E29` | Cordura / Nylon Oxford 600D impermeable rojo | Base estructural exterior completa para la Edición The Capsules (Akira) |
 | **Negro Azabache Satinado** | `#121214` | Tafetán de microfibra acolchado en rombos (forro) | Forro térmico interior desmontable suave al deslizamiento |
 | **Gris Reflectivo Vial** | `#9E9E9E` / `#FFFFFF` | Serigrafía reflectiva microprismática de alta densidad | Kanjis Toman, cápsula Akira y franja horizontal lumbar de seguridad nocturna |
-| **Rojo Escarlata Akira** | `#D01E29` | Acentos en la mitad de la píldora y vivos de contraste | Homenaje visual a la chaqueta de Kaneda / The Capsules |
 | **Níquel Oscuro Mate** | `#262628` | Cremalleras impermeables termoselladas y tiradores | Herrajes técnicos discretos anticorrosión |
 
 ---
@@ -67,8 +67,8 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | Modelo | Referencia SKU | Inspiración / Universo | Gráficos y Personalización | Arquitectura y Funcionalidad |
 | :--- | :--- | :--- | :--- | :--- |
-| **Enterizo Over-Rider Toman Shodai** | `ANDR-OVR-TOM-01` | Manjirō Sano / Tokyo Revengers | Espalda: Kanjis oficiales Toman ("初代", "東京卍會", "天上天下唯我独尊") en serigrafía reflectiva. Mangas: "初代総長" vertical. | Sistema de apertura dual, cremalleras de bota completa, drop-seat lumbar abatible y forro térmico desmontable. |
-| **Enterizo Over-Rider The Capsules** | `ANDR-OVR-AKI-01` | Akira / Mitsuru Kuwata & Kaneda | Espalda: Emblema circular de la píldora bicolor con leyenda *"Good for health, Bad for education"*. Pecho: Parche técnico cápsula. | Idéntica arquitectura de apertura dual rápida, cuello chimenea con capota escamoteable y drop-seat trasero. |
+| **Enterizo Over-Rider Toman Shodai** | `ANDR-OVR-TOM-01` | Manjirō Sano / Tokyo Revengers | Base Total Jet Black (#0D0D0E). Espalda: Kanjis oficiales Toman ("初代", "東京卍會", "天上天下唯我独尊") en serigrafía reflectiva. Mangas: "初代総長" vertical. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y forro térmico desmontable. |
+| **Enterizo Over-Rider The Capsules** | `ANDR-OVR-AKI-01` | Akira / Mitsuru Kuwata & Shotaro Kaneda | Base Rojo Escarlata Kaneda (#D01E29). Hombreras acolchadas acanaladas estilo Akira. Espalda: Gran emblema circular de la píldora bicolor con leyenda *"Good for health, Bad for education"*. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello motero con broches, drop-seat lumbar y forro térmico desmontable. |
 
 ---
 
@@ -105,9 +105,13 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 ### Enterizo Over-Rider The Capsules (Akira)
 
-#### Vista Frontal (Figurín Protagónico Masculino)
+#### Vista Frontal (Figurín Protagónico Masculino en Rojo Escarlata)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/03-figurin-capsules-akira-frente.jpg]]
-*Figurín Frontal (The Capsules Akira v1.0):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): modelo masculino estilizado de alta costura inspirado en Shotaro Kaneda / Mitsuru Kuwata luciendo el enterizo técnico motero con cuello chimenea cortaviento, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillo táctico de fuelle en pecho, el emblemático parche de la píldora cápsula bicolor (rojo escarlata y blanco) con el lema *"Good for health, Bad for education"*, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+*Figurín Frontal (The Capsules Akira v1.1):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en Rojo Escarlata Kaneda (#D01E29): modelo masculino estilizado de alta costura inspirado en Shotaro Kaneda luciendo el enterizo técnico motero con cuello motero alto con broches, hombreras acolchadas acanaladas/estriadas horizontales estilo chaqueta de Akira, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillos diagonales con tapeta, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+
+#### Vista Dorsal / Espalda (Figurín Protagónico Masculino con Emblema de la Píldora)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/04-figurin-capsules-akira-espalda.jpg]]
+*Figurín Dorsal (The Capsules Akira v1.1):* Vista posterior de cuerpo entero mostrando en el centro de la espalda a gran escala el emblemático diseño circular de la píldora cápsula bicolor (rojo escarlata y blanco) con el lema *"Good for health, Bad for education"*, canesú sastre con compartimento para capota escamoteable, hombreras acanaladas visibles desde atrás, solapa lumbar abatible (*drop-seat*) con franja reflectiva y cremallera horizontal, llamadas técnicas caligráficas y el sello oficial Andreart sobre papel marfil.
 
 ---
 
@@ -117,7 +121,8 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | :--- | :--- | :--- | :--- | :--- |
 | `01-figurin-toman-shodai-frente` | `01-figurin-toman-shodai-frente.jpg` | Figurín Protagónico (Frente) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Tokyo Manji Gang / Mikey) |
 | `02-figurin-toman-shodai-espalda` | `02-figurin-toman-shodai-espalda.jpg` | Figurín Protagónico (Espalda) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Kanjis Toman & Drop-Seat) |
-| `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico (Frente Masculino) | Enterizo Over-Rider The Capsules | Moldería atelier (Akira / Kaneda & Kuwata) |
+| `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico (Frente Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` |
+| `04-figurin-capsules-akira-espalda` | `04-figurin-capsules-akira-espalda.jpg` | Figurín Protagónico (Espalda Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + Píldora Akira |
 
 ---
 
@@ -125,6 +130,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | Archivo de Referencia | Descripción Técnica y Utilidad de Patronaje |
 | :--- | :--- |
+| `refe-kaneda-akira-suit.jpg` | Referencia oficial de Shotaro Kaneda (Akira): traje y chaqueta en rojo escarlata, hombreras acolchadas acanaladas y cuello motero con broches. |
 | `refe-apertura-paso-1.jpg` | Demostración de colocación rápida: apertura inicial envolvente sin descalzarse. |
 | `refe-apertura-paso-2-forro.jpg` | Vista interior del forro acolchado capitonado en rombos y solapa frontal. |
 | `refe-apertura-paso-3-pierna.jpg` | Cierre de cremallera de pierna continua sobre pantalón y zapatilla urbana. |
