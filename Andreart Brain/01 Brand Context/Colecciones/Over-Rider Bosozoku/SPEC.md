@@ -136,6 +136,7 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | `04-figurin-capsules-akira-espalda` | `04-figurin-capsules-akira-espalda.jpg` | Figurín Protagónico (Espalda Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + Píldora Akira |
 | `05-figurin-rebel-pilot-frente` | `05-figurin-rebel-pilot-frente.jpg` | Figurín Protagónico (Frente Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | `references/refe-piloto-rebelde-poe-dameron.png` |
 | `06-figurin-rebel-pilot-espalda` | `06-figurin-rebel-pilot-espalda.jpg` | Figurín Protagónico (Espalda Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | Emblema Fénix Rebelde + `references/refe-chaqueta-columbia-star-wars-alforzas.jpg` |
+| `07-foto-estudio-toman-frente` | `07-foto-estudio-toman-frente.jpg` | Fotografía Editorial de Estudio (Frente) | Enterizo Over-Rider Toman Shodai | Ciclorama de estudio Andreart + Figurín 01 |
 
 ---
 
@@ -159,9 +160,22 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 ## 🗂️ 6. Próximos Pasos de Desarrollo (Roadmap SDD)
 
 1. **Modelado y Figurines de Moda (Anime & Techwear Croquis):**
-   - Figurín Edición Toman Shodai (frontal y dorsal con kanjis reflectivos).
-   - Figurín Edición The Capsules (frontal y dorsal con emblema de la píldora).
-2. **Planos Técnicos (Flats de Moldería y Despiece):**
+   - Figurín Edición Toman Shodai (frontal y dorsal con kanjis reflectivos) - ✅ Completado.
+   - Figurín Edición The Capsules (frontal y dorsal con emblema de la píldora) - ✅ Completado.
+   - Figurín Edición Rebel Pilot (frontal con canesú integrado y dorsal con emblema fénix) - ✅ Completado.
+2. **Fotografía Editorial Realista de Estudio (Lookbook Comercial):**
+   - Lote 1: Toman Shodai (Frente ✅, Espalda y 3/4 pendiente de cuota).
+   - Lote 2: The Capsules Akira (Frente, Espalda y 3/4 pendiente de cuota).
+   - Lote 3: Rebel Pilot (Frente, Espalda y 3/4 pendiente de cuota).
+3. **Planos Técnicos (Flats de Moldería y Despiece):**
    - Esquema técnico frontal, posterior y despiece del sistema de cremalleras y drop-seat.
-3. **Fotografía Editorial Realista:**
-   - Lookbook con modelo en pose sobre motocicleta o en set nocturno de estudio con efecto reflectivo.
+
+---
+
+## 📸 7. Lookbook Editorial de Estudio Ultra Realista
+
+### Enterizo Over-Rider Toman Shodai (`ANDR-OVR-TOM-01`)
+
+#### Fotografía Editorial 1: Vista Frontal de Estudio
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/07-foto-estudio-toman-frente.jpg]]
+*Fotografía Editorial (Toman Shodai - Vista Frontal):* Fotografía de estudio ultra realista en ciclorama carbón minimalista con iluminación cinematográfica. Modelo editorial de alta costura con peinado pulido en moño alto portando el enterizo Over-Rider Toman Shodai en tejido Cordura 600D negro mate (#0D0D0E), cuello chimenea cortaviento, bolsillo táctico de fuelle, cremallera asimétrica completa visible de cuello a bota, cremallera interna de entrepierna, kanjis dorados reflectivos "初代総長" en la manga y botas de cuero negro.

@@ -141,6 +141,18 @@ export const ASSETS: Record<string, CollectionAsset> = {
     sourceReference: './references/refe-chaqueta-columbia-star-wars-alforzas.jpg, ./references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true
+  },
+  '07-foto-estudio-toman-frente': {
+    id: '07-foto-estudio-toman-frente',
+    filename: '07-foto-estudio-toman-frente.jpg',
+    path: './assets/07-foto-estudio-toman-frente.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Toman Shodai',
+    view: 'frente-estudio-realista',
+    description: 'Fotografía editorial de estudio ultra realista en ciclorama carbón: modelo femenina asiática de alta costura con moño alto portando el enterizo Over-Rider Toman Shodai en Cordura 600D negro mate (#0D0D0E), cuello chimenea, cremallera asimétrica completa de cuello a bota, kanjis dorados reflectivos "初代総長" en la manga y botas tácticas.',
+    sourceReference: './assets/01-figurin-toman-shodai-frente.jpg',
+    status: 'active',
+    approved: true
   }
 };
 
