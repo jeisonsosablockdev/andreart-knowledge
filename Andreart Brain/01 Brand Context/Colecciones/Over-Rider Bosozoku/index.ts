@@ -141,6 +141,114 @@ export const ASSETS: Record<string, CollectionAsset> = {
     sourceReference: './references/refe-chaqueta-columbia-star-wars-alforzas.jpg, ./references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true
+  },
+  '07-foto-estudio-toman-frente': {
+    id: '07-foto-estudio-toman-frente',
+    filename: '07-foto-estudio-toman-frente.jpg',
+    path: './assets/07-foto-estudio-toman-frente.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Toman Shodai',
+    view: 'frente-estudio-hispana',
+    description: 'Fotografía editorial de estudio ultra realista y limpia (cero texto flotante): modelo hispana de alta costura con moño alto pulido en pose frontal dinámica portando el enterizo Over-Rider Toman Shodai en Cordura 600D negro mate (#0D0D0E) con kanjis dorados reflectivos y cremallera asimétrica.',
+    sourceReference: './assets/01-figurin-toman-shodai-frente.jpg',
+    status: 'active',
+    approved: true
+  },
+  '08-foto-estudio-toman-espalda': {
+    id: '08-foto-estudio-toman-espalda',
+    filename: '08-foto-estudio-toman-espalda.jpg',
+    path: './assets/08-foto-estudio-toman-espalda.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Toman Shodai',
+    view: 'espalda-estudio-hispana',
+    description: 'Fotografía editorial de estudio ultra realista dorsal y limpia (cero texto flotante): modelo hispana girando la mirada sobre su hombro luciendo la gráfica Toman dorsal reflectiva en oro y la solapa lumbar drop-seat con franja reflectiva plata.',
+    sourceReference: './assets/02-figurin-toman-shodai-espalda.jpg',
+    status: 'active',
+    approved: true
+  },
+  '09-foto-estudio-toman-perfil': {
+    id: '09-foto-estudio-toman-perfil',
+    filename: '09-foto-estudio-toman-perfil.jpg',
+    path: './assets/09-foto-estudio-toman-perfil.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Toman Shodai',
+    view: 'perfil-3-4-estudio-hispana',
+    description: 'Fotografía editorial de estudio en ángulo 3/4 lateral y limpia (cero texto flotante): modelo hispana en paso dinámico ajustando el cuello chimenea, destacando la cremallera perimétrica lateral de cuello a bota y los kanjis dorados de la manga.',
+    sourceReference: './assets/01-figurin-toman-shodai-frente.jpg',
+    status: 'active',
+    approved: true
+  },
+  '10-foto-estudio-akira-frente': {
+    id: '10-foto-estudio-akira-frente',
+    filename: '10-foto-estudio-akira-frente.jpg',
+    path: './assets/10-foto-estudio-akira-frente.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider The Capsules',
+    view: 'frente-estudio-hispano',
+    description: 'Fotografía editorial de estudio ultra realista y limpia (cero texto flotante): modelo masculino hispano portando el enterizo Over-Rider The Capsules en Rojo Escarlata Kaneda (#D01E29) con hombreras acolchadas acanaladas, cuello motero con broches y cremallera asimétrica.',
+    sourceReference: './assets/03-figurin-capsules-akira-frente.jpg',
+    status: 'active',
+    approved: true
+  },
+  '11-foto-estudio-akira-espalda': {
+    id: '11-foto-estudio-akira-espalda',
+    filename: '11-foto-estudio-akira-espalda.jpg',
+    path: './assets/11-foto-estudio-akira-espalda.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider The Capsules',
+    view: 'espalda-estudio-hispano',
+    description: 'Fotografía editorial de estudio dorsal ultra realista y limpia (cero texto flotante): modelo masculino hispano mirando de perfil mostrando el gran emblema circular de la píldora "Good for health, Bad for education", hombreras estriadas y solapa lumbar drop-seat.',
+    sourceReference: './assets/04-figurin-capsules-akira-espalda.jpg',
+    status: 'active',
+    approved: true
+  },
+  '12-foto-estudio-akira-perfil': {
+    id: '12-foto-estudio-akira-perfil',
+    filename: '12-foto-estudio-akira-perfil.jpg',
+    path: './assets/12-foto-estudio-akira-perfil.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider The Capsules',
+    view: 'perfil-3-4-estudio-hispano',
+    description: 'Fotografía editorial de estudio en 3/4 lateral y limpia (cero texto flotante): modelo masculino hispano en pose de paso dinámico rozando el broche del cuello motero, destacando las hombreras acanaladas y el recorrido completo de la cremallera derecha hasta la bota.',
+    sourceReference: './assets/03-figurin-capsules-akira-frente.jpg',
+    status: 'active',
+    approved: true
+  },
+  '13-foto-estudio-rebel-frente': {
+    id: '13-foto-estudio-rebel-frente',
+    filename: '13-foto-estudio-rebel-frente.jpg',
+    path: './assets/13-foto-estudio-rebel-frente.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Rebel Pilot',
+    view: 'frente-estudio-hispano',
+    description: 'Fotografía editorial de estudio ultra realista y limpia (cero texto flotante): modelo masculino hispano en Naranja Vuelo Rebelde (#D84315) luciendo el canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera perimétrica completa, mangas con alforzas y bolsillos cargo con reatas.',
+    sourceReference: './assets/05-figurin-rebel-pilot-frente.jpg',
+    status: 'active',
+    approved: true
+  },
+  '14-foto-estudio-rebel-espalda': {
+    id: '14-foto-estudio-rebel-espalda',
+    filename: '14-foto-estudio-rebel-espalda.jpg',
+    path: './assets/14-foto-estudio-rebel-espalda.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Rebel Pilot',
+    view: 'espalda-estudio-hispano',
+    description: 'Fotografía editorial de estudio dorsal ultra realista y limpia (cero texto flotante): modelo masculino hispano girando el rostro en tres cuartos mostrando el gran emblema Starbird fénix de la Alianza Rebelde en blanco marfil, alforzas en mangas y solapa drop-seat con banda reflectiva plata.',
+    sourceReference: './assets/06-figurin-rebel-pilot-espalda.jpg',
+    status: 'active',
+    approved: true
+  },
+  '15-foto-estudio-rebel-perfil': {
+    id: '15-foto-estudio-rebel-perfil',
+    filename: '15-foto-estudio-rebel-perfil.jpg',
+    path: './assets/15-foto-estudio-rebel-perfil.jpg',
+    category: 'editorial',
+    garment: 'Enterizo Over-Rider Rebel Pilot',
+    view: 'perfil-3-4-estudio-hispano',
+    description: 'Fotografía editorial de estudio en ángulo 3/4 lateral y limpia (cero texto flotante): modelo masculino hispano destacando el relieve continuo de alforzas nervadas horizontales en la manga, parche circular en muñeca, bolsillos cargo con reatas y cremallera continua hasta la bota.',
+    sourceReference: './assets/05-figurin-rebel-pilot-frente.jpg',
+    status: 'active',
+    approved: true
   }
 };
 

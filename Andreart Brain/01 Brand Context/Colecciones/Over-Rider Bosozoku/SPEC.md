@@ -136,6 +136,15 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | `04-figurin-capsules-akira-espalda` | `04-figurin-capsules-akira-espalda.jpg` | Figurín Protagónico (Espalda Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + Píldora Akira |
 | `05-figurin-rebel-pilot-frente` | `05-figurin-rebel-pilot-frente.jpg` | Figurín Protagónico (Frente Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | `references/refe-piloto-rebelde-poe-dameron.png` |
 | `06-figurin-rebel-pilot-espalda` | `06-figurin-rebel-pilot-espalda.jpg` | Figurín Protagónico (Espalda Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | Emblema Fénix Rebelde + `references/refe-chaqueta-columbia-star-wars-alforzas.jpg` |
+| `07-foto-estudio-toman-frente` | `07-foto-estudio-toman-frente.jpg` | Foto Estudio Limpia (Frente Hispana) | Enterizo Over-Rider Toman Shodai | Ciclorama Estudio + `01-figurin-toman-shodai-frente.jpg` |
+| `08-foto-estudio-toman-espalda` | `08-foto-estudio-toman-espalda.jpg` | Foto Estudio Limpia (Espalda Hispana) | Enterizo Over-Rider Toman Shodai | Ciclorama Estudio + `02-figurin-toman-shodai-espalda.jpg` |
+| `09-foto-estudio-toman-perfil` | `09-foto-estudio-toman-perfil.jpg` | Foto Estudio Limpia (3/4 Lateral Hispana) | Enterizo Over-Rider Toman Shodai | Ciclorama Estudio + `01-figurin-toman-shodai-frente.jpg` |
+| `10-foto-estudio-akira-frente` | `10-foto-estudio-akira-frente.jpg` | Foto Estudio Limpia (Frente Hispano) | Enterizo Over-Rider The Capsules | Ciclorama Estudio + `03-figurin-capsules-akira-frente.jpg` |
+| `11-foto-estudio-akira-espalda` | `11-foto-estudio-akira-espalda.jpg` | Foto Estudio Limpia (Espalda Hispano) | Enterizo Over-Rider The Capsules | Ciclorama Estudio + `04-figurin-capsules-akira-espalda.jpg` |
+| `12-foto-estudio-akira-perfil` | `12-foto-estudio-akira-perfil.jpg` | Foto Estudio Limpia (3/4 Lateral Hispano) | Enterizo Over-Rider The Capsules | Ciclorama Estudio + `03-figurin-capsules-akira-frente.jpg` |
+| `13-foto-estudio-rebel-frente` | `13-foto-estudio-rebel-frente.jpg` | Foto Estudio Limpia (Frente Hispano) | Enterizo Over-Rider Rebel Pilot | Ciclorama Estudio + `05-figurin-rebel-pilot-frente.jpg` |
+| `14-foto-estudio-rebel-espalda` | `14-foto-estudio-rebel-espalda.jpg` | Foto Estudio Limpia (Espalda Hispano) | Enterizo Over-Rider Rebel Pilot | Ciclorama Estudio + `06-figurin-rebel-pilot-espalda.jpg` |
+| `15-foto-estudio-rebel-perfil` | `15-foto-estudio-rebel-perfil.jpg` | Foto Estudio Limpia (3/4 Lateral Hispano) | Enterizo Over-Rider Rebel Pilot | Ciclorama Estudio + `05-figurin-rebel-pilot-frente.jpg` |
 
 ---
 
@@ -162,16 +171,16 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
    - Figurín Edición Toman Shodai (frontal y dorsal con kanjis reflectivos) - ✅ Completado.
    - Figurín Edición The Capsules (frontal y dorsal con emblema de la píldora) - ✅ Completado.
    - Figurín Edición Rebel Pilot (frontal con canesú integrado y dorsal con emblema fénix) - ✅ Completado.
-2. **Fotografía Editorial Realista de Estudio (Lookbook Comercial):**
-   - Lote 1: Toman Shodai (Frente ✅, Espalda y 3/4 pendiente de cuota).
-   - Lote 2: The Capsules Akira (Frente, Espalda y 3/4 pendiente de cuota).
-   - Lote 3: Rebel Pilot (Frente, Espalda y 3/4 pendiente de cuota).
+2. **Fotografía Editorial Realista de Estudio (Lookbook Comercial - 9 Tomas):**
+   - Lote 1: Toman Shodai (Frente ✅, Espalda ✅, 3/4 Lateral ✅).
+   - Lote 2: The Capsules Akira (Frente ✅, Espalda ✅, 3/4 Lateral ✅).
+   - Lote 3: Rebel Pilot (Frente ✅, Espalda ✅, 3/4 Lateral ✅).
 3. **Planos Técnicos (Flats de Moldería y Despiece):**
    - Esquema técnico frontal, posterior y despiece del sistema de cremalleras y drop-seat.
 
 ---
 
-## 📸 7. Lookbook Editorial de Estudio Ultra Realista (Directrices de Campaña)
+## 📸 7. Lookbook Editorial de Estudio Ultra Realista (9 Tomas Oficiales)
 
 ### Criterios y Especificaciones de Producción Editorial:
 • **Casting de Modelos (100% Hispanos / Latinos):** Modelos de alta costura hispanos/latinos de facciones sofisticadas y magnéticas, reflejando el origen del atelier (Bogotá, Colombia).
@@ -179,21 +188,20 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 • **100% Fotografía Limpia (Cero Texto / Cero Sellos):** Las fotografías de estudio no llevan textos superpuestos, llamadas técnicas, flechas ni sellos sobre la imagen. La prenda se expresa puramente a través del patronaje real, iluminación y textura textil.
 • **Set y Composición:** Ciclorama minimalista gris carbón neutro / cemento pulido con iluminación suave y luz de recorte que resalta la trama de la Cordura 600D y los elementos reflectivos.
 
-### Plan de Producción de 9 Fotografías (En Cola por Cuota de Generación API):
-*Nota: La primera versión de prueba con llamadas de texto fue archivada de forma segura en `assets/.archive/07-foto-estudio-toman-frente-v1-asian-labels.jpg`. La generación del set de 9 fotos limpias se reanudará tan pronto se restablezca la ventana de cuota API (~01:26 UTC / 20:26 local).*
+### Lote 1: Enterizo Over-Rider Toman Shodai (`ANDR-OVR-TOM-01`)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/07-foto-estudio-toman-frente.jpg]]
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/08-foto-estudio-toman-espalda.jpg]]
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/09-foto-estudio-toman-perfil.jpg]]
 
-1. **Enterizo Over-Rider Toman Shodai (`ANDR-OVR-TOM-01`):**
-   - Foto 1: Vista Frontal (Modelo femenina hispana, pose dinámica, sin textos).
-   - Foto 2: Vista Espalda (Kanjis dorados Toman reflectivos y solapa drop-seat).
-   - Foto 3: Vista 3/4 Lateral (Cremallera completa lateral de cuello a bota y perfil).
-2. **Enterizo Over-Rider The Capsules Akira (`ANDR-OVR-AKI-01`):**
-   - Foto 4: Vista Frontal (Modelo masculino hispano en rojo escarlata, hombreras acanaladas).
-   - Foto 5: Vista Espalda (Emblema de la píldora cápsula y drop-seat).
-   - Foto 6: Vista 3/4 Lateral (Relieve de hombreras y cremallera perimétrica).
-3. **Enterizo Over-Rider Rebel Pilot (`ANDR-OVR-REB-01`):**
-   - Foto 7: Vista Frontal (Modelo masculino hispano en naranja vuelo, canesú blanco integrado dividido).
-   - Foto 8: Vista Espalda (Emblema Starbird fénix y alforzas en mangas).
-   - Foto 9: Vista 3/4 Lateral (Alforzas nervadas continuas y bolsillos cargo).
+### Lote 2: Enterizo Over-Rider The Capsules Akira (`ANDR-OVR-AKI-01`)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/10-foto-estudio-akira-frente.jpg]]
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/11-foto-estudio-akira-espalda.jpg]]
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/12-foto-estudio-akira-perfil.jpg]]
+
+### Lote 3: Enterizo Over-Rider Rebel Pilot (`ANDR-OVR-REB-01`)
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/13-foto-estudio-rebel-frente.jpg]]
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/14-foto-estudio-rebel-espalda.jpg]]
+![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/15-foto-estudio-rebel-perfil.jpg]]
 
 ---
 
