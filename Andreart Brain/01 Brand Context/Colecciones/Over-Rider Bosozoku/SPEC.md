@@ -7,7 +7,7 @@ skills_used:
   - "tailor"
   - "textile-engineer"
 status: active
-version: "1.0"
+version: "2.0"
 created_at: 2026-11-08
 updated_at: 2026-11-08
 collection_name: "Over-Rider Bosozoku"
@@ -26,7 +26,7 @@ tags:
   - andreart-vestuario
 ---
 
-# Colección Cápsula: Over-Rider Bosozoku (v1.0)
+# Colección Cápsula: Over-Rider Bosozoku (v2.0)
 *Enterizo Técnico Motero de Apertura Rápida: Deconstrucción Bōsōzoku de Alta Costura*
 
 > [!NOTE]
@@ -67,9 +67,9 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | Modelo | Referencia SKU | Inspiración / Universo | Gráficos y Personalización | Arquitectura y Funcionalidad |
 | :--- | :--- | :--- | :--- | :--- |
-| **Enterizo Over-Rider Toman Shodai** | `ANDR-OVR-TOM-01` | Manjirō Sano / Tokyo Revengers | Base Total Jet Black (#0D0D0E). Espalda: Kanjis oficiales Toman ("初代", "東京卍會", "天上天下唯我独尊") en serigrafía reflectiva. Mangas: "初代総長" vertical. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y forro térmico desmontable. |
-| **Enterizo Over-Rider The Capsules** | `ANDR-OVR-AKI-01` | Akira / Mitsuru Kuwata & Shotaro Kaneda | Base Rojo Escarlata Kaneda (#D01E29). Hombreras acolchadas acanaladas estilo Akira. Espalda: Gran emblema circular de la píldora bicolor con leyenda *"Good for health, Bad for education"*. | Cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello motero con broches, drop-seat lumbar y forro térmico desmontable. |
-| **Enterizo Over-Rider Rebel Pilot** | `ANDR-OVR-REB-01` | Piloto Rebelde X-Wing (Star Wars / Poe Dameron & Luke Skywalker) | Base Naranja Vuelo Rebelde (#D84315), canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera principal, mangas con alforzas horizontales acolchadas en canalé continuo (pin-tucks), bolsillos cargo modulares en muslos y espinillas con reatas de ajuste. | Cremallera completa lateral derecha (cuello a bota, atravesando el canesú blanco), cremallera interna de entrepierna en pierna izquierda, cuello alto acanalado cortaviento, drop-seat trasero y forro térmico desmontable. |
+| **Enterizo Over-Rider Toman Shodai** | `ANDR-OVR-TOM-01` | Manjirō Sano / Tokyo Revengers | Base Total Jet Black (#0D0D0E). Espalda: Kanjis oficiales Toman ("初代", "東京卍會", "天上天下唯我独尊") en serigrafía reflectiva. Mangas: "初代総長" vertical. | Patronaje muy *oversized* y acolchado térmico para vestir encima de ropa cotidiana; cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat lumbar continuo bajo bajo de chaqueta (sin bolsillo en el trasero) y forro térmico desmontable. |
+| **Enterizo Over-Rider The Capsules** | `ANDR-OVR-AKI-01` | Akira / Mitsuru Kuwata & Shotaro Kaneda | Base Rojo Escarlata Kaneda (#D01E29). Hombreras acolchadas acanaladas estilo Akira. Espalda: Gran emblema circular de la píldora bicolor con leyenda *"Good for health, Bad for education"*. | Patronaje muy *oversized* y acolchado; cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, cuello motero con broches, drop-seat lumbar continuo (sin bolsillo en el trasero) y forro térmico desmontable. |
+| **Enterizo Over-Rider Rebel Pilot** | `ANDR-OVR-REB-01` | Piloto Rebelde X-Wing (Star Wars / Poe Dameron & Luke Skywalker) | Base Naranja Vuelo Rebelde (#D84315), canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera principal, mangas con alforzas horizontales acolchadas en canalé continuo (pin-tucks), bolsillos cargo modulares en muslos y espinillas con reatas de ajuste. | Patronaje muy *oversized* y acolchado; cremallera completa lateral derecha (cuello a bota, atravesando el canesú blanco), cremallera interna de entrepierna en pierna izquierda, cuello alto acanalado cortaviento, drop-seat lumbar continuo (sin bolsillo en el trasero) y forro térmico desmontable. |
 
 ---
 
@@ -78,12 +78,12 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 ### 4.1. Sistema de Apertura Asimétrico Fast Step-In (Ingeniería de Doble Cremallera)
 • **Cremallera Completa Continua en Lado Derecho (Cuello a Bota):** Cremallera perimétrica continua impermeable de alto calibre que recorre desde el cuello alto / hombro derecho, bajando verticalmente por el costado derecho del torso y a lo largo de toda la pernera derecha exterior hasta el tobillo y la bota. Al desabrocharse, abre todo el lateral derecho en abanico envolvente (tipo capullo) para colocarse y retirarse el enterizo en segundos con el calzado puesto.  
 • **Cremallera Interna de Entrepierna en Pierna Izquierda (Entrepierna a Bota):** Cremallera técnica continua ubicada en el borde interno (*inseam*) de la pierna izquierda, recorriendo desde el tiro / entrepierna hasta el dobladillo inferior de la bota izquierda. Facilita la entrada de la bota y el calce ergonómico sin tener que elevar la pierna.  
-• **Solapa Lumbar Abatible (*Drop-Seat*):** Cremallera horizontal continua protegida bajo un canesú cortaviento y banda reflectiva en la zona baja de la espalda. Permite abatir la parte posterior del pantalón sin desabrochar la chaqueta, brindando acceso inmediato a bolsillos traseros o uso sanitario sin retirarse el casco ni la prenda superior.
+• **Solapa Lumbar Abatible (*Drop-Seat* Continuo Sin Forma de Bolsillo):** Cremallera horizontal continua de costado a costado ubicada exactamente en la unión de la cintura posterior, completamente oculta bajo el borde recto horizontal de la parte superior de chaqueta trasera y rematada por una banda reflectiva de ancho completo (`references/refe-dropseat-lumbar-1.jpg`). La pieza del pantalón bajo el cinturón queda totalmente lisa, holgada y continua en los glúteos, sin tapas rectangulares ni siluetas que asemejen un bolsillo trasero.
 
 ### 4.2. Climatología y Modularidad Térmica
 • **Capa Exterior de Alta Resistencia:** Tejido exterior en Cordura / Nylon Oxford 600D de alta densidad con revestimiento hidrofóbico DWR (*Durable Water Repellent*) y membrana de poliuretano (resistencia a columna de agua de 10.000 mm y 100% cortaviento).  
 • **Forro Interior Térmico Desmontable:** Capitonado acolchado en patrón de rombos (*quilted diamond*) relleno de guata térmica aislante de fibra hueca (120 GSM) con forro en tafetán suave, acoplado mediante cremallera perimétrica interior y presillas de ojal en mangas y tobillos.  
-• **Patronaje Oversuit (Sin Protecciones Rígidas Fijas):** Corte ergonómico precurvado en rodillas y codos, diseñado con la holgura adecuada para usarse cómodamente encima de pantalones de calle y chaquetas de moto que ya posean sus propias protecciones CE de impacto.
+• **Patronaje Oversuit Muy Oversized y Acolchado (Uso Sobre Ropa):** Silueta amplia, acolchada y abullonada con hombros caídos cuadrados, volumen holgado en torso y mangas, y perneras anchas con caída relajada sobre las botas (`references/refe-vista-frontal-puesta.jpg`). Diseñada con holgura arquitectónica para vestirse cómodamente encima de chaquetas de moto con protecciones CE, buzos gruesos y pantalones de calle.
 
 ### 4.3. Detalles Técnicos de Confort en Conducción
 • **Cuello Chimenea con Capota Escamoteable:** Cuello alto de 10 cm con forro interior de micropolar suave contra el cuello. Cuenta con un compartimento horizontal de cremallera que alberga una capota impermeable ligera enrollable, evitando el aleteo con el viento a altas velocidades en autopista.  
@@ -98,31 +98,28 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 #### Vista Frontal (Figurín Protagónico)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/01-figurin-toman-shodai-frente.jpg]]
-*Figurín Frontal (Toman Shodai v1.1):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): modelo estilizada luciendo el enterizo técnico motero con cuello chimenea cortaviento, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillo táctico de fuelle en pecho, kanjis caligráficos dorados reflectivos "初代総長" en manga, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+*Figurín Frontal (Toman Shodai v2.0 — Silueta Oversized Acolchada):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): modelo estilizada luciendo el enterizo técnico motero en silueta muy *oversized* y acolchada para vestir sobre ropa cotidiana, con hombros caídos amplios, torso y mangas abullonados, perneras anchas relajadas sobre botas, cuello chimenea cortaviento, cremallera continua completa lateral derecha (cuello a bota), cremallera técnica interna de entrepierna izquierda, bolsillo táctico de fuelle en pecho, kanjis dorados reflectivos "初代総長" en manga, llamadas técnicas caligráficas y sello oficial Andreart.
 
 #### Vista Dorsal / Espalda (Figurín Protagónico)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/02-figurin-toman-shodai-espalda.jpg]]
-*Figurín Dorsal (Toman Shodai v1.1):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): vista posterior de cuerpo entero con moño alto pulido luciendo la caligrafía tradicional en oro reflectivo de la Tokyo Manji Gang ("初代" en canesú superior, "東京卍會" en espina central y "初代総長" en mangas), canesú con compartimento para capota escamoteable, solapa lumbar abatible (*drop-seat*) con banda reflectiva horizontal plata, tres llamadas técnicas caligráficas discretas y el sello oficial Andreart en la esquina inferior derecha.
+*Figurín Dorsal (Toman Shodai v2.0 — Drop-Seat Lumbar Continuo Sin Bolsillo):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en negro azabache mate (#0D0D0E): vista posterior de cuerpo entero en silueta muy *oversized* y acolchada con moño alto pulido, caligrafía tradicional en oro reflectivo de la Tokyo Manji Gang ("初代" en canesú superior, "東京卍會" en espina central y "初代総長" en mangas), bajo recto de chaqueta con banda reflectiva horizontal continua de costado a costado que oculta la cremallera lumbar *drop-seat* dejando el trasero completamente liso sin forma de bolsillo, tres llamadas técnicas caligráficas discretas y el sello oficial Andreart en la esquina inferior derecha.
 
 ### Enterizo Over-Rider The Capsules (Akira)
 
 #### Vista Frontal (Figurín Protagónico Masculino en Rojo Escarlata)
 ![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/03-figurin-capsules-akira-frente.jpg]]
-*Figurín Frontal (The Capsules Akira v1.1):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en Rojo Escarlata Kaneda (#D01E29): modelo masculino estilizado de alta costura inspirado en Shotaro Kaneda luciendo el enterizo técnico motero con cuello motero alto con broches, hombreras acolchadas acanaladas/estriadas horizontales estilo chaqueta de Akira, cremallera continua completa en el lateral derecho desde el cuello hasta la bota, cremallera técnica interna en la entrepierna de la pierna izquierda, bolsillos diagonales con tapeta, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+*Figurín Frontal (The Capsules Akira v2.0 — Silueta Oversized Acolchada):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en Rojo Escarlata Kaneda (#D01E29): modelo masculino inspirado en Shotaro Kaneda luciendo el enterizo técnico motero en silueta muy *oversized* y acolchada con hombros caídos cuadrados, hombreras acolchadas acanaladas/estriadas horizontales estilo chaqueta de Akira, torso y mangas abullonados, perneras anchas relajadas sobre botas, cuello motero alto con broches, cremallera continua completa lateral derecha (cuello a bota), cremallera técnica interna de entrepierna izquierda, bolsillos diagonales con tapeta, llamadas técnicas caligráficas y sello oficial Andreart.
 
 #### Vista Dorsal / Espalda (Figurín Protagónico Masculino con Emblema de la Píldora)
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/04-figurin-capsules-akira-espalda.jpg]]
-*Figurín Dorsal (The Capsules Akira v1.1):* Vista posterior de cuerpo entero mostrando en el centro de la espalda a gran escala el emblemático diseño circular de la píldora cápsula bicolor (rojo escarlata y blanco) con el lema *"Good for health, Bad for education"*, canesú sastre con compartimento para capota escamoteable, hombreras acanaladas visibles desde atrás, solapa lumbar abatible (*drop-seat*) con franja reflectiva y cremallera horizontal, llamadas técnicas caligráficas y el sello oficial Andreart sobre papel marfil.
+*⏳ En cola de regeneración v2.0 (Lote B — bloqueado temporalmente por cuota de API hasta ~06:19 UTC / 01:19 local).* La versión v1 (*slim-fit* con bolsillo en glúteo) fue archivada en `assets/.archive/04-figurin-capsules-akira-espalda-v1-slim-pocket.jpg`. Se regenerará aplicando silueta muy *oversized* acolchada, píldora dorsal *"Good for health, Bad for education"* y *drop-seat* continuo bajo el borde de chaqueta sin forma de bolsillo.
 
 ### Enterizo Over-Rider Rebel Pilot (Alianza Rebelde / Star Wars)
 
 #### Vista Frontal (Figurín Protagónico Masculino en Naranja Vuelo Rebelde)
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/05-figurin-rebel-pilot-frente.jpg]]
-*Figurín Frontal (Rebel Pilot v1.1 - Canesú Integrado & Estética Paradise Kiss):* Croquis de atelier a mano alzada sobre papel marfil texturizado (#F6F4EE) con trazo a lápiz grafito fino, entintado a pluma de tinta china y aguada de acuarela translúcida en Naranja Vuelo Rebelde (#D84315): modelo masculino estilizado en estética anime de alta costura al estilo Paradise Kiss (Ai Yazawa) luciendo el enterizo técnico motero con canesú de pecho blanco marfil (#F0EFEB) integrado directamente en el patronaje del mono y dividido verticalmente por la cremallera completa lateral derecha, mangas con alforzas nervadas continuas (pin-tucks), cremallera técnica interna en entrepierna de pierna izquierda, bolsillos cargo tácticos con fuelle y reatas en muslos y espinillas, llamadas técnicas caligráficas y el sello oficial de autor Andreart.
+*⏳ En cola de regeneración v2.0 (Lote B — bloqueado temporalmente por cuota de API hasta ~06:19 UTC / 01:19 local).* La versión v1 (*slim-fit*) fue archivada en `assets/.archive/05-figurin-rebel-pilot-frente-v1-slim.jpg`. Se regenerará conservando la estética anime *Paradise Kiss* (Ai Yazawa), mangas con alforzas nervadas (pin-tucks), canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera perimétrica derecha y el sello Andreart, sobre silueta muy *oversized* y acolchada.
 
 #### Vista Dorsal / Espalda (Figurín Protagónico Masculino con Emblema Alianza Rebelde)
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/06-figurin-rebel-pilot-espalda.jpg]]
-*Figurín Dorsal (Rebel Pilot v1.0):* Vista posterior de cuerpo entero luciendo en el centro de la espalda a gran escala el emblemático diseño del Pájaro Fénix (Starbird) de la Alianza Rebelde en serigrafía blanco marfil reflectivo (#F0EFEB), canesú sastre con compartimento para capota escamoteable, mangas con alforzas acolchadas continuas (pin-tucks) visibles a lo largo de ambos brazos, solapa lumbar abatible (*drop-seat*) con franja reflectiva microprismática plata y cremallera horizontal, llamadas técnicas caligráficas discretas y el sello oficial Andreart sobre papel marfil.
+*⏳ En cola de regeneración v2.0 (Lote B — bloqueado temporalmente por cuota de API hasta ~06:19 UTC / 01:19 local).* La versión v1 (*slim-fit* con bolsillo en glúteo) fue archivada en `assets/.archive/06-figurin-rebel-pilot-espalda-v1-slim-pocket.jpg`. Se regenerará con silueta muy *oversized* acolchada, mangas con alforzas continuas, emblema Starbird fénix en serigrafía marfil reflectiva y *drop-seat* continuo sin bolsillo en el trasero.
 
 ---
 
@@ -130,21 +127,11 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 | ID del Activo | Archivo en `assets/` | Tipología | Prenda / Pieza | Referencia Fuente |
 | :--- | :--- | :--- | :--- | :--- |
-| `01-figurin-toman-shodai-frente` | `01-figurin-toman-shodai-frente.jpg` | Figurín Protagónico (Frente) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Tokyo Manji Gang / Mikey) |
-| `02-figurin-toman-shodai-espalda` | `02-figurin-toman-shodai-espalda.jpg` | Figurín Protagónico (Espalda) | Enterizo Over-Rider Toman Shodai | Moldería atelier (Kanjis Toman & Drop-Seat) |
-| `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico (Frente Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` |
-| `04-figurin-capsules-akira-espalda` | `04-figurin-capsules-akira-espalda.jpg` | Figurín Protagónico (Espalda Masculino Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + Píldora Akira |
-| `05-figurin-rebel-pilot-frente` | `05-figurin-rebel-pilot-frente.jpg` | Figurín Protagónico (Frente Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | `references/refe-piloto-rebelde-poe-dameron.png` |
-| `06-figurin-rebel-pilot-espalda` | `06-figurin-rebel-pilot-espalda.jpg` | Figurín Protagónico (Espalda Masculino Naranja Rebelde) | Enterizo Over-Rider Rebel Pilot | Emblema Fénix Rebelde + `references/refe-chaqueta-columbia-star-wars-alforzas.jpg` |
-| `07-foto-estudio-toman-frente` | `07-foto-estudio-toman-frente.jpg` | Foto Estudio Limpia (Frente Hispana) | Enterizo Over-Rider Toman Shodai | Ciclorama Estudio + `01-figurin-toman-shodai-frente.jpg` |
-| `08-foto-estudio-toman-espalda` | `08-foto-estudio-toman-espalda.jpg` | Foto Estudio Limpia (Espalda Hispana) | Enterizo Over-Rider Toman Shodai | Ciclorama Estudio + `02-figurin-toman-shodai-espalda.jpg` |
-| `09-foto-estudio-toman-perfil` | `09-foto-estudio-toman-perfil.jpg` | Foto Estudio Limpia (3/4 Lateral Hispana) | Enterizo Over-Rider Toman Shodai | Ciclorama Estudio + `01-figurin-toman-shodai-frente.jpg` |
-| `10-foto-estudio-akira-frente` | `10-foto-estudio-akira-frente.jpg` | Foto Estudio Limpia (Frente Hispano) | Enterizo Over-Rider The Capsules | Ciclorama Estudio + `03-figurin-capsules-akira-frente.jpg` |
-| `11-foto-estudio-akira-espalda` | `11-foto-estudio-akira-espalda.jpg` | Foto Estudio Limpia (Espalda Hispano) | Enterizo Over-Rider The Capsules | Ciclorama Estudio + `04-figurin-capsules-akira-espalda.jpg` |
-| `12-foto-estudio-akira-perfil` | `12-foto-estudio-akira-perfil.jpg` | Foto Estudio Limpia (3/4 Lateral Hispano) | Enterizo Over-Rider The Capsules | Ciclorama Estudio + `03-figurin-capsules-akira-frente.jpg` |
-| `13-foto-estudio-rebel-frente` | `13-foto-estudio-rebel-frente.jpg` | Foto Estudio Limpia (Frente Hispano) | Enterizo Over-Rider Rebel Pilot | Ciclorama Estudio + `05-figurin-rebel-pilot-frente.jpg` |
-| `14-foto-estudio-rebel-espalda` | `14-foto-estudio-rebel-espalda.jpg` | Foto Estudio Limpia (Espalda Hispano) | Enterizo Over-Rider Rebel Pilot | Ciclorama Estudio + `06-figurin-rebel-pilot-espalda.jpg` |
-| `15-foto-estudio-rebel-perfil` | `15-foto-estudio-rebel-perfil.jpg` | Foto Estudio Limpia (3/4 Lateral Hispano) | Enterizo Over-Rider Rebel Pilot | Ciclorama Estudio + `05-figurin-rebel-pilot-frente.jpg` |
+| `01-figurin-toman-shodai-frente` | `01-figurin-toman-shodai-frente.jpg` | Figurín Protagónico v2.0 (Frente Oversized) | Enterizo Over-Rider Toman Shodai | `references/refe-vista-frontal-puesta.jpg` + Moldería atelier |
+| `02-figurin-toman-shodai-espalda` | `02-figurin-toman-shodai-espalda.jpg` | Figurín Protagónico v2.0 (Espalda Drop-Seat Limpio) | Enterizo Over-Rider Toman Shodai | `references/refe-dropseat-lumbar-1.jpg` + Kanjis Toman |
+| `03-figurin-capsules-akira-frente` | `03-figurin-capsules-akira-frente.jpg` | Figurín Protagónico v2.0 (Frente Masculino Oversized Rojo) | Enterizo Over-Rider The Capsules | `references/refe-kaneda-akira-suit.jpg` + `refe-vista-frontal-puesta.jpg` |
+
+*(Los activos `04` al `15` correspondientes al Lote B de figurines y a los Lotes C–E de fotografía editorial en estudio se encuentran en cola de regeneración v2.0 por cuota de API; todas sus versiones anteriores v1 fueron archivadas en `assets/.archive/`).*
 
 ---
 
@@ -165,43 +152,33 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 
 ---
 
-## 🗂️ 6. Próximos Pasos de Desarrollo (Roadmap SDD)
+## 🗂️ 6. Próximos Pasos de Desarrollo (Roadmap SDD v2.0)
 
-1. **Modelado y Figurines de Moda (Anime & Techwear Croquis):**
-   - Figurín Edición Toman Shodai (frontal y dorsal con kanjis reflectivos) - ✅ Completado.
-   - Figurín Edición The Capsules (frontal y dorsal con emblema de la píldora) - ✅ Completado.
-   - Figurín Edición Rebel Pilot (frontal con canesú integrado y dorsal con emblema fénix) - ✅ Completado.
-2. **Fotografía Editorial Realista de Estudio (Lookbook Comercial - 9 Tomas):**
-   - Lote 1: Toman Shodai (Frente ✅, Espalda ✅, 3/4 Lateral ✅).
-   - Lote 2: The Capsules Akira (Frente ✅, Espalda ✅, 3/4 Lateral ✅).
-   - Lote 3: Rebel Pilot (Frente ✅, Espalda ✅, 3/4 Lateral ✅).
+1. **Modelado y Figurines de Moda v2.0 (Silueta Muy Oversized Acolchada & Drop-Seat Sin Bolsillo):**
+   - Lote A (`01`–`03`): Toman Shodai Frente, Toman Shodai Espalda y The Capsules Akira Frente - ✅ Completado.
+   - Lote B (`04`–`06`): The Capsules Akira Espalda, Rebel Pilot Frente y Rebel Pilot Espalda - ⏳ En cola tras reseteo de cuota API (~06:19 UTC / 01:19 local).
+2. **Fotografía Editorial Realista de Estudio v2.0 (Lookbook Comercial - 9 Tomas):**
+   - Lote C (`07`–`09`): Toman Shodai (Frente, Espalda, 3/4 Lateral - Hispana, Oversized & Drop-Seat limpio) - ⏳ En cola.
+   - Lote D (`10`–`12`): The Capsules Akira (Frente, Espalda, 3/4 Lateral - Hispano, Oversized & Drop-Seat limpio) - ⏳ En cola.
+   - Lote E (`13`–`15`): Rebel Pilot (Frente, Espalda, 3/4 Lateral - Hispano, Oversized & Drop-Seat limpio) - ⏳ En cola.
 3. **Planos Técnicos (Flats de Moldería y Despiece):**
    - Esquema técnico frontal, posterior y despiece del sistema de cremalleras y drop-seat.
 
 ---
 
-## 📸 7. Lookbook Editorial de Estudio Ultra Realista (9 Tomas Oficiales)
+## 📸 7. Lookbook Editorial de Estudio Ultra Realista v2.0 (En Cola — 9 Tomas Oficiales)
 
-### Criterios y Especificaciones de Producción Editorial:
-• **Casting de Modelos (100% Hispanos / Latinos):** Modelos de alta costura hispanos/latinos de facciones sofisticadas y magnéticas, reflejando el origen del atelier (Bogotá, Colombia).
-• **Poses Variadas y Dinámicas:** Poses naturales de pasarela y campaña editorial (apoyo sobre una pierna, torsión sutil, manos en cintura o cuello, ángulos tres cuartos), evitando posturas rígidas tipo maniquí.
-• **100% Fotografía Limpia (Cero Texto / Cero Sellos):** Las fotografías de estudio no llevan textos superpuestos, llamadas técnicas, flechas ni sellos sobre la imagen. La prenda se expresa puramente a través del patronaje real, iluminación y textura textil.
-• **Set y Composición:** Ciclorama minimalista gris carbón neutro / cemento pulido con iluminación suave y luz de recorte que resalta la trama de la Cordura 600D y los elementos reflectivos.
+### Criterios y Especificaciones de Producción Editorial v2.0:
+• **Casting de Modelos (100% Hispanos / Latinos):** Modelos de alta costura hispanos/latinos de facciones sofisticadas y magnéticas, manteniendo identidad consistente por cada prenda en sus 3 poses.
+• **Silueta Real Muy Oversized y Acolchada (Obligatoria):** Prenda volumétrica tipo sobre-enterizo acolchado llevada holgadamente encima de ropa cotidiana, con hombros caídos amplios, torso y mangas abullonados y caída ancha sobre botas de combate (`references/refe-vista-frontal-puesta.jpg`).
+• **Drop-Seat Dorsal Limpio (Cero Forma de Bolsillo en el Trasero):** En todas las tomas dorsales, la parte alta trasera termina en un borde recto horizontal de chaqueta con la franja reflectiva de lado a lado que oculta la cremallera lumbar, dejando los glúteos del pantalón lisos y sin forma de bolsillo de parche (`references/refe-dropseat-lumbar-1.jpg`).
+• **Poses Variadas y Dinámicas + 100% Fotografía Limpia:** Poses naturales de pasarela/campaña y cero textos flotantes, llamadas ni sellos superpuestos.
+• **Set y Composición:** Ciclorama minimalista gris carbón neutro / cemento pulido con iluminación suave y luz de recorte editorial.
 
-### Lote 1: Enterizo Over-Rider Toman Shodai (`ANDR-OVR-TOM-01`)
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/07-foto-estudio-toman-frente.jpg]]
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/08-foto-estudio-toman-espalda.jpg]]
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/09-foto-estudio-toman-perfil.jpg]]
-
-### Lote 2: Enterizo Over-Rider The Capsules Akira (`ANDR-OVR-AKI-01`)
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/10-foto-estudio-akira-frente.jpg]]
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/11-foto-estudio-akira-espalda.jpg]]
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/12-foto-estudio-akira-perfil.jpg]]
-
-### Lote 3: Enterizo Over-Rider Rebel Pilot (`ANDR-OVR-REB-01`)
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/13-foto-estudio-rebel-frente.jpg]]
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/14-foto-estudio-rebel-espalda.jpg]]
-![[01 Brand Context/Colecciones/Over-Rider Bosozoku/assets/15-foto-estudio-rebel-perfil.jpg]]
+### Cola de Regeneración v2.0 (Tras Reseteo de Cuota API ~06:19 UTC / 01:19 local):
+1. **Lote C — Enterizo Over-Rider Toman Shodai (`ANDR-OVR-TOM-01`):** `07-foto-estudio-toman-frente.jpg`, `08-foto-estudio-toman-espalda.jpg`, `09-foto-estudio-toman-perfil.jpg` (versiones v2 slim-fit archivadas en `assets/.archive/`).
+2. **Lote D — Enterizo Over-Rider The Capsules Akira (`ANDR-OVR-AKI-01`):** `10-foto-estudio-akira-frente.jpg`, `11-foto-estudio-akira-espalda.jpg`, `12-foto-estudio-akira-perfil.jpg` (versiones v1 slim-fit archivadas en `assets/.archive/`).
+3. **Lote E — Enterizo Over-Rider Rebel Pilot (`ANDR-OVR-REB-01`):** `13-foto-estudio-rebel-frente.jpg`, `14-foto-estudio-rebel-espalda.jpg`, `15-foto-estudio-rebel-perfil.jpg` (versiones v1 slim-fit archivadas en `assets/.archive/`).
 
 ---
 
@@ -213,3 +190,18 @@ Diseñada para el motociclista contemporáneo que rechaza los uniformes genéric
 | `02-figurin-toman-shodai-espalda-v1.jpg` | Versión inicial de espalda con exceso de textos y tipografía sobredimensionada | 2026-11-08 |
 | `03-figurin-capsules-akira-frente-black.jpg` | Versión inicial en negro antes de corregir al Rojo Escarlata Kaneda canónico | 2026-11-08 |
 | `07-foto-estudio-toman-frente-v1-asian-labels.jpg` | Versión preliminar con llamadas de texto y modelo asiática; archivada para reemplazo por modelo hispana sin texto | 2026-11-08 |
+| `01-figurin-toman-shodai-frente-v1-slim.jpg` | Silueta slim-fit reemplazada por patronaje v2.0 muy *oversized* y acolchado | 2026-11-08 |
+| `02-figurin-toman-shodai-espalda-v1-slim-pocket.jpg` | Silueta slim-fit y drop-seat con forma de bolsillo en trasero; reemplazada por v2.0 oversized y drop-seat bajo bajo de chaqueta | 2026-11-08 |
+| `03-figurin-capsules-akira-frente-v1-slim.jpg` | Silueta slim-fit reemplazada por patronaje v2.0 muy *oversized* y acolchado | 2026-11-08 |
+| `04-figurin-capsules-akira-espalda-v1-slim-pocket.jpg` | Silueta slim-fit y drop-seat tipo bolsillo; archivada para regeneración v2.0 (Lote B) | 2026-11-08 |
+| `05-figurin-rebel-pilot-frente-v1-slim.jpg` | Silueta slim-fit; archivada para regeneración v2.0 muy *oversized* y acolchada (Lote B) | 2026-11-08 |
+| `06-figurin-rebel-pilot-espalda-v1-slim-pocket.jpg` | Silueta slim-fit y drop-seat tipo bolsillo; archivada para regeneración v2.0 (Lote B) | 2026-11-08 |
+| `07-foto-estudio-toman-frente-v2-slim.jpg` | Foto estudio v2 con calce entallado/slim-fit; archivada para regeneración v2.0 oversized acolchada (Lote C) | 2026-11-08 |
+| `08-foto-estudio-toman-espalda-v2-slim-pocket.jpg` | Foto estudio dorsal con silueta slim y bolsillo en trasero; archivada para regeneración v2.0 (Lote C) | 2026-11-08 |
+| `09-foto-estudio-toman-perfil-v2-slim.jpg` | Foto estudio 3/4 con silueta slim-fit; archivada para regeneración v2.0 oversized acolchada (Lote C) | 2026-11-08 |
+| `10-foto-estudio-akira-frente-v1-slim.jpg` | Foto estudio Akira frontal con silueta slim-fit; archivada para regeneración v2.0 oversized acolchada (Lote D) | 2026-11-08 |
+| `11-foto-estudio-akira-espalda-v1-slim-pocket.jpg` | Foto estudio Akira dorsal con bolsillo en trasero; archivada para regeneración v2.0 (Lote D) | 2026-11-08 |
+| `12-foto-estudio-akira-perfil-v1-slim.jpg` | Foto estudio Akira 3/4 con silueta slim-fit; archivada para regeneración v2.0 oversized acolchada (Lote D) | 2026-11-08 |
+| `13-foto-estudio-rebel-frente-v1-slim.jpg` | Foto estudio Rebel Pilot frontal con silueta slim-fit; archivada para regeneración v2.0 oversized acolchada (Lote E) | 2026-11-08 |
+| `14-foto-estudio-rebel-espalda-v1-slim-pocket.jpg` | Foto estudio Rebel Pilot dorsal con bolsillo en trasero; archivada para regeneración v2.0 (Lote E) | 2026-11-08 |
+| `15-foto-estudio-rebel-perfil-v1-slim.jpg` | Foto estudio Rebel Pilot 3/4 con silueta slim-fit; archivada para regeneración v2.0 oversized acolchada (Lote E) | 2026-11-08 |
