@@ -1,5 +1,5 @@
 /**
- * Collection Asset Barrel: Over-Rider Bosozoku (v1.0)
+ * Collection Asset Barrel: Over-Rider Bosozoku (v2.0 - WIP Oversized & Clean Drop-Seat)
  * AndreArt Vestuario - Urban Fantasy Haute Couture
  * 
  * Central entry point defining active assets, garments, and source references.
@@ -36,10 +36,10 @@ export interface CollectionReference {
 export const COLLECTION_INFO = {
   name: 'Over-Rider Bosozoku',
   slug: 'over-rider-bosozoku',
-  version: '1.0',
+  version: '2.0',
   updatedAt: '2026-11-08',
   season: 'Atemporal / Clima Frío y Carretera (Bogotá)',
-  concept: 'Enterizo techwear motero de apertura rápida con influencias bōsōzoku de Tokyo Revengers (Toman) y Akira (The Capsules)',
+  concept: 'Enterizo techwear motero muy oversized acolchado de apertura rápida con influencias bōsōzoku de Tokyo Revengers (Toman), Akira (The Capsules) y Piloto Rebelde',
   palette: '100% Total Jet Black (#0D0D0E) con Serigrafía Reflectiva Microprismática de Seguridad Vial',
   specPath: './SPEC.md',
   heroProduct: 'Enterizo Over-Rider Bosozoku Dual-Zip'
@@ -50,22 +50,22 @@ export const GARMENTS: CollectionGarment[] = [
     name: 'Enterizo Over-Rider Toman Shodai',
     sku: 'ANDR-OVR-TOM-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
-    textile: 'Cordura / Nylon Oxford 600D impermeable con forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y serigrafía reflectiva kanjis Toman'
+    textile: 'Cordura / Nylon Oxford 600D impermeable acolchada con forro térmico capitonado desmontable',
+    fit: 'Patronaje muy oversized acolchado para vestir encima de ropa cotidiana, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat lumbar continuo bajo bajo de chaqueta sin forma de bolsillo en trasero y serigrafía reflectiva kanjis Toman'
   },
   {
     name: 'Enterizo Over-Rider The Capsules',
     sku: 'ANDR-OVR-AKI-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
-    textile: 'Cordura / Nylon Oxford 600D impermeable en Rojo Escarlata Kaneda (#D01E29) con forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto en rojo escarlata, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat trasero y gran emblema dorsal de la píldora "Good for health, Bad for education"'
+    textile: 'Cordura / Nylon Oxford 600D impermeable acolchada en Rojo Escarlata Kaneda (#D01E29) con forro térmico capitonado desmontable',
+    fit: 'Patronaje muy oversized acolchado en rojo escarlata para vestir sobre ropa de calle, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, drop-seat lumbar continuo sin bolsillo en trasero y gran emblema dorsal de la píldora "Good for health, Bad for education"'
   },
   {
     name: 'Enterizo Over-Rider Rebel Pilot',
     sku: 'ANDR-OVR-REB-01',
     category: 'Prenda Enteriza Exterior (Oversuit)',
-    textile: 'Cordura / Nylon Oxford 600D impermeable en Naranja Vuelo Rebelde (#D84315) con canesú de pecho blanco integrado (#F0EFEB), mangas en alforzas nervadas (pin-tucks) y forro térmico capitonado desmontable',
-    fit: 'Corte ergonómico precurvado para moto en naranja vuelo rebelde, canesú blanco integrado dividido verticalmente por la cremallera completa lateral derecha (cuello a bota), mangas con alforzas acolchadas continuas, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera interna de entrepierna en pierna izquierda y drop-seat trasero'
+    textile: 'Cordura / Nylon Oxford 600D impermeable acolchada en Naranja Vuelo Rebelde (#D84315) con canesú de pecho blanco integrado (#F0EFEB), mangas en alforzas nervadas (pin-tucks) y forro térmico capitonado desmontable',
+    fit: 'Patronaje muy oversized acolchado en naranja vuelo rebelde para vestir sobre ropa cotidiana, canesú blanco integrado dividido verticalmente por la cremallera completa lateral derecha (cuello a bota), mangas con alforzas acolchadas continuas, bolsillos cargo tácticos en muslos y espinillas con reatas de compresión, cremallera interna de entrepierna en pierna izquierda y drop-seat lumbar continuo sin bolsillo en trasero'
   }
 ];
 
@@ -76,8 +76,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     path: './assets/01-figurin-toman-shodai-frente.jpg',
     category: 'figurine',
     garment: 'Enterizo Over-Rider Toman Shodai',
-    view: 'frente-pasarela',
-    description: 'Figurín de autor a mano alzada en acuarela sobre papel marfil (#F6F4EE) luciendo el enterizo técnico motero en Jet Black (#0D0D0E) con cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, bolsillo táctico de pecho, kanjis dorados reflectivos "初代総長", llamadas técnicas y sello Andreart.',
+    view: 'frente-pasarela-oversized',
+    description: 'Figurín de autor v2.0 a mano alzada en acuarela sobre papel marfil (#F6F4EE) con silueta muy oversized y acolchada para vestir sobre otra ropa: enterizo técnico motero en Jet Black (#0D0D0E) con hombros caídos, volumen abullonado, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, bolsillo táctico de pecho, kanjis dorados reflectivos "初代総長", llamadas técnicas y sello Andreart.',
     sourceReference: './references/refe-vista-frontal-puesta.jpg, ./references/refe-apertura-total-capullo.jpg',
     status: 'active',
     approved: true
@@ -88,8 +88,8 @@ export const ASSETS: Record<string, CollectionAsset> = {
     path: './assets/02-figurin-toman-shodai-espalda.jpg',
     category: 'figurine',
     garment: 'Enterizo Over-Rider Toman Shodai',
-    view: 'espalda-dorsal',
-    description: 'Figurín de autor a mano alzada en acuarela sobre papel marfil (#F6F4EE) dorsal mostrando la gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代", "東京卍會", "初代総長"), canesú con compartimento de capota, solapa drop-seat lumbar con banda reflectiva, llamadas técnicas sutiles y sello Andreart.',
+    view: 'espalda-dorsal-oversized',
+    description: 'Figurín de autor v2.0 a mano alzada en acuarela sobre papel marfil (#F6F4EE) dorsal mostrando silueta muy oversized acolchada, gráfica caligráfica en oro reflectivo de la Tokyo Manji Gang ("初代", "東京卍會", "初代総長"), bajo recto de chaqueta con banda reflectiva horizontal continua que oculta la cremallera drop-seat manteniendo el trasero liso sin forma de bolsillo, llamadas técnicas sutiles y sello Andreart.',
     sourceReference: './references/refe-dropseat-lumbar-1.jpg',
     status: 'active',
     approved: true
@@ -100,153 +100,9 @@ export const ASSETS: Record<string, CollectionAsset> = {
     path: './assets/03-figurin-capsules-akira-frente.jpg',
     category: 'figurine',
     garment: 'Enterizo Over-Rider The Capsules',
-    view: 'frente-pasarela-hombre-rojo',
-    description: 'Figurín de autor a mano alzada en acuarela roja escarlata (#D01E29) sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Kaneda luciendo el enterizo técnico motero, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.',
+    view: 'frente-pasarela-hombre-rojo-oversized',
+    description: 'Figurín de autor v2.0 a mano alzada en acuarela roja escarlata (#D01E29) sobre papel marfil (#F6F4EE) con modelo masculino inspirado en Kaneda en silueta muy oversized y acolchada para usar sobre ropa de calle, hombreras acolchadas acanaladas estilo Akira, cremallera completa lateral derecha (cuello a bota), cremallera interna de entrepierna en pierna izquierda, llamadas técnicas y sello Andreart.',
     sourceReference: './references/refe-kaneda-akira-suit.jpg, ./references/refe-vista-frontal-puesta.jpg',
-    status: 'active',
-    approved: true
-  },
-  '04-figurin-capsules-akira-espalda': {
-    id: '04-figurin-capsules-akira-espalda',
-    filename: '04-figurin-capsules-akira-espalda.jpg',
-    path: './assets/04-figurin-capsules-akira-espalda.jpg',
-    category: 'figurine',
-    garment: 'Enterizo Over-Rider The Capsules',
-    view: 'espalda-dorsal-hombre-rojo',
-    description: 'Figurín de autor a mano alzada en acuarela dorsal mostrando a gran escala en el centro de la espalda el emblemático diseño circular de la píldora cápsula con el lema "Good for health, Bad for education", hombreras acanaladas, canesú con capota escamoteable y solapa lumbar drop-seat con banda reflectiva.',
-    sourceReference: './references/refe-kaneda-akira-suit.jpg, ./references/refe-dropseat-lumbar-1.jpg',
-    status: 'active',
-    approved: true
-  },
-  '05-figurin-rebel-pilot-frente': {
-    id: '05-figurin-rebel-pilot-frente',
-    filename: '05-figurin-rebel-pilot-frente.jpg',
-    path: './assets/05-figurin-rebel-pilot-frente.jpg',
-    category: 'figurine',
-    garment: 'Enterizo Over-Rider Rebel Pilot',
-    view: 'frente-pasarela-hombre-naranja-rebelde',
-    description: 'Figurín de autor a mano alzada en acuarela naranja (#D84315) sobre papel marfil (#F6F4EE) con modelo masculino estilo Paradise Kiss (Ai Yazawa) luciendo el enterizo técnico motero, canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera completa lateral derecha (cuello a bota), mangas con alforzas nervadas continuas (pin-tucks), cremallera interna de entrepierna en pierna izquierda, bolsillos cargo con reatas, llamadas técnicas y sello oficial Andreart.',
-    sourceReference: './references/refe-piloto-rebelde-poe-dameron.png, ./references/refe-vista-frontal-puesta.jpg',
-    status: 'active',
-    approved: true
-  },
-  '06-figurin-rebel-pilot-espalda': {
-    id: '06-figurin-rebel-pilot-espalda',
-    filename: '06-figurin-rebel-pilot-espalda.jpg',
-    path: './assets/06-figurin-rebel-pilot-espalda.jpg',
-    category: 'figurine',
-    garment: 'Enterizo Over-Rider Rebel Pilot',
-    view: 'espalda-dorsal-hombre-naranja-rebelde',
-    description: 'Figurín de autor a mano alzada en acuarela dorsal mostrando a gran escala en el centro de la espalda el emblemático diseño circular del Pájaro Fénix (Starbird) de la Alianza Rebelde en serigrafía marfil reflectiva (#F0EFEB), mangas con alforzas acolchadas continuas (pin-tucks), canesú con capota escamoteable, solapa lumbar drop-seat con banda reflectiva microprismática y sello oficial Andreart.',
-    sourceReference: './references/refe-chaqueta-columbia-star-wars-alforzas.jpg, ./references/refe-dropseat-lumbar-1.jpg',
-    status: 'active',
-    approved: true
-  },
-  '07-foto-estudio-toman-frente': {
-    id: '07-foto-estudio-toman-frente',
-    filename: '07-foto-estudio-toman-frente.jpg',
-    path: './assets/07-foto-estudio-toman-frente.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider Toman Shodai',
-    view: 'frente-estudio-hispana',
-    description: 'Fotografía editorial de estudio ultra realista y limpia (cero texto flotante): modelo hispana de alta costura con moño alto pulido en pose frontal dinámica portando el enterizo Over-Rider Toman Shodai en Cordura 600D negro mate (#0D0D0E) con kanjis dorados reflectivos y cremallera asimétrica.',
-    sourceReference: './assets/01-figurin-toman-shodai-frente.jpg',
-    status: 'active',
-    approved: true
-  },
-  '08-foto-estudio-toman-espalda': {
-    id: '08-foto-estudio-toman-espalda',
-    filename: '08-foto-estudio-toman-espalda.jpg',
-    path: './assets/08-foto-estudio-toman-espalda.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider Toman Shodai',
-    view: 'espalda-estudio-hispana',
-    description: 'Fotografía editorial de estudio ultra realista dorsal y limpia (cero texto flotante): modelo hispana girando la mirada sobre su hombro luciendo la gráfica Toman dorsal reflectiva en oro y la solapa lumbar drop-seat con franja reflectiva plata.',
-    sourceReference: './assets/02-figurin-toman-shodai-espalda.jpg',
-    status: 'active',
-    approved: true
-  },
-  '09-foto-estudio-toman-perfil': {
-    id: '09-foto-estudio-toman-perfil',
-    filename: '09-foto-estudio-toman-perfil.jpg',
-    path: './assets/09-foto-estudio-toman-perfil.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider Toman Shodai',
-    view: 'perfil-3-4-estudio-hispana',
-    description: 'Fotografía editorial de estudio en ángulo 3/4 lateral y limpia (cero texto flotante): modelo hispana en paso dinámico ajustando el cuello chimenea, destacando la cremallera perimétrica lateral de cuello a bota y los kanjis dorados de la manga.',
-    sourceReference: './assets/01-figurin-toman-shodai-frente.jpg',
-    status: 'active',
-    approved: true
-  },
-  '10-foto-estudio-akira-frente': {
-    id: '10-foto-estudio-akira-frente',
-    filename: '10-foto-estudio-akira-frente.jpg',
-    path: './assets/10-foto-estudio-akira-frente.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider The Capsules',
-    view: 'frente-estudio-hispano',
-    description: 'Fotografía editorial de estudio ultra realista y limpia (cero texto flotante): modelo masculino hispano portando el enterizo Over-Rider The Capsules en Rojo Escarlata Kaneda (#D01E29) con hombreras acolchadas acanaladas, cuello motero con broches y cremallera asimétrica.',
-    sourceReference: './assets/03-figurin-capsules-akira-frente.jpg',
-    status: 'active',
-    approved: true
-  },
-  '11-foto-estudio-akira-espalda': {
-    id: '11-foto-estudio-akira-espalda',
-    filename: '11-foto-estudio-akira-espalda.jpg',
-    path: './assets/11-foto-estudio-akira-espalda.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider The Capsules',
-    view: 'espalda-estudio-hispano',
-    description: 'Fotografía editorial de estudio dorsal ultra realista y limpia (cero texto flotante): modelo masculino hispano mirando de perfil mostrando el gran emblema circular de la píldora "Good for health, Bad for education", hombreras estriadas y solapa lumbar drop-seat.',
-    sourceReference: './assets/04-figurin-capsules-akira-espalda.jpg',
-    status: 'active',
-    approved: true
-  },
-  '12-foto-estudio-akira-perfil': {
-    id: '12-foto-estudio-akira-perfil',
-    filename: '12-foto-estudio-akira-perfil.jpg',
-    path: './assets/12-foto-estudio-akira-perfil.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider The Capsules',
-    view: 'perfil-3-4-estudio-hispano',
-    description: 'Fotografía editorial de estudio en 3/4 lateral y limpia (cero texto flotante): modelo masculino hispano en pose de paso dinámico rozando el broche del cuello motero, destacando las hombreras acanaladas y el recorrido completo de la cremallera derecha hasta la bota.',
-    sourceReference: './assets/03-figurin-capsules-akira-frente.jpg',
-    status: 'active',
-    approved: true
-  },
-  '13-foto-estudio-rebel-frente': {
-    id: '13-foto-estudio-rebel-frente',
-    filename: '13-foto-estudio-rebel-frente.jpg',
-    path: './assets/13-foto-estudio-rebel-frente.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider Rebel Pilot',
-    view: 'frente-estudio-hispano',
-    description: 'Fotografía editorial de estudio ultra realista y limpia (cero texto flotante): modelo masculino hispano en Naranja Vuelo Rebelde (#D84315) luciendo el canesú de pecho blanco integrado (#F0EFEB) dividido verticalmente por la cremallera perimétrica completa, mangas con alforzas y bolsillos cargo con reatas.',
-    sourceReference: './assets/05-figurin-rebel-pilot-frente.jpg',
-    status: 'active',
-    approved: true
-  },
-  '14-foto-estudio-rebel-espalda': {
-    id: '14-foto-estudio-rebel-espalda',
-    filename: '14-foto-estudio-rebel-espalda.jpg',
-    path: './assets/14-foto-estudio-rebel-espalda.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider Rebel Pilot',
-    view: 'espalda-estudio-hispano',
-    description: 'Fotografía editorial de estudio dorsal ultra realista y limpia (cero texto flotante): modelo masculino hispano girando el rostro en tres cuartos mostrando el gran emblema Starbird fénix de la Alianza Rebelde en blanco marfil, alforzas en mangas y solapa drop-seat con banda reflectiva plata.',
-    sourceReference: './assets/06-figurin-rebel-pilot-espalda.jpg',
-    status: 'active',
-    approved: true
-  },
-  '15-foto-estudio-rebel-perfil': {
-    id: '15-foto-estudio-rebel-perfil',
-    filename: '15-foto-estudio-rebel-perfil.jpg',
-    path: './assets/15-foto-estudio-rebel-perfil.jpg',
-    category: 'editorial',
-    garment: 'Enterizo Over-Rider Rebel Pilot',
-    view: 'perfil-3-4-estudio-hispano',
-    description: 'Fotografía editorial de estudio en ángulo 3/4 lateral y limpia (cero texto flotante): modelo masculino hispano destacando el relieve continuo de alforzas nervadas horizontales en la manga, parche circular en muñeca, bolsillos cargo con reatas y cremallera continua hasta la bota.',
-    sourceReference: './assets/05-figurin-rebel-pilot-frente.jpg',
     status: 'active',
     approved: true
   }
